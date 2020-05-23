@@ -1,260 +1,187 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://mach17.github.io/mAchblog_/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mach17.github.io/mAchblog_/" rel="alternate" type="text/html" /><updated>2020-05-23T07:57:59-05:00</updated><id>https://mach17.github.io/mAchblog_/feed.xml</id><title type="html">fastpages</title><subtitle>An easy to use blogging platform with support for Jupyter Notebooks.</subtitle><entry><title type="html">Corona_info</title><link href="https://mach17.github.io/mAchblog_/2020/05/22/corona_info.html" rel="alternate" type="text/html" title="Corona_info" /><published>2020-05-22T00:00:00-05:00</published><updated>2020-05-22T00:00:00-05:00</updated><id>https://mach17.github.io/mAchblog_/2020/05/22/corona_info</id><content type="html" xml:base="https://mach17.github.io/mAchblog_/2020/05/22/corona_info.html">&lt;h1 id=&quot;what-we-know-about-coronavirus--what-to-do-and-what-not-to-&quot;&gt;What we know about CoronaVirus ? What to do and what not to ?&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://mach17.github.io/mAchblog_/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mach17.github.io/mAchblog_/" rel="alternate" type="text/html" /><updated>2020-05-23T07:58:22-05:00</updated><id>https://mach17.github.io/mAchblog_/feed.xml</id><title type="html">fastpages</title><subtitle>An easy to use blogging platform with support for Jupyter Notebooks.</subtitle><entry><title type="html">Aihysteria</title><link href="https://mach17.github.io/mAchblog_/2020/05/23/AIHysteria.html" rel="alternate" type="text/html" title="Aihysteria" /><published>2020-05-23T00:00:00-05:00</published><updated>2020-05-23T00:00:00-05:00</updated><id>https://mach17.github.io/mAchblog_/2020/05/23/AIHysteria</id><content type="html" xml:base="https://mach17.github.io/mAchblog_/2020/05/23/AIHysteria.html">&lt;h1 id=&quot;some-thoughts-around-the-ai-hysteria-being-created-from-quora-answers&quot;&gt;Some thoughts around the AI hysteria being created [From Quora answers]&lt;/h1&gt;
 
-&lt;p&gt;I decided to write this as new cases of CoronaVirus have come up in India in early March 2020. I thus want to make as much information publicly (and easily) available.&lt;/p&gt;
+&lt;p&gt;Some answers I wrote regarding the AI hysteria that is being created using misinformation, fake news and sensationalism.&lt;/p&gt;
 
-&lt;p&gt;Surprisingly, we don’t know a lot about the virus ! For Science, answers to a lot of questions are “We don’t know”. With the bombardment of facts and opinions coming to you through social media, you should understand what is True and what is a guess.&lt;/p&gt;
+&lt;h3 id=&quot;my-answer-to-artificial-intelligence-will-or-may-lead-to-an-unanticipated-crisis-if-it-starts-to-code-itself-how-true-is-it&quot;&gt;My answer to “Artificial intelligence will or may lead to an unanticipated crisis if it starts to code itself? How true is it?”&lt;/h3&gt;
 
-&lt;h1 id=&quot;what-is-coronavirus-and-where-does-it-come-from-&quot;&gt;What is CoronaVirus and where does it come from ?&lt;/h1&gt;
+&lt;p&gt;Originally answered here: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/TSC6dR&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;Coronavirus is a very common species of virus. It is found in different animals and generally doesn’t effect humans.&lt;/p&gt;
+&lt;p&gt;Chill!! People who are asking such questions need to first of all stop worrying and stop reading media articles trying to scare them.&lt;/p&gt;
 
-&lt;p&gt;However the nCov (novel Coronavirus) is a particular type of coronavirus which causes COVID19 disease. The disease that is wreaking a havoc in China, South Korea, Italy ands Iran and many people have already died. COVID19 can cause Flu-like symptoms and can grow to severe pneumonia or organ failure causing deaths.&lt;/p&gt;
+&lt;p&gt;We are decades (maybe centuries) away from totally automating tasks which require such high level of mental capability. Present Artificial Intelligence can at best approximate tasks which require 2–3 seconds of human decision making that is all. Also most AI we have developed right now is not &lt;a href=&quot;https://en.wikipedia.org/wiki/Artificial_general_intelligence&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Artificial general intelligence - Wikipedia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;underline&quot;&gt;https://www.statnews.com/2020/02/14/disease-modelers-see-future-of-covid-19/&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;(the one which you watch on movies) but task specific algorithms. We have not even created Terminator/Skynet 0.0.1 yet.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-corona_info/media/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;To answer your question directly, it might be a problem if AI starts implementing a better AI itself, thus increasing its capability at a superhuman rate making humans obsolete. But this is like hundreds of other low probability doomsday scenarios like an Alien civilization attacking and colonizing us or Earth’s capability to support life getting over. So no point worrying about it in real life.&lt;/p&gt;
 
-&lt;p&gt;The trouble with COVID19 is that while it is very contagious like the common flu, it is really deadly. (A preprint from a Chinese study centre says it kills upto 4% of the people it infects). A lot more people will experience severe symptoms when they contract the disease.&lt;/p&gt;
+&lt;h3 id=&quot;my-answer-to-what-is-deepfake-technology&quot;&gt;My answer to “What is Deepfake technology?”&lt;/h3&gt;
 
-&lt;p&gt;Cite: &lt;span class=&quot;underline&quot;&gt;https://www.medrxiv.org/content/10.1101/2020.02.10.20021675v2&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Originally answered here: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNnxiL&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;There are other studies that show morality rate to be between 1%-2% as well.&lt;/p&gt;
+&lt;p&gt;Deepfake is essentially creating fake images/videos/audio/text using Deep Learning techniques.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-corona_info/media/image2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;For example, if you remember a recent viral app which used to create images of how a person would look if they were old or applied makeup, the images it was creating were fake images generated by AI.&lt;/p&gt;
 
-&lt;p&gt;The coronavirus which causes COVID19 was not around until a few days back. It is a mixture of two different Coronavirus strains from two different animals. Bats have a unique type of immune system (ie, it is always working at full capacity to defect against viruses), so the virus which have evolved to attack bats are really fast to spread so that they can overwhelm the immune system. When such viruses evolve to attack humans, they become very deadly as unlike bats, human immune system triggers after it is sure of an infection. This viruses thus find it relatively easier to overwhelm human immune system than in bats.&lt;/p&gt;
+&lt;p&gt;However, the term “Deepfake” is generally used for describing negative usage of such technologies.&lt;/p&gt;
 
-&lt;p&gt;Bats have been source of many different viruses that have effected humans in recent years. SARS (last decade in China), Ebola (few years back in Liberia and surrounding countries in Africa), Nipah virus (few years back in India) all came from bats. With humans intruding into natural habitats (forests) of bats, the frequency of encounters is bound to go up.&lt;/p&gt;
+&lt;p&gt;So you can have someone’s face placed in an objectionable photograph, someone being made to speak fake things they never said in a video and a fake audio in someone’s voice or just a fake news article using Generative Deep Learning algorithms.&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;underline&quot;&gt;https://phys.org/news/2020-02-coronavirus-outbreak-viruses-deadly.html&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;For example there are websites where objectionable videos of celebrities are created by morphing their faces into existing pornography using Deep Learning. There is also danger of a video being made with a politician being made to say something that they have not using such technology to sway the public opinion.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-corona_info/media/image3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;It isn’t that such fake photographs or videos or audio cannot be created by humans. They can be and have been created in the past and even now. Just that Deep Learning algorithms bring “automation” to it, that is they can now be created in large quantities without human involvement.&lt;/p&gt;
 
-&lt;p&gt;What makes the matter even worst is the consumption of wild animals as meat in some areas of the world. This leads to unregulated sales of wild animal meat in open markets. In Africa’s Ebola outbreak, bushmeat consumption is what causes the Ebola virus to evolve into the deadly thing it became. &lt;a href=&quot;https://www.cdc.gov/importation/bushmeat.html&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Bushmeat Importation Policies | CDC&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I will put some examples here which you can see and understand how AI can generate video/image/text samples :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-corona_info/media/image4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Generating Videos Using Deep Learning&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;In China, wet markets , or markets where exotic animals and seafood are kept together and killed for human consumption are supposed to be the cause of Coronavirus outbreak. The bat coronavirus is not able to infect humans directly. However, there was a transfer of the virus from bats to most probably pangolins when they were kept together or their body fluids got mixed before they became capable enough to attack humans.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://aliaksandrsiarohin.github.io/first-order-model-website/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;First order model&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;underline&quot;&gt;https://medicalxpress.com/news/2020-02-pangolin-potential-link-coronavirus.html&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;:&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;underline&quot;&gt;https://phys.org/news/2020-02-illegally-trafficked-pangolins-link-coronavirus.html&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Video:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-corona_info/media/image5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/AliaksandrSiarohin/first-order-model/master/sup-mat/vox-teaser.gif&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://raw.githubusercontent.com/AliaksandrSiarohin/first-order-model/master/sup-mat/vox-teaser.gif&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;However, it seems that the Pangolin discovery was an incorrect one. All we know is Bat Coronavirus merged with another strain and became nCov we know today. So we don’t yet fully know how the virus originated.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Generating Images Using Deep Learning&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;underline&quot;&gt;https://www.nature.com/articles/d41586-020-00548-w&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-corona_info/media/image6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;SARS, another Coronavirus outbreak in the previous decade was caused due to human consumption of civets.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-corona_info/media/image7.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Remember while the nCov originated in animals, it has the capability to spread from person to person. So don’t be under the assumption if you avoid animals you are not at risk. nCov somewhat spreads like common cold and flu.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Now, that we know where did the virus come from, we can now understand how it spreads. Coronavirus is slightly heavy as compared to the common cold virus, rhinovirus. So the probability of it being aerosolized as an infected person sneezes or coughs are slightly lower. And even if that happens, the virus will be able to travel less distance in air.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;So, stand away from people showing symptoms like sneezing and coughing.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;However, people can infect doorknobs, mobile screens, washroom faucets when they touch these objects. The virus can then be picked by other people when they use the objects upto a week after an infected person touches them.&lt;/p&gt;
-
-&lt;p&gt;If the virus reaches a new person’s hands, it will not get into by skin, but when they touch eyes, ears, nose or mouth with these hands without washing. If an infected person sneezes or coughs very close to an uninfected person’s face, water droplets can enter their eyes or mouth directly.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;So, wash your hands very very often with a disinfectant like Dettol etc. Also when in a supposedly infected area, cover your nose, mouth and eyes with a mask and glasses. When used, dispose these object cleverly and wash hands afterwards.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-corona_info/media/image8.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;People have also started inventing clever touch-less buttons etc. to avoid getting in touch of infected surfaces.&lt;/p&gt;
-
-&lt;p&gt;My friend CTT came up with a very interesting design for proximity sensing, no-contact elevator buttons- that still provide the satisfying visual movement of being pressed. &lt;a href=&quot;https://t.co/fpUEs4mLQ8&quot;&gt;&lt;span class=&quot;underline&quot;&gt;pic.twitter.com/fpUEs4mLQ8&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Semi-supervised StyleGAN: Disentanglement is through mutual information loss. Propose new metrics for measuring disentanglement in generator. Take-away: small amount of supervision is enough for disentanglement and high-res generation &lt;a href=&quot;https://twitter.com/NVIDIAAI?ref_src=twsrc^tfw&quot;&gt;&lt;span class=&quot;underline&quot;&gt;@NVIDIAAI&lt;/span&gt;&lt;/a&gt; &lt;a href=&quot;https://t.co/FDh26WbiQQ&quot;&gt;&lt;span class=&quot;underline&quot;&gt;pic.twitter.com/FDh26WbiQQ&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;— Naomi Wu 机械妖姬 (@RealSexyCyborg) &lt;a href=&quot;https://twitter.com/RealSexyCyborg/status/1227454423699509254?ref_src=twsrc^tfw&quot;&gt;&lt;span class=&quot;underline&quot;&gt;February 12, 2020&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;— Anima Anandkumar (hiring) (@AnimaAnandkumar) &lt;a href=&quot;https://twitter.com/AnimaAnandkumar/status/1237993418405466112?ref_src=twsrc^tfw&quot;&gt;&lt;span class=&quot;underline&quot;&gt;March 12, 2020&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;em&gt;The following section about growth was written in early February and in China the growth rate seems to have slowed down since then, however, outside China you can see a similar growth rate in Korea, Iran etc. :&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/animesh_garg/status/1237756934662623232/photo/1&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Animesh Garg on Twitter&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Remember, prevention is the only thing possible right now. There is no known cure as of 15th Feb. Many medicines are being given a trial and we might have one soon, in a few months, years or maybe never.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Generating Text Using Deep Learning&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;If you look at NN Taleb’s predictions, the virus will spread like wildfire. Surprisingly, the virus has been following an exponential curve for sometime as expected.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://openai.com/blog/better-language-models/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Better Language Models and Their Implications&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-corona_info/media/image9.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-23-AIHysteria/media/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-corona_info/media/image10.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;my-answer-to-should-we-be-worried-about-deep-fakes-and-the-misuse-of-facial-recognition&quot;&gt;My answer to “Should we be worried about deep fakes and the misuse of facial recognition?”&lt;/h3&gt;
 
-&lt;p&gt;In general, some tips :&lt;/p&gt;
+&lt;p&gt;Originally answered here: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/Tx6CUl&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;I think the only aspect of Artificial Intelligence that can disrupt our world for a very long time to come is going to be DeepFakes. The reason is not because the technology is itself very harmful, the reason is because humans are emotional and don’t really put a thought before believing and sharing videos or voice messages. You could basically generate photos , videos and voice clips of a person doing/saying whatever you want using these techniques. I will not be surprised if fake media created by these technology be used to instigate violence or bad faith. In a world where fake news is widespread and fake news busters can spread fake news too, it is going to be big challenge to tackle Deepfakes.&lt;/p&gt;
+
+&lt;p&gt;The misuse of facial recognition is actually somewhat fearmongering and luddism. It probably makes the world somewhat less private, but every technology since the invention of cameras has done so for a very long time and its a continuing trend since years. I think the probability of using Face Recognition for bad purposes is not that high. That said, I think there are already regulations in place in various countries to make sure Facial Recognition cannot be used to harm people.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-answer-to-why-deep-mind-ai-of-google-failed-to-answer-1111111&quot;&gt;My answer to “Why Deep mind AI of Google failed to answer 1+1+1+1+1+1+1?”&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here: &lt;a href=&quot;https://qr.ae/pNnedF&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNnedF&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Many assumptions in the question appear wrong:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;Avoid crowds and travel unless absolutely necessary. This reduces the probability of you getting in contact with the virus.&lt;/p&gt;
+      &lt;p&gt;Deepmind is a company, its not an AI.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;Keep some long shelf life products like rice, grams etc ready at home.&lt;/p&gt;
+      &lt;p&gt;The way you refer to AI, it feels like you are talking about &lt;a href=&quot;https://en.wikipedia.org/wiki/Artificial_general_intelligence&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Artificial general intelligence – Wikipedia&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
     &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Try having a Water purification system that works without electricity too. You dont want to increase risk of other water borne infections.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Stock medicines for other conditions like fever etc and for hypertension, high BP, diabetes if someone has the conditions in your family.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Avoid shaking hands and try staying away from other crowds and unnecessary travelling. Going out in crowds increases your risk factor for contracting coronavirus.&lt;/p&gt;
-    &lt;/blockquote&gt;
+
+    &lt;p&gt;Most AI we have in the world (and most of what Deepmind builds) is &lt;a href=&quot;https://en.wikipedia.org/wiki/Weak_AI&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Weak AI - Wikipedia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-corona_info/media/image11.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;!-- end list --&gt;
 
-&lt;p&gt;Remember, this is way more serious than common flu unlike what many MSM outlets are saying.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;AGI (Artificial General Intelligence) is a theoretical future where computers can learn any new task when presented to them like humans, is decades if not centuries away. Weak AI means a Computer needs to be programmed to perform one task, like detecting cavity in teeth or playing Atari games.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;If the answer has made you panic, here is some Simpsons (predicts future) humor:&lt;/p&gt;
+&lt;!-- end list --&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-corona_info/media/image12.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Weak AI variant for problems like “1 + 1 + 1 … “ exists. That is simple mathematical expression parsing and evaluation. What Deepmind was trying to do was to use a Weak AI model generally used to look for features in language (LSTMs are the algorithm) to solve mathematical problems. All it tells is Weak AI algorithms to extract features on Natural Language cannot learn to solve Mathematical problem as of now.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Also , here is an Indian Newspaper reporting the humor as if it is real news:&lt;/p&gt;
+&lt;!-- end list --&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://economictimes.indiatimes.com/magazines/panache/the-simpsons-predicts-the-future-again-episode-cited-as-a-prophecy-of-the-coronavirus/articleshow/73949972.cms&quot;&gt;&lt;span class=&quot;underline&quot;&gt;‘The Simpsons’ predicts the future, again: Episode cited as a prophecy of the coronavirus&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Please don’t read pop sci articles on AI like these: &lt;a href=&quot;https://www.techtimes.com/articles/241193/20190410/googles-deepmind-failed-a-high-school-level-math-test-what-does-this-mean.htm&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Google’s DeepMind Failed A High School Level Math Test: What Does This Mean?&lt;/span&gt;&lt;/a&gt; . They are just not informative enough and misguide.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Now for people who like reading specific answers, I will write answers for various FAQs:&lt;/p&gt;
+&lt;h3 id=&quot;my-answer-to-what-you-think-about-data-scientists-automated-and-unemployed-by-2025-article&quot;&gt;My answer to “What you think about “Data Scientists Automated and Unemployed by 2025?” article?”&lt;/h3&gt;
 
-&lt;h2 id=&quot;q1-are-vegetarians-immune-to-covid19-&quot;&gt;Q1. Are vegetarians immune to COVID19 ?&lt;/h2&gt;
+&lt;p&gt;Link to original answer : &lt;a href=&quot;https://www.quora.com/What-you-think-about-Data-Scientists-Automated-and-Unemployed-by-2025-article/answers/16871059&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://www.quora.com/What-you-think-about-Data-Scientists-Automated-and-Unemployed-by-2025-article/answers/16871059&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;A1. COVID19 originated in wet markets selling meat, but it now has human to human transfer capacity like Common Cold and Flu. Staying away from animals reduces risk of coronavirus contraction, but there is no guarantee that no animal contact makes you safe. So no, vegetarians are not immune to COVID 19.&lt;/p&gt;
+&lt;p&gt;The so called Data Scientists who use off the shelf Machine Learning algorithms on simple data WILL be automated pretty soon, infact Amazon/Azure/Google ML services already do so. To be frank, calling sklearn.fit_predict with different parameters is not really hard and is kind of repetitive.&lt;br /&gt;
+The real world is slightly different, A lot of real world Data Scientists are actually Data Mungers, who clean/transform the data (which is really hard to automate), and then Hyperparameter adjusters who apply black box algorithms on top of it (which is easy to automate).&lt;br /&gt;
+Other easy repetitive tasks, which involve simple repetitive work and involve humans for the hack of it (say Data Entry Operators, Customer Support chat people, ) are being automated at a steep rate too. Surprisingly, some aspects of art (some form of painting, music, lyrics writing) is being automated too, which I thought was impossible to.&lt;br /&gt;
+The day to day tasks of actual Data Scientists, say working at Facebook AI research and Google Brain (writing different Artificial Intelligence agents) will be one of the last to be automated, as it is generally very hard. So I think they will be one of the last in last in the  line of losing “survival of the fittest” battle to Machines. A time when Machine can deduce algorithms is still far off in future.&lt;/p&gt;
 
-&lt;h2 id=&quot;q2-are-masks-helpful-or-not-&quot;&gt;Q2. Are masks helpful or not ?&lt;/h2&gt;
+&lt;h3 id=&quot;my-answer-to-what-will-be-the-need-for-humans-if-we-automate-everything-with-machine-learning-and-robotics-what-will-humans-do-in-the-future&quot;&gt;My answer to “What will be the need for humans if we automate everything with machine learning and robotics? What will humans do in the future?”&lt;/h3&gt;
 
-&lt;p&gt;A2. CoronaVirus is a heavier virus when compared to say common cold. So it cannot stay suspended in air for very long. This means that if you are standing away from an infected person (2 Meters +), there is a very low probability of virus contraction from air. So that means you do not need masks as long as you are in spaces where people aren’t too closeby to you. Only in places where infection is widespread (like hospitals) and in cases where you have to get too close to people infected with CoronaVirus, you should use a mask. Also please note using a mask is almost useless without using protective eye wear. When you use a mask, you should dispose it off well and wash your hands after removing the mask. Please note its better to avoid infected places and mass gatherings than using masks. Not only masks are not 100% effective, you also choke the supply for health workers who require these to take care of the sick. Please read the directions if you choose to wear masks : &lt;a href=&quot;https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks&lt;/span&gt;&lt;/a&gt; . Also remember to not buy and stockpile masks, this creates shortage and health workers need them much more than you do.&lt;/p&gt;
+&lt;p&gt;Link to original answer here: &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://www.quora.com/What-will-be-the-need-for-humans-if-we-automate-everything-with-machine-learning-and-robotics-What-will-humans-do-in-the-future/answer/Muktabh-Mayank&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;q3-as-a-normal-person-what-is-the-most-effective-way-to-avoid-infection-&quot;&gt;Q3. As a normal person, what is the most effective way to avoid infection ?&lt;/h2&gt;
+&lt;p&gt;Why is it necessary for humans to work ? Do any other species of plants and animals work jobs ? Don’t other species live ? Is the only purpose of human existence to make Excel and Powerpoint sheets or write Python code ? These are deep metaphysical questions which are more philosophical and have no real (only theoretical ) answers. Also this is not my answer.&lt;/p&gt;
 
-&lt;p&gt;A3. Minimize going into public places. That is the most effective method and reduces the probability of you catching the infection by a lot. Keep washing your hands frequently using alcohol sanitizers or soap. It has been scientifically proven that it works quite well. Avoid touching your eyes, mouth or nose unnecessarily. If you feel a strong need to do so, clean your hands before doing so. The disease seems to be spreading through contaminated surfaces like door knobs, lift buttons, phone screens etc. Practice hand hygiene after touching any such possible surface. &lt;span class=&quot;underline&quot;&gt;https://twitter.com/layallivs/status/1234849244709883905?s=08&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The more practical answer is that automation has always been coming, jobs have always been automated. Shoe Makers were automated by factories and chariot drivers and horse tamers were automated by cars. What always happens is new jobs were created every time (factory workers, car drivers) requiring lesser number of humans, so that humans could engage in more intellectually demanding fields. The same is happening now, with incoming AI technology, jobs are changing. The difference is that while it took generations earlier for a change to reflect, people will see drastic changes in their lifetime (that’s probably the only challenge I see, people will not really be able to “settle” on a career for all their lives pretty soon and will require to learn-unlearn many times in their lifetime) . &lt;strong&gt;The (wrongful) fear is because we see only one aspect of it, not the other side. AI does automate stuff, but sum of human achievements is not a Zero Sum game, it will grow larger.&lt;/strong&gt; While you might not be required to enter data in Excel (one random example) searching web due to AI, a bigger intellectual challenge can be taken over by same person than Excel data entry (like say solving Cancer).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-corona_info/media/image13.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;my-answer-to-will-data-science-and-machine-learning-get-automated-leading-to-lesser-opportunities-for-data-scientists&quot;&gt;My answer to “Will data science and machine learning get automated leading to lesser opportunities for data scientists”&lt;/h3&gt;
 
-&lt;h2 id=&quot;q4-isnt-the-covid19-just-another-flu-&quot;&gt;Q4. Isn’t the COVID19 just another Flu ?&lt;/h2&gt;
+&lt;p&gt;Originally answered here: &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://www.quora.com/Will-data-science-and-machine-learning-get-automated-leading-to-lesser-opportunities-for-data-scientists-as-per-https-www-datasciencecentral-com-profiles-blogs-data-scientists-automated-and-unemployed-by-2025-update/answer/Muktabh-Mayank&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;A4. No, its not. COVID19 has a way higher fatality rate (best estimates around 1- 2%) and need for hospitalization rate than normal Flu from what we know. There is no comparison. For elderly people, the mortality rate can be as high as 1 in 3. You should make sure you dont act as a carrier for virus infecting elderly people. Luckily, for people younger than 20 years, COVID mortality rate is really less.&lt;/p&gt;
+&lt;p&gt;Yes. (2025 is not the date I think its going to happen, but its inevitable and will happen in near future). They will be to a good extent. So will be Software Developers, designers, manual workers, teachers, linguists, musicians, game developers etc,etc. There are already rudimentary projects like &lt;a href=&quot;https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Turning Design Mockups Into Code With Deep Learning&lt;/span&gt;&lt;/a&gt; which can turn a design mockup into HTML/CSS code, &lt;a href=&quot;https://github.com/carpedm20/ENAS-pytorch&quot;&gt;&lt;span class=&quot;underline&quot;&gt;carpedm20/ENAS-pytorch&lt;/span&gt;&lt;/a&gt; which can design neural networks without a Data Scientist, &lt;a href=&quot;https://www.forbes.com/sites/janakirammsv/2018/04/15/why-automl-is-set-to-become-the-future-of-artificial-intelligence/#5bfa74e0780a&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Why AutoML Is Set To Become The Future Of Artificial Intelligence&lt;/span&gt;&lt;/a&gt; , system which can generate new characters for games, &lt;a href=&quot;http://www.business-standard.com/article/international/microsoft-ai-can-translate-chinese-to-english-just-as-accurately-as-humans-118031500414_1.html&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Microsoft AI can translate Chinese to English just as accurately as humans&lt;/span&gt;&lt;/a&gt; , &lt;a href=&quot;https://www.computing.co.uk/ctg/news/3028065/baidus-deep-voice-can-clone-speech-with-less-than-four-seconds-of-training&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Baidu’s Deep Voice can clone speech with less than four seconds of training | Computing&lt;/span&gt;&lt;/a&gt; and multiple such projects.&lt;/p&gt;
 
-&lt;h2 id=&quot;q5-it-doesnt-seem-to-be-as-deadly-as-say-ebola-why-so-much-worry-&quot;&gt;Q5. It doesn’t seem to be as deadly as say Ebola. Why so much worry ?&lt;/h2&gt;
+&lt;p&gt;OpanAI’s new project can generate programs given specs : &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://www.youtube.com/watch?v=utuz7wBGjKM&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;A5. Because COVID19 follows textbook definition of Viral. If it starts spreading, it spreads at a rapid rate and 2% of a large number can be a very high number. For example, if allowed to spread unconstrained, it can spread to population as large as 40%-70% of the entire world. That’s over 3 Billion people. 2% of 3 Billion is 60 Million lives! That would be a terrible terrible loss.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-23-AIHysteria/media/image2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;q6-does-the-virus-die-in-hothumid-temperatures-&quot;&gt;Q6. Does the virus die in hot/humid temperatures ?&lt;/h2&gt;
+&lt;p&gt;Look at the artificially drawn faces by latest GANs , designers will find it harder to compete with the new quality. &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://youtu.be/XOxxPcy5Gr4&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;A6. Maybe. We don’t know for sure. It might be that the virus becomes inactive in hot and humid weather. That conclusion comes from that it has spread less in tropics than temperate/cold climate. But this might just be a co-incidence. As of 4&lt;sup&gt;th&lt;/sup&gt; March 2020, you cannot be sure that the virus will not spread in your vicinity because of it being hot and humid.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-23-AIHysteria/media/image3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;q7-why-is-india-still-getting-an-increased-number-of-coronavirus-cases-per-day-if-they-are-locked-down-for-a-while&quot;&gt;Q7. Why is India still getting an increased number of coronavirus cases per day if they are locked down for a while?&lt;/h2&gt;
+&lt;p&gt;AI will impact every job profile which exists as of now, Data Scientists no exception, automating some or a lot of work people spend their time on. For a lot of time these systems will become a &amp;lt;Man + Machine&amp;gt; AI systems rather than just a Human working before stuff is totally automated. So its not like everyone becomes redundant day 1, but they will eventually.&lt;/p&gt;
 
-&lt;p&gt;That is quite simple:&lt;/p&gt;
+&lt;p&gt;Full Automation of any field is going to take way longer than 2025 IMHO. That said, yes a lot less people will be needed for the same task as of today. Then what will people do you ask ? newer more complex tasks.&lt;/p&gt;
+
+&lt;p&gt;Automation is not a new phenomenon. Think about the railway breaks a long time back: &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://youtu.be/EEUkmP2nyxo&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-23-AIHysteria/media/image4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So much work was once needed to just stop the train. A lot lesser work is needed today to run/stop the train and not just that, slowly trains are moving towards full automation, but right now they are in a &amp;lt;man + machine&amp;gt; stage. A lot of jobs will stay in this phase for sometime before full automation kicks in. But unlike railways, which take generations to move from one stage of automation to another, AI is causing changes at a phase at a very high rate.&lt;/p&gt;
+
+&lt;p&gt;What is the effect on a general Data Scientist (or any white/blue collared worker for that matter):&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;Most of the people as of now (24th March) tested positive for CoronaVirus are Indian and Foreign citizens who returned from abroad (the remaining ones are people who came in contact with this). While India stopped visas a long time back, its own citizens from abroad were thronging to our airports (its just two days back all international traffic was stopped). Our citizens continued entering just upto two days back. About 26000 people entered Mumbai from Dubai, we have no way to control infection amongst people who are arriving pre-infected here. &lt;a href=&quot;https://economictimes.indiatimes.com/news/politics-and-nation/coronavirus-worst-hit-maharashtra-set-to-welcome-26000-gulf-returnees/articleshow/74706096.cms&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Coronavirus: Worst-hit Maharashtra set to welcome 26,000 Gulf returnees&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-corona_info/media/image14.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;The number of Corona cases you see on Television is actually a snapshot of a few days to a few weeks back. Reason its is seen COVID19 doesn’t show symptoms immediately. It takes a few days to 2 weeks for symptoms to emerge and then people visit hospitals at different stages after the symptoms appear. They are spreading the virus all along. The lockdowns were imposed only a few days back.&lt;/p&gt;
+      &lt;p&gt;Adapt to AI. Automation has started, but AI aided jobs will stay for a few more years than non-AI jobs. So while no plain X jobs by 2025, X + AI jobs might be around till 2030.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;The first few days of lockdown were voluntary and while majority of people followed them, there were a few people who did not take it seriously. While the rate would have definitly fallen (we would see good numbers in a few days to weeks), but now that absolute lockdowns are being ensured, it should get even better beyond that.&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;
-        &lt;h2 id=&quot;q8-if-a-person-has-had-the-coronavirus-are-they-more-or-less-likely-to-contract-it-a-second-time&quot;&gt;Q8. If a person has had the coronavirus, are they more or less likely to contract it a second time?&lt;/h2&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Unfortunately, we don’t know that yet. We have opinions but no definite conclusion.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;CoronaVirus (not the recent one causing COVID19, but other more common types), along with RhinoVirus cause common cold and it seems the body doesn’t develop an immunity against that disease. You keep getting the cold every year, dont you ?&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.technologynetworks.com/immunology/news/why-dont-we-ever-develop-immunity-against-the-common-cold-294551&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Why Don’t We Ever Develop Immunity Against the Common Cold?&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;On the other hand, there are arguments like a certain portion of human population are innately immune against the COVID19 causing virus. If a few people can be immune, so can be all people with immunization/exposure.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.jpost.com/HEALTH-SCIENCE/Israeli-nobel-laureate-Coronavirus-spread-is-slowing-621145&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Coronavirus spread is slowing - Says Israeli Nobel Laureate&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;q9-as-there-is-no-vaccine-for-coronavirus-how-are-people-being-cured-of-it&quot;&gt;Q9. As there is no vaccine for coronavirus, how are people being cured of it?&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Vaccines don’t cure you from viruses. Your immune system cures you by destroying cells infected by viruses. The aim of a vaccine is to somehow make sure that your immune system is already ready with a response for a virus we know humans aren’t innately immune to. This is done by delivering a harmless entity like weakened virus or a clue to recognize the virus (protein etc) into the body so that immune system learns to recognize and kill beforehand.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In case of a novel virus (something never seen before), the body’s immune system has no clue about the virus and has to come up with a strategy to kill the virus while being infected. Novel-Coronavirus (SARS2 which causes COVID19) is a novel virus. Unlike a vaccine , where a body learns to fight the virus for free, here its a question of whether body can come up with a strategy to kill the virus before the virus does serious damage.&lt;/p&gt;
-
-&lt;p&gt;For a lot of people (over 95%), their bodies are able to come up with methods to beat the Novel-CoronaVirus when they get infected. (It is not known whether the body develops long term immunity post getting better though) . For the others, the results might be really bad :( . Specially people who have weakened immune systems (people take drugs to weaken immune response in various diseases), diabetes, high BP or weak lungs/organs due to smoking.&lt;/p&gt;
-
-&lt;p&gt;So for people whose immunity cannot fight off COVID19 (or even whose immunity can fight it off), another way to stop the virus is antiviral drugs. These drugs (generally) stop production of various viral proteins reducing/stopping the growth of virus, thus reducing the work of immune system to kill the virus. There are a few antiviral treatments that might be working for COVID19. We still have very primary data about it, but people are already using these drugs as last resort:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Hydroxy Choloroquin + Azithromycin seems to work in a trial in France. There have been other studies about Chloroquin derivatives in COVID19 outbreak as well as before it (during SARS outbreak in 2002). &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0924857920300996&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Things wont be like earlier generations where one skill learnt gets you a job for entire life. One needs to be open to learning new skills and get started in the middle of life.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;Meplazumab has been tried in China and seems to work well : &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2020.03.21.20040691v1&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Meplazumab treats COVID-19 pneumonia: an open-labelled, concurrent controlled add-on clinical trial&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Average level of education needed will be high. Think of it, 50 years back “High School” was all the education needed for most jobs. Now its somewhere between high school and graduation. Masters and Research might look like the next frontier, but these degrees are too slow and broad. Coursera like courses will become more important in catching new skillsets. You might already see people doing that a lot.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;Japanese drug Favipiravir has been found to be successful in a trial of 340 patients as claimed by China. &lt;a href=&quot;https://nypost.com/2020/03/18/japanese-flu-drug-clearly-effective-in-treating-coronavirus-officials-say/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Japanese flu drug ‘clearly effective’ in treating coronavirus, officials say&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;With more uncertainty in jobs, millenials probably will want to be a less “spend-y” and more frugal. You can see things happening already &lt;a href=&quot;https://www.businessinsider.in/6-reasons-why-more-millennials-arent-buying-homes/articleshow/59005530.cms&quot;&gt;&lt;span class=&quot;underline&quot;&gt;6 reasons why more millennials aren’t buying homes&lt;/span&gt;&lt;/a&gt; and will actually increase. AI is just a trend in a longer cycle of Automation and millenials are at a point in history where education+society was according to old norms but automation has reached a point where jobs have become uncertain. Younger people will be smarter.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Remdesivir might be another drug that could be proven in future to cure off the virus: &lt;a href=&quot;https://www.npr.org/sections/health-shots/2020/03/24/821035311/fda-grants-experimental-coronavirus-drug-benefits-for-rare-disease-treatments&quot;&gt;&lt;span class=&quot;underline&quot;&gt;FDA Grants Experimental Coronavirus Drug Benefits For Rare Disease Treatments&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;
-        &lt;p&gt;##&lt;/p&gt;
-
-        &lt;h2 id=&quot;q10-aside-from-a-pune-based-diagnostic-company-mylab-has-developed-the-first-made-in-india-test-kit-for-coronavirus-in-a-record-time-of-6-weeks-how-will-this-help-us-to-control-corona&quot;&gt;Q10. Aside from a Pune-based diagnostic company, myLab has developed the first made in India test kit for coronavirus in a record time of 6 weeks. How will this help us to control corona?&lt;/h2&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The more testing kits we have, more people we can test and isolate. Not just this, myLab kits also provide results fast. This helps stop spread by identifying all infected quickly by testing more suspects.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In a hypothetical condition, if the entire 1.3 Billion people are tested and people who have the virus are isolated, and everyone entering country is given a coronavirus test, the others can go about doing day-to-day work as if nothing has happened as there will be no danger of infection. Until this is not achieved heavy quarantine will be needed (the more you can test and isolate, the lesser quarantine is needed like South Korea). Importing 1.3 Billion kits will probably cost a huge chunk of India’s GDP ! If we could build it in house cheaply, it would be pretty good, not 1 Billion, then say 100 Million.&lt;/p&gt;
-
-&lt;p&gt;We have to make a model between China’s model and South Korea’s model. (that’s what government is doing)&lt;/p&gt;</content><author><name></name></author><summary type="html">What we know about CoronaVirus ? What to do and what not to ?</summary></entry><entry><title type="html">Indianstartups</title><link href="https://mach17.github.io/mAchblog_/2020/05/22/IndianStartups.html" rel="alternate" type="text/html" title="Indianstartups" /><published>2020-05-22T00:00:00-05:00</published><updated>2020-05-22T00:00:00-05:00</updated><id>https://mach17.github.io/mAchblog_/2020/05/22/IndianStartups</id><content type="html" xml:base="https://mach17.github.io/mAchblog_/2020/05/22/IndianStartups.html">&lt;h1 id=&quot;some-thoughts-about-indian-startup-scene-as-various-answers-to-quora-questions&quot;&gt;Some Thoughts about Indian Startup Scene (As various answers to Quora questions)&lt;/h1&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Some thoughts around the AI hysteria being created [From Quora answers]</summary></entry><entry><title type="html">Indianstartups</title><link href="https://mach17.github.io/mAchblog_/2020/04/14/IndianStartups.html" rel="alternate" type="text/html" title="Indianstartups" /><published>2020-04-14T00:00:00-05:00</published><updated>2020-04-14T00:00:00-05:00</updated><id>https://mach17.github.io/mAchblog_/2020/04/14/IndianStartups</id><content type="html" xml:base="https://mach17.github.io/mAchblog_/2020/04/14/IndianStartups.html">&lt;h1 id=&quot;some-thoughts-about-indian-startup-scene-as-various-answers-to-quora-questions&quot;&gt;Some Thoughts about Indian Startup Scene (As various answers to Quora questions)&lt;/h1&gt;
 
 &lt;h3 id=&quot;my-answer-to-how-can-you-define-the-indian-startup-economy&quot;&gt;My answer to “How can you define the Indian startup economy?&lt;/h3&gt;
 
@@ -620,7 +547,7 @@ D. If you want to enter healthcare AI and it seems your product needs a governme
 
 &lt;p&gt;This is because of lack of information. There is no doubt that there is a lot of hype but there are genuine AI first companies in India. If you don’t know about it, please don’t bundle them with the pretentious people you so hate. Hype startups is not a unique phenomenon to India and is very common in Silicon Valley. When a lot of probability of success is dependence upon “impressing” VCs to raise money, you cannot always blame entrepreneurs. &lt;a href=&quot;https://www.computing.co.uk/ctg/news/3084079/ai-snake-oil&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Much of what’s being sold as ‘AI’ today is snake oil, says Princeton professor | Computing&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-IndianStartups/media/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-04-14-IndianStartups/media/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Also a lot of problems in the real world can be solved with simpler technology and you really don’t need AI in everything. Making a startup a success is a hard thing (like really hard). Now you add to it the complexities that come with a AI startup (getting money to buy resources to support the technology and getting a team which can solve the problem statement and startups are expected to grow like crazy while AI research you do is kind of slow), you are basically talking about a way harder to succeed startup. Basically if your odds of succeeding in a startup is 1:100 , succeeding in a AI startup is say 1:500. So the ratio of successful people to pretentious people in AI startup communities is skewed towards the latter (given pretentious people are roughly in the same probability in every sector). I dont blame you too much for generalization, the world does look like that.&lt;/p&gt;
 
@@ -748,7 +675,7 @@ Indians pay for Education. The recent wave of eductech startups might also solve
 
 &lt;p&gt;India is one of the leaders in &lt;strong&gt;Clean Energy&lt;/strong&gt; :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-IndianStartups/media/image2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-04-14-IndianStartups/media/image2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Video URL Here: &lt;a href=&quot;https://youtu.be/fyqDC_AKVgE&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://youtu.be/fyqDC_AKVgE&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -766,7 +693,7 @@ Indians pay for Education. The recent wave of eductech startups might also solve
 
 &lt;p&gt;&lt;a href=&quot;https://www.thehindu.com/sci-tech/health/trusting-the-science/article25861183.ece&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Trusting the science&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-IndianStartups/media/image3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-04-14-IndianStartups/media/image3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;India has its own &lt;strong&gt;Artificial Intelligence&lt;/strong&gt; startup scene as you might have read above&lt;/p&gt;
 
@@ -778,7 +705,7 @@ Indians pay for Education. The recent wave of eductech startups might also solve
 
 &lt;p&gt;&lt;strong&gt;Quantum Computing&lt;/strong&gt; is still a very early stage technology and frankly I doubt a lot of “real” work is happening outside US, which is the innovation capital of the world.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;5G&lt;/strong&gt; is a lost cause, we have no companies that work in 5G technologies and all our telecom companies will be doing is paying huge sums of money to Chinese companies like Huawei to install these new cellphone networks. The technology will roll out soon in India, but it won’t be Indian technology as such.&lt;/p&gt;</content><author><name></name></author><summary type="html">Some Thoughts about Indian Startup Scene (As various answers to Quora questions)</summary></entry><entry><title type="html">Fresherdatascientists</title><link href="https://mach17.github.io/mAchblog_/2020/05/22/FresherDataScientists.html" rel="alternate" type="text/html" title="Fresherdatascientists" /><published>2020-05-22T00:00:00-05:00</published><updated>2020-05-22T00:00:00-05:00</updated><id>https://mach17.github.io/mAchblog_/2020/05/22/FresherDataScientists</id><content type="html" xml:base="https://mach17.github.io/mAchblog_/2020/05/22/FresherDataScientists.html">&lt;h1 id=&quot;machine-learning-jobs-for-beginnersfreshers--my-perspective-from-various-quora-answers&quot;&gt;Machine Learning Jobs for beginners/freshers : My Perspective from various Quora Answers&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;5G&lt;/strong&gt; is a lost cause, we have no companies that work in 5G technologies and all our telecom companies will be doing is paying huge sums of money to Chinese companies like Huawei to install these new cellphone networks. The technology will roll out soon in India, but it won’t be Indian technology as such.&lt;/p&gt;</content><author><name></name></author><summary type="html">Some Thoughts about Indian Startup Scene (As various answers to Quora questions)</summary></entry><entry><title type="html">Fresherdatascientists</title><link href="https://mach17.github.io/mAchblog_/2020/03/20/FresherDataScientists.html" rel="alternate" type="text/html" title="Fresherdatascientists" /><published>2020-03-20T00:00:00-05:00</published><updated>2020-03-20T00:00:00-05:00</updated><id>https://mach17.github.io/mAchblog_/2020/03/20/FresherDataScientists</id><content type="html" xml:base="https://mach17.github.io/mAchblog_/2020/03/20/FresherDataScientists.html">&lt;h1 id=&quot;machine-learning-jobs-for-beginnersfreshers--my-perspective-from-various-quora-answers&quot;&gt;Machine Learning Jobs for beginners/freshers : My Perspective from various Quora Answers&lt;/h1&gt;
 
 &lt;p&gt;I will collect some of my answers here regarding fresher Machine Learrning jobs in India as I have some experience in this domain and hire in this domain quite often&lt;/p&gt;
 
@@ -1002,7 +929,7 @@ Indians pay for Education. The recent wave of eductech startups might also solve
 
 &lt;p&gt;Yes. (2025 is not the date I think its going to happen, but its inevitable and will happen in near future). They will be automated to a good extent. So will be Software Developers, designers, manual workers, teachers, linguists, musicians, game developers etc,etc. There are already rudimentary projects like &lt;a href=&quot;https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Turning Design Mockups Into Code With Deep Learning&lt;/span&gt;&lt;/a&gt; which can turn a design mockup into HTML/CSS code, &lt;a href=&quot;https://github.com/carpedm20/ENAS-pytorch&quot;&gt;&lt;span class=&quot;underline&quot;&gt;carpedm20/ENAS-pytorch&lt;/span&gt;&lt;/a&gt; which can design neural networks without a Data Scientist, &lt;a href=&quot;_blank&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Why AutoML Is Set To Become The Future Of Artificial Intelligence&lt;/span&gt;&lt;/a&gt; , system which can generate new characters for games, &lt;a href=&quot;http://www.business-standard.com/article/international/microsoft-ai-can-translate-chinese-to-english-just-as-accurately-as-humans-118031500414_1.html&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Microsoft AI can translate Chinese to English just as accurately as humans&lt;/span&gt;&lt;/a&gt; , &lt;a href=&quot;https://www.computing.co.uk/ctg/news/3028065/baidus-deep-voice-can-clone-speech-with-less-than-four-seconds-of-training&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Baidu’s Deep Voice can clone speech with less than four seconds of training | Computing&lt;/span&gt;&lt;/a&gt; and multiple such projects.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-FresherDataScientists/media/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-03-20-FresherDataScientists/media/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Video Link : &lt;span class=&quot;underline&quot;&gt;https://youtu.be/XOxxPcy5Gr4&lt;/span&gt;&lt;/p&gt;
 
@@ -1012,7 +939,7 @@ Indians pay for Education. The recent wave of eductech startups might also solve
 
 &lt;p&gt;Automation is not a new phenomenon. Think about the railway breaks a long time back:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-FresherDataScientists/media/image2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-03-20-FresherDataScientists/media/image2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Video Link Here: &lt;span class=&quot;underline&quot;&gt;https://youtu.be/EEUkmP2nyxo&lt;/span&gt;&lt;/p&gt;
 
@@ -1053,11 +980,11 @@ Indians pay for Education. The recent wave of eductech startups might also solve
 
 &lt;p&gt;Working consistently on something for years makes one a master of the art. &lt;a href=&quot;https://en.wikipedia.org/wiki/Outliers_\(book\)&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Outliers (book) - Wikipedia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-FresherDataScientists/media/image3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-03-20-FresherDataScientists/media/image3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;People really good at their job (say in top 10%) are really sought after in any field, not just Machine Learning. They drive the innovation, solve open ended problems and hence they get the rewards.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-FresherDataScientists/media/image4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-03-20-FresherDataScientists/media/image4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;q-how-do-i-become-a-data-scientist-in-2020-in-india-by-self-teaching&quot;&gt;Q. How do I become a data scientist in 2020 in India by self-teaching?&lt;/h3&gt;
 
@@ -1107,190 +1034,263 @@ Indians pay for Education. The recent wave of eductech startups might also solve
       &lt;p&gt;3. This much will make you employable by many companies. If you still are trying to push to learn more, you will have to start reading research literature. This is not entirely necessary, but if you still want to, you should get yourself associated with some decent university group (or a research startup), where novel problem statements are being solved. This step is really hard without talking to peers, but if you are really self driven, Twitter is a good place to follow people and handles to learn about research while being outside the research world. &lt;a href=&quot;https://medium.com/@andreas_madsen/becoming-an-independent-researcher-and-getting-published-in-iclr-with-spotlight-c93ef0b39b8b&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Becoming an Independent Researcher and getting published in ICLR with spotlight&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">Machine Learning Jobs for beginners/freshers : My Perspective from various Quora Answers</summary></entry><entry><title type="html">Aihysteria</title><link href="https://mach17.github.io/mAchblog_/2020/05/22/AIHysteria.html" rel="alternate" type="text/html" title="Aihysteria" /><published>2020-05-22T00:00:00-05:00</published><updated>2020-05-22T00:00:00-05:00</updated><id>https://mach17.github.io/mAchblog_/2020/05/22/AIHysteria</id><content type="html" xml:base="https://mach17.github.io/mAchblog_/2020/05/22/AIHysteria.html">&lt;h1 id=&quot;some-thoughts-around-the-ai-hysteria-being-created-from-quora-answers&quot;&gt;Some thoughts around the AI hysteria being created [From Quora answers]&lt;/h1&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Machine Learning Jobs for beginners/freshers : My Perspective from various Quora Answers</summary></entry><entry><title type="html">Corona_info</title><link href="https://mach17.github.io/mAchblog_/2020/02/27/corona_info.html" rel="alternate" type="text/html" title="Corona_info" /><published>2020-02-27T00:00:00-06:00</published><updated>2020-02-27T00:00:00-06:00</updated><id>https://mach17.github.io/mAchblog_/2020/02/27/corona_info</id><content type="html" xml:base="https://mach17.github.io/mAchblog_/2020/02/27/corona_info.html">&lt;h1 id=&quot;what-we-know-about-coronavirus--what-to-do-and-what-not-to-&quot;&gt;What we know about CoronaVirus ? What to do and what not to ?&lt;/h1&gt;
 
-&lt;p&gt;Some answers I wrote regarding the AI hysteria that is being created using misinformation, fake news and sensationalism.&lt;/p&gt;
+&lt;p&gt;I decided to write this as new cases of CoronaVirus have come up in India in early March 2020. I thus want to make as much information publicly (and easily) available.&lt;/p&gt;
 
-&lt;h3 id=&quot;my-answer-to-artificial-intelligence-will-or-may-lead-to-an-unanticipated-crisis-if-it-starts-to-code-itself-how-true-is-it&quot;&gt;My answer to “Artificial intelligence will or may lead to an unanticipated crisis if it starts to code itself? How true is it?”&lt;/h3&gt;
+&lt;p&gt;Surprisingly, we don’t know a lot about the virus ! For Science, answers to a lot of questions are “We don’t know”. With the bombardment of facts and opinions coming to you through social media, you should understand what is True and what is a guess.&lt;/p&gt;
 
-&lt;p&gt;Originally answered here: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/TSC6dR&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&quot;what-is-coronavirus-and-where-does-it-come-from-&quot;&gt;What is CoronaVirus and where does it come from ?&lt;/h1&gt;
 
-&lt;p&gt;Chill!! People who are asking such questions need to first of all stop worrying and stop reading media articles trying to scare them.&lt;/p&gt;
+&lt;p&gt;Coronavirus is a very common species of virus. It is found in different animals and generally doesn’t effect humans.&lt;/p&gt;
 
-&lt;p&gt;We are decades (maybe centuries) away from totally automating tasks which require such high level of mental capability. Present Artificial Intelligence can at best approximate tasks which require 2–3 seconds of human decision making that is all. Also most AI we have developed right now is not &lt;a href=&quot;https://en.wikipedia.org/wiki/Artificial_general_intelligence&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Artificial general intelligence - Wikipedia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;However the nCov (novel Coronavirus) is a particular type of coronavirus which causes COVID19 disease. The disease that is wreaking a havoc in China, South Korea, Italy ands Iran and many people have already died. COVID19 can cause Flu-like symptoms and can grow to severe pneumonia or organ failure causing deaths.&lt;/p&gt;
 
-&lt;p&gt;(the one which you watch on movies) but task specific algorithms. We have not even created Terminator/Skynet 0.0.1 yet.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;underline&quot;&gt;https://www.statnews.com/2020/02/14/disease-modelers-see-future-of-covid-19/&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;To answer your question directly, it might be a problem if AI starts implementing a better AI itself, thus increasing its capability at a superhuman rate making humans obsolete. But this is like hundreds of other low probability doomsday scenarios like an Alien civilization attacking and colonizing us or Earth’s capability to support life getting over. So no point worrying about it in real life.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-02-27-corona_info/media/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;my-answer-to-what-is-deepfake-technology&quot;&gt;My answer to “What is Deepfake technology?”&lt;/h3&gt;
+&lt;p&gt;The trouble with COVID19 is that while it is very contagious like the common flu, it is really deadly. (A preprint from a Chinese study centre says it kills upto 4% of the people it infects). A lot more people will experience severe symptoms when they contract the disease.&lt;/p&gt;
 
-&lt;p&gt;Originally answered here: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNnxiL&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Cite: &lt;span class=&quot;underline&quot;&gt;https://www.medrxiv.org/content/10.1101/2020.02.10.20021675v2&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;Deepfake is essentially creating fake images/videos/audio/text using Deep Learning techniques.&lt;/p&gt;
+&lt;p&gt;There are other studies that show morality rate to be between 1%-2% as well.&lt;/p&gt;
 
-&lt;p&gt;For example, if you remember a recent viral app which used to create images of how a person would look if they were old or applied makeup, the images it was creating were fake images generated by AI.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-02-27-corona_info/media/image2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;However, the term “Deepfake” is generally used for describing negative usage of such technologies.&lt;/p&gt;
+&lt;p&gt;The coronavirus which causes COVID19 was not around until a few days back. It is a mixture of two different Coronavirus strains from two different animals. Bats have a unique type of immune system (ie, it is always working at full capacity to defect against viruses), so the virus which have evolved to attack bats are really fast to spread so that they can overwhelm the immune system. When such viruses evolve to attack humans, they become very deadly as unlike bats, human immune system triggers after it is sure of an infection. This viruses thus find it relatively easier to overwhelm human immune system than in bats.&lt;/p&gt;
 
-&lt;p&gt;So you can have someone’s face placed in an objectionable photograph, someone being made to speak fake things they never said in a video and a fake audio in someone’s voice or just a fake news article using Generative Deep Learning algorithms.&lt;/p&gt;
+&lt;p&gt;Bats have been source of many different viruses that have effected humans in recent years. SARS (last decade in China), Ebola (few years back in Liberia and surrounding countries in Africa), Nipah virus (few years back in India) all came from bats. With humans intruding into natural habitats (forests) of bats, the frequency of encounters is bound to go up.&lt;/p&gt;
 
-&lt;p&gt;For example there are websites where objectionable videos of celebrities are created by morphing their faces into existing pornography using Deep Learning. There is also danger of a video being made with a politician being made to say something that they have not using such technology to sway the public opinion.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;underline&quot;&gt;https://phys.org/news/2020-02-coronavirus-outbreak-viruses-deadly.html&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;It isn’t that such fake photographs or videos or audio cannot be created by humans. They can be and have been created in the past and even now. Just that Deep Learning algorithms bring “automation” to it, that is they can now be created in large quantities without human involvement.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-02-27-corona_info/media/image3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I will put some examples here which you can see and understand how AI can generate video/image/text samples :&lt;/p&gt;
+&lt;p&gt;What makes the matter even worst is the consumption of wild animals as meat in some areas of the world. This leads to unregulated sales of wild animal meat in open markets. In Africa’s Ebola outbreak, bushmeat consumption is what causes the Ebola virus to evolve into the deadly thing it became. &lt;a href=&quot;https://www.cdc.gov/importation/bushmeat.html&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Bushmeat Importation Policies | CDC&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Generating Videos Using Deep Learning&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-02-27-corona_info/media/image4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://aliaksandrsiarohin.github.io/first-order-model-website/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;First order model&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In China, wet markets , or markets where exotic animals and seafood are kept together and killed for human consumption are supposed to be the cause of Coronavirus outbreak. The bat coronavirus is not able to infect humans directly. However, there was a transfer of the virus from bats to most probably pangolins when they were kept together or their body fluids got mixed before they became capable enough to attack humans.&lt;/p&gt;
 
-&lt;p&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;underline&quot;&gt;https://medicalxpress.com/news/2020-02-pangolin-potential-link-coronavirus.html&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;Video:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;underline&quot;&gt;https://phys.org/news/2020-02-illegally-trafficked-pangolins-link-coronavirus.html&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/AliaksandrSiarohin/first-order-model/master/sup-mat/vox-teaser.gif&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://raw.githubusercontent.com/AliaksandrSiarohin/first-order-model/master/sup-mat/vox-teaser.gif&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-02-27-corona_info/media/image5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Generating Images Using Deep Learning&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;However, it seems that the Pangolin discovery was an incorrect one. All we know is Bat Coronavirus merged with another strain and became nCov we know today. So we don’t yet fully know how the virus originated.&lt;/p&gt;
 
-&lt;p&gt;Semi-supervised StyleGAN: Disentanglement is through mutual information loss. Propose new metrics for measuring disentanglement in generator. Take-away: small amount of supervision is enough for disentanglement and high-res generation &lt;a href=&quot;https://twitter.com/NVIDIAAI?ref_src=twsrc^tfw&quot;&gt;&lt;span class=&quot;underline&quot;&gt;@NVIDIAAI&lt;/span&gt;&lt;/a&gt; &lt;a href=&quot;https://t.co/FDh26WbiQQ&quot;&gt;&lt;span class=&quot;underline&quot;&gt;pic.twitter.com/FDh26WbiQQ&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;underline&quot;&gt;https://www.nature.com/articles/d41586-020-00548-w&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-02-27-corona_info/media/image6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;SARS, another Coronavirus outbreak in the previous decade was caused due to human consumption of civets.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-02-27-corona_info/media/image7.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Remember while the nCov originated in animals, it has the capability to spread from person to person. So don’t be under the assumption if you avoid animals you are not at risk. nCov somewhat spreads like common cold and flu.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, that we know where did the virus come from, we can now understand how it spreads. Coronavirus is slightly heavy as compared to the common cold virus, rhinovirus. So the probability of it being aerosolized as an infected person sneezes or coughs are slightly lower. And even if that happens, the virus will be able to travel less distance in air.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So, stand away from people showing symptoms like sneezing and coughing.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;However, people can infect doorknobs, mobile screens, washroom faucets when they touch these objects. The virus can then be picked by other people when they use the objects upto a week after an infected person touches them.&lt;/p&gt;
+
+&lt;p&gt;If the virus reaches a new person’s hands, it will not get into by skin, but when they touch eyes, ears, nose or mouth with these hands without washing. If an infected person sneezes or coughs very close to an uninfected person’s face, water droplets can enter their eyes or mouth directly.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So, wash your hands very very often with a disinfectant like Dettol etc. Also when in a supposedly infected area, cover your nose, mouth and eyes with a mask and glasses. When used, dispose these object cleverly and wash hands afterwards.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-02-27-corona_info/media/image8.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;People have also started inventing clever touch-less buttons etc. to avoid getting in touch of infected surfaces.&lt;/p&gt;
+
+&lt;p&gt;My friend CTT came up with a very interesting design for proximity sensing, no-contact elevator buttons- that still provide the satisfying visual movement of being pressed. &lt;a href=&quot;https://t.co/fpUEs4mLQ8&quot;&gt;&lt;span class=&quot;underline&quot;&gt;pic.twitter.com/fpUEs4mLQ8&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;— Anima Anandkumar (hiring) (@AnimaAnandkumar) &lt;a href=&quot;https://twitter.com/AnimaAnandkumar/status/1237993418405466112?ref_src=twsrc^tfw&quot;&gt;&lt;span class=&quot;underline&quot;&gt;March 12, 2020&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;— Naomi Wu 机械妖姬 (@RealSexyCyborg) &lt;a href=&quot;https://twitter.com/RealSexyCyborg/status/1227454423699509254?ref_src=twsrc^tfw&quot;&gt;&lt;span class=&quot;underline&quot;&gt;February 12, 2020&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/animesh_garg/status/1237756934662623232/photo/1&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Animesh Garg on Twitter&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The following section about growth was written in early February and in China the growth rate seems to have slowed down since then, however, outside China you can see a similar growth rate in Korea, Iran etc. :&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Generating Text Using Deep Learning&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Remember, prevention is the only thing possible right now. There is no known cure as of 15th Feb. Many medicines are being given a trial and we might have one soon, in a few months, years or maybe never.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://openai.com/blog/better-language-models/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Better Language Models and Their Implications&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you look at NN Taleb’s predictions, the virus will spread like wildfire. Surprisingly, the virus has been following an exponential curve for sometime as expected.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-AIHysteria/media/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-02-27-corona_info/media/image9.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;my-answer-to-should-we-be-worried-about-deep-fakes-and-the-misuse-of-facial-recognition&quot;&gt;My answer to “Should we be worried about deep fakes and the misuse of facial recognition?”&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-02-27-corona_info/media/image10.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Originally answered here: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/Tx6CUl&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;I think the only aspect of Artificial Intelligence that can disrupt our world for a very long time to come is going to be DeepFakes. The reason is not because the technology is itself very harmful, the reason is because humans are emotional and don’t really put a thought before believing and sharing videos or voice messages. You could basically generate photos , videos and voice clips of a person doing/saying whatever you want using these techniques. I will not be surprised if fake media created by these technology be used to instigate violence or bad faith. In a world where fake news is widespread and fake news busters can spread fake news too, it is going to be big challenge to tackle Deepfakes.&lt;/p&gt;
-
-&lt;p&gt;The misuse of facial recognition is actually somewhat fearmongering and luddism. It probably makes the world somewhat less private, but every technology since the invention of cameras has done so for a very long time and its a continuing trend since years. I think the probability of using Face Recognition for bad purposes is not that high. That said, I think there are already regulations in place in various countries to make sure Facial Recognition cannot be used to harm people.&lt;/p&gt;
-
-&lt;h3 id=&quot;my-answer-to-why-deep-mind-ai-of-google-failed-to-answer-1111111&quot;&gt;My answer to “Why Deep mind AI of Google failed to answer 1+1+1+1+1+1+1?”&lt;/h3&gt;
-
-&lt;p&gt;Originally answered here: &lt;a href=&quot;https://qr.ae/pNnedF&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNnedF&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Many assumptions in the question appear wrong:&lt;/p&gt;
+&lt;p&gt;In general, some tips :&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;Deepmind is a company, its not an AI.&lt;/p&gt;
+      &lt;p&gt;Avoid crowds and travel unless absolutely necessary. This reduces the probability of you getting in contact with the virus.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;The way you refer to AI, it feels like you are talking about &lt;a href=&quot;https://en.wikipedia.org/wiki/Artificial_general_intelligence&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Artificial general intelligence – Wikipedia&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+      &lt;p&gt;Keep some long shelf life products like rice, grams etc ready at home.&lt;/p&gt;
     &lt;/blockquote&gt;
-
-    &lt;p&gt;Most AI we have in the world (and most of what Deepmind builds) is &lt;a href=&quot;https://en.wikipedia.org/wiki/Weak_AI&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Weak AI - Wikipedia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Try having a Water purification system that works without electricity too. You dont want to increase risk of other water borne infections.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Stock medicines for other conditions like fever etc and for hypertension, high BP, diabetes if someone has the conditions in your family.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Avoid shaking hands and try staying away from other crowds and unnecessary travelling. Going out in crowds increases your risk factor for contracting coronavirus.&lt;/p&gt;
+    &lt;/blockquote&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;!-- end list --&gt;
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-02-27-corona_info/media/image11.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;AGI (Artificial General Intelligence) is a theoretical future where computers can learn any new task when presented to them like humans, is decades if not centuries away. Weak AI means a Computer needs to be programmed to perform one task, like detecting cavity in teeth or playing Atari games.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Remember, this is way more serious than common flu unlike what many MSM outlets are saying.&lt;/p&gt;
 
-&lt;!-- end list --&gt;
+&lt;p&gt;If the answer has made you panic, here is some Simpsons (predicts future) humor:&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Weak AI variant for problems like “1 + 1 + 1 … “ exists. That is simple mathematical expression parsing and evaluation. What Deepmind was trying to do was to use a Weak AI model generally used to look for features in language (LSTMs are the algorithm) to solve mathematical problems. All it tells is Weak AI algorithms to extract features on Natural Language cannot learn to solve Mathematical problem as of now.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-02-27-corona_info/media/image12.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;!-- end list --&gt;
+&lt;p&gt;Also , here is an Indian Newspaper reporting the humor as if it is real news:&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Please don’t read pop sci articles on AI like these: &lt;a href=&quot;https://www.techtimes.com/articles/241193/20190410/googles-deepmind-failed-a-high-school-level-math-test-what-does-this-mean.htm&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Google’s DeepMind Failed A High School Level Math Test: What Does This Mean?&lt;/span&gt;&lt;/a&gt; . They are just not informative enough and misguide.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://economictimes.indiatimes.com/magazines/panache/the-simpsons-predicts-the-future-again-episode-cited-as-a-prophecy-of-the-coronavirus/articleshow/73949972.cms&quot;&gt;&lt;span class=&quot;underline&quot;&gt;‘The Simpsons’ predicts the future, again: Episode cited as a prophecy of the coronavirus&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;my-answer-to-what-you-think-about-data-scientists-automated-and-unemployed-by-2025-article&quot;&gt;My answer to “What you think about “Data Scientists Automated and Unemployed by 2025?” article?”&lt;/h3&gt;
+&lt;p&gt;Now for people who like reading specific answers, I will write answers for various FAQs:&lt;/p&gt;
 
-&lt;p&gt;Link to original answer : &lt;a href=&quot;https://www.quora.com/What-you-think-about-Data-Scientists-Automated-and-Unemployed-by-2025-article/answers/16871059&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://www.quora.com/What-you-think-about-Data-Scientists-Automated-and-Unemployed-by-2025-article/answers/16871059&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;q1-are-vegetarians-immune-to-covid19-&quot;&gt;Q1. Are vegetarians immune to COVID19 ?&lt;/h2&gt;
 
-&lt;p&gt;The so called Data Scientists who use off the shelf Machine Learning algorithms on simple data WILL be automated pretty soon, infact Amazon/Azure/Google ML services already do so. To be frank, calling sklearn.fit_predict with different parameters is not really hard and is kind of repetitive.&lt;br /&gt;
-The real world is slightly different, A lot of real world Data Scientists are actually Data Mungers, who clean/transform the data (which is really hard to automate), and then Hyperparameter adjusters who apply black box algorithms on top of it (which is easy to automate).&lt;br /&gt;
-Other easy repetitive tasks, which involve simple repetitive work and involve humans for the hack of it (say Data Entry Operators, Customer Support chat people, ) are being automated at a steep rate too. Surprisingly, some aspects of art (some form of painting, music, lyrics writing) is being automated too, which I thought was impossible to.&lt;br /&gt;
-The day to day tasks of actual Data Scientists, say working at Facebook AI research and Google Brain (writing different Artificial Intelligence agents) will be one of the last to be automated, as it is generally very hard. So I think they will be one of the last in last in the  line of losing “survival of the fittest” battle to Machines. A time when Machine can deduce algorithms is still far off in future.&lt;/p&gt;
+&lt;p&gt;A1. COVID19 originated in wet markets selling meat, but it now has human to human transfer capacity like Common Cold and Flu. Staying away from animals reduces risk of coronavirus contraction, but there is no guarantee that no animal contact makes you safe. So no, vegetarians are not immune to COVID 19.&lt;/p&gt;
 
-&lt;h3 id=&quot;my-answer-to-what-will-be-the-need-for-humans-if-we-automate-everything-with-machine-learning-and-robotics-what-will-humans-do-in-the-future&quot;&gt;My answer to “What will be the need for humans if we automate everything with machine learning and robotics? What will humans do in the future?”&lt;/h3&gt;
+&lt;h2 id=&quot;q2-are-masks-helpful-or-not-&quot;&gt;Q2. Are masks helpful or not ?&lt;/h2&gt;
 
-&lt;p&gt;Link to original answer here: &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://www.quora.com/What-will-be-the-need-for-humans-if-we-automate-everything-with-machine-learning-and-robotics-What-will-humans-do-in-the-future/answer/Muktabh-Mayank&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A2. CoronaVirus is a heavier virus when compared to say common cold. So it cannot stay suspended in air for very long. This means that if you are standing away from an infected person (2 Meters +), there is a very low probability of virus contraction from air. So that means you do not need masks as long as you are in spaces where people aren’t too closeby to you. Only in places where infection is widespread (like hospitals) and in cases where you have to get too close to people infected with CoronaVirus, you should use a mask. Also please note using a mask is almost useless without using protective eye wear. When you use a mask, you should dispose it off well and wash your hands after removing the mask. Please note its better to avoid infected places and mass gatherings than using masks. Not only masks are not 100% effective, you also choke the supply for health workers who require these to take care of the sick. Please read the directions if you choose to wear masks : &lt;a href=&quot;https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks&lt;/span&gt;&lt;/a&gt; . Also remember to not buy and stockpile masks, this creates shortage and health workers need them much more than you do.&lt;/p&gt;
 
-&lt;p&gt;Why is it necessary for humans to work ? Do any other species of plants and animals work jobs ? Don’t other species live ? Is the only purpose of human existence to make Excel and Powerpoint sheets or write Python code ? These are deep metaphysical questions which are more philosophical and have no real (only theoretical ) answers. Also this is not my answer.&lt;/p&gt;
+&lt;h2 id=&quot;q3-as-a-normal-person-what-is-the-most-effective-way-to-avoid-infection-&quot;&gt;Q3. As a normal person, what is the most effective way to avoid infection ?&lt;/h2&gt;
 
-&lt;p&gt;The more practical answer is that automation has always been coming, jobs have always been automated. Shoe Makers were automated by factories and chariot drivers and horse tamers were automated by cars. What always happens is new jobs were created every time (factory workers, car drivers) requiring lesser number of humans, so that humans could engage in more intellectually demanding fields. The same is happening now, with incoming AI technology, jobs are changing. The difference is that while it took generations earlier for a change to reflect, people will see drastic changes in their lifetime (that’s probably the only challenge I see, people will not really be able to “settle” on a career for all their lives pretty soon and will require to learn-unlearn many times in their lifetime) . &lt;strong&gt;The (wrongful) fear is because we see only one aspect of it, not the other side. AI does automate stuff, but sum of human achievements is not a Zero Sum game, it will grow larger.&lt;/strong&gt; While you might not be required to enter data in Excel (one random example) searching web due to AI, a bigger intellectual challenge can be taken over by same person than Excel data entry (like say solving Cancer).&lt;/p&gt;
+&lt;p&gt;A3. Minimize going into public places. That is the most effective method and reduces the probability of you catching the infection by a lot. Keep washing your hands frequently using alcohol sanitizers or soap. It has been scientifically proven that it works quite well. Avoid touching your eyes, mouth or nose unnecessarily. If you feel a strong need to do so, clean your hands before doing so. The disease seems to be spreading through contaminated surfaces like door knobs, lift buttons, phone screens etc. Practice hand hygiene after touching any such possible surface. &lt;span class=&quot;underline&quot;&gt;https://twitter.com/layallivs/status/1234849244709883905?s=08&lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;my-answer-to-will-data-science-and-machine-learning-get-automated-leading-to-lesser-opportunities-for-data-scientists&quot;&gt;My answer to “Will data science and machine learning get automated leading to lesser opportunities for data scientists”&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-02-27-corona_info/media/image13.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Originally answered here: &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://www.quora.com/Will-data-science-and-machine-learning-get-automated-leading-to-lesser-opportunities-for-data-scientists-as-per-https-www-datasciencecentral-com-profiles-blogs-data-scientists-automated-and-unemployed-by-2025-update/answer/Muktabh-Mayank&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;q4-isnt-the-covid19-just-another-flu-&quot;&gt;Q4. Isn’t the COVID19 just another Flu ?&lt;/h2&gt;
 
-&lt;p&gt;Yes. (2025 is not the date I think its going to happen, but its inevitable and will happen in near future). They will be to a good extent. So will be Software Developers, designers, manual workers, teachers, linguists, musicians, game developers etc,etc. There are already rudimentary projects like &lt;a href=&quot;https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Turning Design Mockups Into Code With Deep Learning&lt;/span&gt;&lt;/a&gt; which can turn a design mockup into HTML/CSS code, &lt;a href=&quot;https://github.com/carpedm20/ENAS-pytorch&quot;&gt;&lt;span class=&quot;underline&quot;&gt;carpedm20/ENAS-pytorch&lt;/span&gt;&lt;/a&gt; which can design neural networks without a Data Scientist, &lt;a href=&quot;https://www.forbes.com/sites/janakirammsv/2018/04/15/why-automl-is-set-to-become-the-future-of-artificial-intelligence/#5bfa74e0780a&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Why AutoML Is Set To Become The Future Of Artificial Intelligence&lt;/span&gt;&lt;/a&gt; , system which can generate new characters for games, &lt;a href=&quot;http://www.business-standard.com/article/international/microsoft-ai-can-translate-chinese-to-english-just-as-accurately-as-humans-118031500414_1.html&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Microsoft AI can translate Chinese to English just as accurately as humans&lt;/span&gt;&lt;/a&gt; , &lt;a href=&quot;https://www.computing.co.uk/ctg/news/3028065/baidus-deep-voice-can-clone-speech-with-less-than-four-seconds-of-training&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Baidu’s Deep Voice can clone speech with less than four seconds of training | Computing&lt;/span&gt;&lt;/a&gt; and multiple such projects.&lt;/p&gt;
+&lt;p&gt;A4. No, its not. COVID19 has a way higher fatality rate (best estimates around 1- 2%) and need for hospitalization rate than normal Flu from what we know. There is no comparison. For elderly people, the mortality rate can be as high as 1 in 3. You should make sure you dont act as a carrier for virus infecting elderly people. Luckily, for people younger than 20 years, COVID mortality rate is really less.&lt;/p&gt;
 
-&lt;p&gt;OpanAI’s new project can generate programs given specs : &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://www.youtube.com/watch?v=utuz7wBGjKM&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;q5-it-doesnt-seem-to-be-as-deadly-as-say-ebola-why-so-much-worry-&quot;&gt;Q5. It doesn’t seem to be as deadly as say Ebola. Why so much worry ?&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-AIHysteria/media/image2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A5. Because COVID19 follows textbook definition of Viral. If it starts spreading, it spreads at a rapid rate and 2% of a large number can be a very high number. For example, if allowed to spread unconstrained, it can spread to population as large as 40%-70% of the entire world. That’s over 3 Billion people. 2% of 3 Billion is 60 Million lives! That would be a terrible terrible loss.&lt;/p&gt;
 
-&lt;p&gt;Look at the artificially drawn faces by latest GANs , designers will find it harder to compete with the new quality. &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://youtu.be/XOxxPcy5Gr4&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;q6-does-the-virus-die-in-hothumid-temperatures-&quot;&gt;Q6. Does the virus die in hot/humid temperatures ?&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-AIHysteria/media/image3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A6. Maybe. We don’t know for sure. It might be that the virus becomes inactive in hot and humid weather. That conclusion comes from that it has spread less in tropics than temperate/cold climate. But this might just be a co-incidence. As of 4&lt;sup&gt;th&lt;/sup&gt; March 2020, you cannot be sure that the virus will not spread in your vicinity because of it being hot and humid.&lt;/p&gt;
 
-&lt;p&gt;AI will impact every job profile which exists as of now, Data Scientists no exception, automating some or a lot of work people spend their time on. For a lot of time these systems will become a &amp;lt;Man + Machine&amp;gt; AI systems rather than just a Human working before stuff is totally automated. So its not like everyone becomes redundant day 1, but they will eventually.&lt;/p&gt;
+&lt;h2 id=&quot;q7-why-is-india-still-getting-an-increased-number-of-coronavirus-cases-per-day-if-they-are-locked-down-for-a-while&quot;&gt;Q7. Why is India still getting an increased number of coronavirus cases per day if they are locked down for a while?&lt;/h2&gt;
 
-&lt;p&gt;Full Automation of any field is going to take way longer than 2025 IMHO. That said, yes a lot less people will be needed for the same task as of today. Then what will people do you ask ? newer more complex tasks.&lt;/p&gt;
-
-&lt;p&gt;Automation is not a new phenomenon. Think about the railway breaks a long time back: &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://youtu.be/EEUkmP2nyxo&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-05-22-AIHysteria/media/image4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So much work was once needed to just stop the train. A lot lesser work is needed today to run/stop the train and not just that, slowly trains are moving towards full automation, but right now they are in a &amp;lt;man + machine&amp;gt; stage. A lot of jobs will stay in this phase for sometime before full automation kicks in. But unlike railways, which take generations to move from one stage of automation to another, AI is causing changes at a phase at a very high rate.&lt;/p&gt;
-
-&lt;p&gt;What is the effect on a general Data Scientist (or any white/blue collared worker for that matter):&lt;/p&gt;
+&lt;p&gt;That is quite simple:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;Adapt to AI. Automation has started, but AI aided jobs will stay for a few more years than non-AI jobs. So while no plain X jobs by 2025, X + AI jobs might be around till 2030.&lt;/p&gt;
+      &lt;p&gt;Most of the people as of now (24th March) tested positive for CoronaVirus are Indian and Foreign citizens who returned from abroad (the remaining ones are people who came in contact with this). While India stopped visas a long time back, its own citizens from abroad were thronging to our airports (its just two days back all international traffic was stopped). Our citizens continued entering just upto two days back. About 26000 people entered Mumbai from Dubai, we have no way to control infection amongst people who are arriving pre-infected here. &lt;a href=&quot;https://economictimes.indiatimes.com/news/politics-and-nation/coronavirus-worst-hit-maharashtra-set-to-welcome-26000-gulf-returnees/articleshow/74706096.cms&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Coronavirus: Worst-hit Maharashtra set to welcome 26,000 Gulf returnees&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;img src=&quot;https://mAch17.github.io/mAchblog_/assets/img/2020-02-27-corona_info/media/image14.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;The number of Corona cases you see on Television is actually a snapshot of a few days to a few weeks back. Reason its is seen COVID19 doesn’t show symptoms immediately. It takes a few days to 2 weeks for symptoms to emerge and then people visit hospitals at different stages after the symptoms appear. They are spreading the virus all along. The lockdowns were imposed only a few days back.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;Things wont be like earlier generations where one skill learnt gets you a job for entire life. One needs to be open to learning new skills and get started in the middle of life.&lt;/p&gt;
+      &lt;p&gt;The first few days of lockdown were voluntary and while majority of people followed them, there were a few people who did not take it seriously. While the rate would have definitly fallen (we would see good numbers in a few days to weeks), but now that absolute lockdowns are being ensured, it should get even better beyond that.&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;h2 id=&quot;q8-if-a-person-has-had-the-coronavirus-are-they-more-or-less-likely-to-contract-it-a-second-time&quot;&gt;Q8. If a person has had the coronavirus, are they more or less likely to contract it a second time?&lt;/h2&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Unfortunately, we don’t know that yet. We have opinions but no definite conclusion.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;CoronaVirus (not the recent one causing COVID19, but other more common types), along with RhinoVirus cause common cold and it seems the body doesn’t develop an immunity against that disease. You keep getting the cold every year, dont you ?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://www.technologynetworks.com/immunology/news/why-dont-we-ever-develop-immunity-against-the-common-cold-294551&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Why Don’t We Ever Develop Immunity Against the Common Cold?&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;On the other hand, there are arguments like a certain portion of human population are innately immune against the COVID19 causing virus. If a few people can be immune, so can be all people with immunization/exposure.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://www.jpost.com/HEALTH-SCIENCE/Israeli-nobel-laureate-Coronavirus-spread-is-slowing-621145&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Coronavirus spread is slowing - Says Israeli Nobel Laureate&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;q9-as-there-is-no-vaccine-for-coronavirus-how-are-people-being-cured-of-it&quot;&gt;Q9. As there is no vaccine for coronavirus, how are people being cured of it?&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Vaccines don’t cure you from viruses. Your immune system cures you by destroying cells infected by viruses. The aim of a vaccine is to somehow make sure that your immune system is already ready with a response for a virus we know humans aren’t innately immune to. This is done by delivering a harmless entity like weakened virus or a clue to recognize the virus (protein etc) into the body so that immune system learns to recognize and kill beforehand.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In case of a novel virus (something never seen before), the body’s immune system has no clue about the virus and has to come up with a strategy to kill the virus while being infected. Novel-Coronavirus (SARS2 which causes COVID19) is a novel virus. Unlike a vaccine , where a body learns to fight the virus for free, here its a question of whether body can come up with a strategy to kill the virus before the virus does serious damage.&lt;/p&gt;
+
+&lt;p&gt;For a lot of people (over 95%), their bodies are able to come up with methods to beat the Novel-CoronaVirus when they get infected. (It is not known whether the body develops long term immunity post getting better though) . For the others, the results might be really bad :( . Specially people who have weakened immune systems (people take drugs to weaken immune response in various diseases), diabetes, high BP or weak lungs/organs due to smoking.&lt;/p&gt;
+
+&lt;p&gt;So for people whose immunity cannot fight off COVID19 (or even whose immunity can fight it off), another way to stop the virus is antiviral drugs. These drugs (generally) stop production of various viral proteins reducing/stopping the growth of virus, thus reducing the work of immune system to kill the virus. There are a few antiviral treatments that might be working for COVID19. We still have very primary data about it, but people are already using these drugs as last resort:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Hydroxy Choloroquin + Azithromycin seems to work in a trial in France. There have been other studies about Chloroquin derivatives in COVID19 outbreak as well as before it (during SARS outbreak in 2002). &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0924857920300996&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;Average level of education needed will be high. Think of it, 50 years back “High School” was all the education needed for most jobs. Now its somewhere between high school and graduation. Masters and Research might look like the next frontier, but these degrees are too slow and broad. Coursera like courses will become more important in catching new skillsets. You might already see people doing that a lot.&lt;/p&gt;
+      &lt;p&gt;Meplazumab has been tried in China and seems to work well : &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2020.03.21.20040691v1&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Meplazumab treats COVID-19 pneumonia: an open-labelled, concurrent controlled add-on clinical trial&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;With more uncertainty in jobs, millenials probably will want to be a less “spend-y” and more frugal. You can see things happening already &lt;a href=&quot;https://www.businessinsider.in/6-reasons-why-more-millennials-arent-buying-homes/articleshow/59005530.cms&quot;&gt;&lt;span class=&quot;underline&quot;&gt;6 reasons why more millennials aren’t buying homes&lt;/span&gt;&lt;/a&gt; and will actually increase. AI is just a trend in a longer cycle of Automation and millenials are at a point in history where education+society was according to old norms but automation has reached a point where jobs have become uncertain. Younger people will be smarter.&lt;/p&gt;
+      &lt;p&gt;Japanese drug Favipiravir has been found to be successful in a trial of 340 patients as claimed by China. &lt;a href=&quot;https://nypost.com/2020/03/18/japanese-flu-drug-clearly-effective-in-treating-coronavirus-officials-say/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Japanese flu drug ‘clearly effective’ in treating coronavirus, officials say&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">Some thoughts around the AI hysteria being created [From Quora answers]</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://mach17.github.io/mAchblog_/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://mach17.github.io/mAchblog_/jupyter/2020/02/20/test</id><content type="html" xml:base="https://mach17.github.io/mAchblog_/jupyter/2020/02/20/test.html">&lt;!--
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Remdesivir might be another drug that could be proven in future to cure off the virus: &lt;a href=&quot;https://www.npr.org/sections/health-shots/2020/03/24/821035311/fda-grants-experimental-coronavirus-drug-benefits-for-rare-disease-treatments&quot;&gt;&lt;span class=&quot;underline&quot;&gt;FDA Grants Experimental Coronavirus Drug Benefits For Rare Disease Treatments&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;##&lt;/p&gt;
+
+        &lt;h2 id=&quot;q10-aside-from-a-pune-based-diagnostic-company-mylab-has-developed-the-first-made-in-india-test-kit-for-coronavirus-in-a-record-time-of-6-weeks-how-will-this-help-us-to-control-corona&quot;&gt;Q10. Aside from a Pune-based diagnostic company, myLab has developed the first made in India test kit for coronavirus in a record time of 6 weeks. How will this help us to control corona?&lt;/h2&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The more testing kits we have, more people we can test and isolate. Not just this, myLab kits also provide results fast. This helps stop spread by identifying all infected quickly by testing more suspects.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In a hypothetical condition, if the entire 1.3 Billion people are tested and people who have the virus are isolated, and everyone entering country is given a coronavirus test, the others can go about doing day-to-day work as if nothing has happened as there will be no danger of infection. Until this is not achieved heavy quarantine will be needed (the more you can test and isolate, the lesser quarantine is needed like South Korea). Importing 1.3 Billion kits will probably cost a huge chunk of India’s GDP ! If we could build it in house cheaply, it would be pretty good, not 1 Billion, then say 100 Million.&lt;/p&gt;
+
+&lt;p&gt;We have to make a model between China’s model and South Korea’s model. (that’s what government is doing)&lt;/p&gt;</content><author><name></name></author><summary type="html">What we know about CoronaVirus ? What to do and what not to ?</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://mach17.github.io/mAchblog_/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://mach17.github.io/mAchblog_/jupyter/2020/02/20/test</id><content type="html" xml:base="https://mach17.github.io/mAchblog_/jupyter/2020/02/20/test.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
