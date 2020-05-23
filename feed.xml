@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-05-23T10:54:14-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Replies To Questions On Ai Skepticism</title><link href="https://muktabh.xyz/2020/05/23/Replies-To-Questions-On-AI-Skepticism.html" rel="alternate" type="text/html" title="Replies To Questions On Ai Skepticism" /><published>2020-05-23T00:00:00-05:00</published><updated>2020-05-23T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/05/23/Replies-To-Questions-On-AI-Skepticism</id><content type="html" xml:base="https://muktabh.xyz/2020/05/23/Replies-To-Questions-On-AI-Skepticism.html">&lt;h1 id=&quot;some-thoughts-around-the-ai-skepticism-being-created-from-quora-answers&quot;&gt;Some thoughts around the AI skepticism being created [From Quora answers]&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-05-23T10:59:46-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Replies To Questions On Ai Scepticism</title><link href="https://muktabh.xyz/2020/05/23/Replies-To-Questions-On-AI-Scepticism.html" rel="alternate" type="text/html" title="Replies To Questions On Ai Scepticism" /><published>2020-05-23T00:00:00-05:00</published><updated>2020-05-23T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/05/23/Replies-To-Questions-On-AI-Scepticism</id><content type="html" xml:base="https://muktabh.xyz/2020/05/23/Replies-To-Questions-On-AI-Scepticism.html">&lt;h1 id=&quot;some-thoughts-around-prevalent-ai-scepticism-from-quora-answers&quot;&gt;Some thoughts around prevalent AI scepticism [From Quora answers]&lt;/h1&gt;
 
 &lt;p&gt;Some answers I wrote regarding the AI hysteria that is being created using misinformation, fake news and sensationalism.&lt;/p&gt;
 
@@ -56,7 +56,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://openai.com/blog/better-language-models/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Better Language Models and Their Implications&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-05-23-Replies-To-Questions-On-AI-Skepticism/media/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-05-23-Replies-To-Questions-On-AI-Scepticism/media/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;my-answer-to-should-we-be-worried-about-deep-fakes-and-the-misuse-of-facial-recognition&quot;&gt;My answer to “Should we be worried about deep fakes and the misuse of facial recognition?”&lt;/h3&gt;
 
@@ -146,11 +146,11 @@ The day to day tasks of actual Data Scientists, say working at Facebook AI resea
 
 &lt;p&gt;OpanAI’s new project can generate programs given specs : &lt;span class=&quot;underline&quot;&gt;https://www.youtube.com/watch?v=utuz7wBGjKM&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-05-23-Replies-To-Questions-On-AI-Skepticism/media/image2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-05-23-Replies-To-Questions-On-AI-Scepticism/media/image2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Look at the artificially drawn faces by latest GANs , designers will find it harder to compete with the new quality. &lt;span class=&quot;underline&quot;&gt;https://youtu.be/XOxxPcy5Gr4&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-05-23-Replies-To-Questions-On-AI-Skepticism/media/image3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-05-23-Replies-To-Questions-On-AI-Scepticism/media/image3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;AI will impact every job profile which exists as of now, Data Scientists no exception, automating some or a lot of work people spend their time on. For a lot of time these systems will become a &amp;lt;Man + Machine&amp;gt; AI systems rather than just a Human working before stuff is totally automated. So its not like everyone becomes redundant day 1, but they will eventually.&lt;/p&gt;
 
@@ -158,7 +158,7 @@ The day to day tasks of actual Data Scientists, say working at Facebook AI resea
 
 &lt;p&gt;Automation is not a new phenomenon. Think about the railway breaks a long time back: &lt;span class=&quot;underline&quot;&gt;https://youtu.be/EEUkmP2nyxo&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-05-23-Replies-To-Questions-On-AI-Skepticism/media/image4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-05-23-Replies-To-Questions-On-AI-Scepticism/media/image4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So much work was once needed to just stop the train. A lot lesser work is needed today to run/stop the train and not just that, slowly trains are moving towards full automation, but right now they are in a &amp;lt;man + machine&amp;gt; stage. A lot of jobs will stay in this phase for sometime before full automation kicks in. But unlike railways, which take generations to move from one stage of automation to another, AI is causing changes at a phase at a very high rate.&lt;/p&gt;
 
@@ -185,7 +185,7 @@ The day to day tasks of actual Data Scientists, say working at Facebook AI resea
       &lt;p&gt;With more uncertainty in jobs, millenials probably will want to be a less “spend-y” and more frugal. You can see things happening already &lt;a href=&quot;https://www.businessinsider.in/6-reasons-why-more-millennials-arent-buying-homes/articleshow/59005530.cms&quot;&gt;&lt;span class=&quot;underline&quot;&gt;6 reasons why more millennials aren’t buying homes&lt;/span&gt;&lt;/a&gt; and will actually increase. AI is just a trend in a longer cycle of Automation and millenials are at a point in history where education+society was according to old norms but automation has reached a point where jobs have become uncertain. Younger people will be smarter.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">Some thoughts around the AI skepticism being created [From Quora answers]</summary></entry><entry><title type="html">Views On Indian Startups</title><link href="https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups.html" rel="alternate" type="text/html" title="Views On Indian Startups" /><published>2020-04-14T00:00:00-05:00</published><updated>2020-04-14T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups</id><content type="html" xml:base="https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups.html">&lt;h1 id=&quot;some-thoughts-about-indian-startup-scene-as-various-answers-to-quora-questions&quot;&gt;Some Thoughts about Indian Startup Scene (As various answers to Quora questions)&lt;/h1&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Some thoughts around prevalent AI scepticism [From Quora answers]</summary></entry><entry><title type="html">Views On Indian Startups</title><link href="https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups.html" rel="alternate" type="text/html" title="Views On Indian Startups" /><published>2020-04-14T00:00:00-05:00</published><updated>2020-04-14T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups</id><content type="html" xml:base="https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups.html">&lt;h1 id=&quot;some-thoughts-about-indian-startup-scene-as-various-answers-to-quora-questions&quot;&gt;Some Thoughts about Indian Startup Scene (As various answers to Quora questions)&lt;/h1&gt;
 
 &lt;h3 id=&quot;my-answer-to-how-can-you-define-the-indian-startup-economy&quot;&gt;My answer to “How can you define the Indian startup economy?&lt;/h3&gt;
 
