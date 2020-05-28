@@ -1,4 +1,115 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-05-23T11:06:23-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Replies To Questions On Ai Scepticism</title><link href="https://muktabh.xyz/2020/05/23/Replies-To-Questions-On-AI-Scepticism.html" rel="alternate" type="text/html" title="Replies To Questions On Ai Scepticism" /><published>2020-05-23T00:00:00-05:00</published><updated>2020-05-23T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/05/23/Replies-To-Questions-On-AI-Scepticism</id><content type="html" xml:base="https://muktabh.xyz/2020/05/23/Replies-To-Questions-On-AI-Scepticism.html">&lt;h1 id=&quot;some-thoughts-around-prevalent-ai-scepticism-from-quora-answers&quot;&gt;Some thoughts around prevalent AI scepticism [From Quora answers]&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-05-28T02:09:41-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">When To Run Away And Not Look Back At Your Current Software Developer Job</title><link href="https://muktabh.xyz/2020/05/28/When-to-run-away-and-not-look-back-at-your-current-software-developer-job.html" rel="alternate" type="text/html" title="When To Run Away And Not Look Back At Your Current Software Developer Job" /><published>2020-05-28T00:00:00-05:00</published><updated>2020-05-28T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/05/28/When-to-run-away-and-not-look-back-at-your-current-software-developer-job</id><content type="html" xml:base="https://muktabh.xyz/2020/05/28/When-to-run-away-and-not-look-back-at-your-current-software-developer-job.html">&lt;p&gt;Some instances where I advised Software Developers to run away from their employer on Quora!&lt;/p&gt;
+
+&lt;h3 id=&quot;q-i-work-for-a-startup-our-cto-is-a-big-fan-of-golang-he-insists-to-use-golang-for-every-projects-including-machine-learning-projects-where-python-is-the-de-facto-standard-what-should-i-do&quot;&gt;Q. I work for a startup, our CTO is a big fan of Golang, he insists to use Golang for every projects, including machine learning projects where Python is the de facto standard, what should I do?&lt;/h3&gt;
+
+&lt;p&gt;Originally Answered Here: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNnZby&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Run away and don’t look back. There is going to be no use working under someone that fanatic. I am a fan of Go as a language myself, but this is a bit too much. There is no doubt a need of uniformity in the codebase and there needs to be a fixed stack, but I don’t think it is common sense to hamper productivity so much so as to start using esoteric Machine Learning frameworks in Go.&lt;/p&gt;
+
+&lt;p&gt;Instead of working on Machine Learning, most of the time will go to try out and fight/enhance Go’s nascent Machine Learning ecosystem. While some people will love enhancing Go’s Machine Learning capabilities (I think there is a decent community), its not something every Data Scientist would want. Also as a startup there will be tight deadlines and working on places where the libraries aren’t optimized will be a nightmare.&lt;/p&gt;
+
+&lt;p&gt;No go according to me.&lt;/p&gt;
+
+&lt;h3 id=&quot;q-how-do-i-survive-in-a-startup-with-undocumented-code-base&quot;&gt;Q. How do I survive in a startup with undocumented code base?&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Stories like this are a norm. I’m a fresher. We’ve a large code base running for over two years. I was told to implement an interface which was committed over a year - and there was no documentation at all. I asked about the functioning of the individual methods to which I got a reply that I ought to look at examples where it is implemented.&lt;br /&gt;
+Is it normal? Does everyone have to read un-commented code for hours while the person who’s originally written it could explain it in five minutes?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Originally Answered Here: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/TfxZ43&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;A lot of startups dont have formal documentation, but that doesnt mean young employees are left on their own.&lt;/p&gt;
+
+&lt;p&gt;3 subquestions you asked :&lt;/p&gt;
+
+&lt;p&gt;Is it normal?&lt;br /&gt;
+No. This shows poor engineering standards of the company. Your PM and Lead are not doing their job well. Most companies either have documentation or KT (knowledge Transfer sessions) before a new Engineer takes over the job&lt;/p&gt;
+
+&lt;p&gt;Does everyone have to read un-commented code for hours while the person who’s originally written it could explain it in five minutes?&lt;br /&gt;
+After they are given an overview of the project, people sometimes do need to read undocumented code, but there needs to be someone whom they can approach for guidance. Maybe their lead or a senior developer in the project.&lt;/p&gt;
+
+&lt;p&gt;What should my approach be?&lt;br /&gt;
+Run. All I can understand is that the company you work in wants you to be a code monkey. Do you think such mess of code can ever scale ? If you want to be a good engineer, join a place which has &lt;em&gt;some&lt;/em&gt; engineering practices.&lt;/p&gt;
+
+&lt;h3 id=&quot;q-in-my-first-job-in-a-new-industry-i-am-underpaid-with-no-sign-of-a-raise-coming-from-my-current-employer-however-i-am-learning-quite-a-bitimproving-consistently-how-does-one-remain-focused-on-continuous-learning-for-now-and-more-money-later&quot;&gt;Q. In my first job in a new industry, I am underpaid with no sign of a raise coming from my current employer. However, I am learning quite a bit/improving consistently. How does one remain focused on continuous learning for now and more money later?&lt;/h3&gt;
+
+&lt;p&gt;Originally Answered Here: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNnZOV&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Talk to your employer and understand what timelines they have in terms of promoting you/giving you a raise. You need to understand how your company is doing. There are many possible scenarios:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;There is no reason your employer cannot give you (justified) raise pending from a long time if your company is doing good. They are just bad people to work for if they reject a genuine raise in this case.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;If the company is not doing well and you are learning a lot at your work, you need to understand what is the marginal gain in learning (I understand that workplaces with uncertain futures are great learning experiences) as compared to a stable salary you are being offered somewhere else. Are they allowing you to cash out on your learning by generating your own client interface/networks or publishing papers/blogs/patents ? Remember, just learning isn’t enough, putting it out there also is. You need to understand till what level you want to continue learning (Specialization is a field only pays off for a certain level).&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;If the company is not doing too well and you feel it will get better, you are sharing the risk of the company. In that case, you should ask for share in gains as well (equity, promised bonuses etc.). Set a timeline till when you will wait for the company to do better.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;The fourth scenario where the company is not doing well and you dont expect it to rebound, quit. They would have fired you if they did not see you get better, they might give you a pink slip to cut losses in future.&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;h3 id=&quot;my-answer-to-how-can-we-approach-a-product-based-startup-even-if-were-ready-to-work-without-salary-for-experience-and-a-full-time-job-in-bangalore&quot;&gt;My answer to “How can we approach a product-based startup even if we’re ready to work without salary for experience and a full-time job in Bangalore?”&lt;/h3&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Originally answered here: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/TqMatO&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;(My startup is not based out of Bangalore, so you can consider this as a third party opinion).&lt;/p&gt;
+
+&lt;p&gt;How startups work and how people outside might visualize them is maybe very different. Most people who don’t know a startup inside out, relate them more to the large companies like Infosys, Google, Amazon etc. (and now probably Flipkart, Ola ?) , which they are more familiar with .&lt;/p&gt;
+
+&lt;p&gt;Any startup’s ideal employees are:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Self taught (or slightly experienced) beginners (not novices) who will be able to take low salaries an deliver tasks assigned to them. The work culture is flexible, so fitting in doesn’t matter, people have to deliver that’s all. (Entry Level)&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Smart people who are willing to compensated by equity instead of salary and can lead employees like 1 (above) into building something that scales and can raise money. (Senior)&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A large company’s ideal employees are:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Non-Experienced people/novices who can join and learn the company’s work culture and methodology and learn skills to deliver accordingly. Company can afford to spend good money here and sometime novices in big companies are better paid than beginners in startups. (Entry Level)&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Then hierarchy wise the company has various openings with high salaries where they acquire senior people, including even the C-suite. (Senior Positions)&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Apart from salaries (which are typically low cash + high equity in startups and high cash + low equity in large companies), there is a second difference at the entry level hirings : Startups need people who have somewhat a non-zero level (beginner &amp;gt; novice, a beginner for example will be able to write a simple web service in Python, while a novice will just know Python syntax) of knowledge and can learn on the job, large companies prefer novices whom they can train in their own efficient way. Remember startups are optimized for speed, large companies for efficiency.&lt;/p&gt;
+
+&lt;p&gt;Don’t be willing to work for free, try to get to a level where you can get an entry level job is what I will recommend if you want to work in a startup. It is not that hard; do a couple of online courses, don’t pay, just audit or just read good books and get yourself slightly above the curve.&lt;/p&gt;
+
+&lt;p&gt;The other way can be , take a novice level job (given you are a novice and not a beginner) in a large company where you are getting the profile you want and get some experience by their training. You can join a startup later if you don’t find their culture good.&lt;/p&gt;
+
+&lt;p&gt;If you are beginner/advanced beginner who is applying to work in startups for free and not getting calls, improve your medium (switch to Hasgeek/AngelList etc) , because this is not really possible if you are doing it well.&lt;/p&gt;</content><author><name></name></author><summary type="html">Some instances where I advised Software Developers to run away from their employer on Quora!</summary></entry><entry><title type="html">Replies To Questions On Ai Scepticism</title><link href="https://muktabh.xyz/2020/05/23/Replies-To-Questions-On-AI-Scepticism.html" rel="alternate" type="text/html" title="Replies To Questions On Ai Scepticism" /><published>2020-05-23T00:00:00-05:00</published><updated>2020-05-23T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/05/23/Replies-To-Questions-On-AI-Scepticism</id><content type="html" xml:base="https://muktabh.xyz/2020/05/23/Replies-To-Questions-On-AI-Scepticism.html">&lt;h1 id=&quot;some-thoughts-around-prevalent-ai-scepticism-from-quora-answers&quot;&gt;Some thoughts around prevalent AI scepticism [From Quora answers]&lt;/h1&gt;
 
 &lt;p&gt;I have tried to clarify some common fears people have around AI in my Quora answers.&lt;/p&gt;
 
