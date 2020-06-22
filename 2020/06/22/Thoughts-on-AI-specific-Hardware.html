@@ -157,10 +157,12 @@ window.onload = wrap_img;
 <p><img src="https://muktabh.xyz/assets/img/2020-06-22-Thoughts-on-AI-specific-Hardware/media/image9.png" alt="" /></p>
 
 <ol>
-  <li>The Brain Inspired Way : &lt;here&gt;</li>
-</ol>
+  <li>
+    <p>The Brain inspired way &lt;this&gt;</p>
 
-<p>This is a different approach to build AI specific hardware. Also this is more “cool” in the way that it wants to change the hardware implementation quite fundamentally. While Matrix Multiplications and Vector Operations are layer by layer way to abstract a Neural Network operation, One can abstract it out in another way, at neuron level. Infact the Matrix Multiplication and non-linearity combination we use for every layer of Neural Network can be thought of as less efficient way of implementing artificial neurons in one layer of neural network. If we can represent the artificial neuron on the hardware, we don’t need to even do these costly matrix multiplications (and so hardware costs should go down even more). Essentially the instruction set for running neural networks will now change from Matrix multiplications to neurons. The method is more interesting also because one is building hardware that actually tries to emulate brain Neurons (We do it in software for a very long time, it will now be available in hardware directly). The long term aim here is that we should be able to pack much much more optimized compute for AI algorithms on one chip than what we have now, increasing the training and inference accuracy manifold.</p>
+    <p>This is a different approach to build AI specific hardware. Also this is more “cool” in the way that it wants to change the hardware implementation quite fundamentally. While Matrix Multiplications and Vector Operations are layer by layer way to abstract a Neural Network operation, One can abstract it out in another way, at neuron level. Infact the Matrix Multiplication and non-linearity combination we use for every layer of Neural Network can be thought of as less efficient way of implementing artificial neurons in one layer of neural network. If we can represent the artificial neuron on the hardware, we don’t need to even do these costly matrix multiplications (and so hardware costs should go down even more). Essentially the instruction set for running neural networks will now change from Matrix multiplications to neurons. The method is more interesting also because one is building hardware that actually tries to emulate brain Neurons (We do it in software for a very long time, it will now be available in hardware directly). The long term aim here is that we should be able to pack much much more optimized compute for AI algorithms on one chip than what we have now, increasing the training and inference accuracy manifold.</p>
+  </li>
+</ol>
 
 <p><strong>So how do these hardware designs work you ask ? Let’s do a mini survey :</strong></p>
 
@@ -224,15 +226,9 @@ window.onload = wrap_img;
 
 <p>“One requirement for all AI specific hardware platforms is to make the cost to switch very low. The more code needs to be rewritten to adapt software to the new platforms, the bigger gains in performance they will have to show to the people to make the investment to switch.”</p>
 
-<ol>
-  <li>
-    <p>Long Term impact of AI hardware – Making AutoML feasible &lt;here&gt;</p>
+<p>Long Term Effect of AI specific hardware &lt;This&gt;</p>
 
-    <ol>
-      <li>[I was actually answering the question “Is the difference between AI specific hardware vs traditional GPU like manual shift and automatic shift in cars?”] &lt;here&gt;</li>
-    </ol>
-  </li>
-</ol>
+<p>[I was actually answering “Is the relationship between AI hardware and GPU like that of manual shift and automatic shift in cars ?”] &lt;This&gt;</p>
 
 <p>A good analogy for GPUs and AI specific hardware is IC Engine vs Electric Vehicle hardware. Its a new way of doing the same thing efficiently. For example, no changes in code need to be done to deploy a model trained on Nvidia GPUs and to make it work on Google’s AI specific hardware(TPUs). You won’t even feel the difference while working on an AI problem as an engineer, but the hardware that deploys code is more efficient and costs less. Free lunch in some ways (you do lose some flexibility of writing more generic programs with the general purpose hardware as I said earlier, but it doesn’t matter for most AI algorithms). What is happening with the AI specific hardware is the AI programs we write burn less compute/context in getting translated to hardware code to run (because of some software instructions now directly runnable on hardware without translation) and hence more compute to run the programs themselves.</p>
 
