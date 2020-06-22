@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-06-22T12:20:34-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Thoughts On Ai Specific Hardware</title><link href="https://muktabh.xyz/2020/06/22/Thoughts-on-AI-specific-Hardware.html" rel="alternate" type="text/html" title="Thoughts On Ai Specific Hardware" /><published>2020-06-22T00:00:00-05:00</published><updated>2020-06-22T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/06/22/Thoughts-on-AI-specific-Hardware</id><content type="html" xml:base="https://muktabh.xyz/2020/06/22/Thoughts-on-AI-specific-Hardware.html">&lt;p&gt;I wrote this as an explanation of how AI specific hardware (in fact also how any hardware) works in combination with the Software and how it might effect AI startups in short term and long term.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-06-22T13:10:34-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Thoughts On Ai Specific Hardware</title><link href="https://muktabh.xyz/2020/06/22/Thoughts-on-AI-specific-Hardware.html" rel="alternate" type="text/html" title="Thoughts On Ai Specific Hardware" /><published>2020-06-22T00:00:00-05:00</published><updated>2020-06-22T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/06/22/Thoughts-on-AI-specific-Hardware</id><content type="html" xml:base="https://muktabh.xyz/2020/06/22/Thoughts-on-AI-specific-Hardware.html">&lt;p&gt;I wrote this as an explanation of how AI specific hardware (in fact also how any hardware) works in combination with the Software and how it might effect AI startups in short term and long term.&lt;/p&gt;
 
 &lt;p&gt;By AI specific hardware, I mean new chips being developed just for running AI algorithms in general. However, in this discussion I will speak about hardware being developed to run Deep Learning algorithms in particular. The reason is : A. Deep Learning algorithms require way more compute than any other AI algorithms and thus AI specific hardware is more desired for them. We already need special Hardware like GPUs to run them for all practical purposes. B. Other Machine Learning algorithms (and even normal data analytics) have started migrating to GPU only recently and not too much work seems to have been done to make specialized hardware for them.&lt;/p&gt;
 
 &lt;p&gt;When I removed details specific to my startup (I am one of co-founders of &lt;a href=&quot;https://www.paralleldots.com/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;ParallelDots&lt;/span&gt;&lt;/a&gt;) from this answer, I found this had become a long essay! Before you read, please understand that this is an opinion/prediction document. I am not an expert at hardware and electronics by any means and there may be mistakes. I am just trying to make sense out of a related but unknown field to my field of work (My work is mostly in the field of Machine Learning and Software).&lt;/p&gt;
 
-&lt;p&gt;Introduction&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span class=&quot;underline&quot;&gt;Introduction&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;One subtrend in the recent AI interest post 2012 is that of AI specific hardware. We all know that it takes lot of (costly) hardware to train Deep Neural Network. Every Nvidia-GPU worth training AI on is a costly machine and the recent mega models trained on large repositories data are trained on an insane amount of compute. An excerpt from the latest BYOL self supervised learning paper by DeepMind:&lt;/p&gt;
 
@@ -18,19 +18,19 @@
 
 &lt;p&gt;Let’s talk now about Computer hardware and AI specific hardware in particular:&lt;/p&gt;
 
-&lt;p&gt;About Different Hardware Platforms&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span class=&quot;underline&quot;&gt;About Different Hardware Platforms&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Microprocessors/chips in our computers&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Microprocessors/chips in our computers:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;To understand these, we will have to understand how does a program written by a person work ? A programming language compiler converts a program written by a human into a machine readable format. What is a machine readable format ? While most people understand that this is zeros and ones (which is true), in reality, the zeros and ones are actually a low level program that can run on hardware directly. Basically low level instructions are fabricated into the hardware directly. These low level instructions are for example, mathematical operations like Sum, Product, And, Or, Not etc. (General term for this set of logic fabricated into hardware is called instruction set). Now when we are building hardware for a general laptop say, we need to keep the instruction set “Turing Complete”. Turing Complete is a set of instructions in which any program can be represented. This enables the laptop’s chips to be generic and run any possible logic. However, a chip having a generic instruction set is not the most efficient chip for any possible problem. The generic instruction set is build in a way it is good enough for most problems, but specialized hardware is often added for tasks which require more computation. For example, Real Number operations (1.0+1.0) are relatively slow on a generic CPU as compared to Whole Number operations (1 + 1) as they require more computation. A hardware which just runs Floating Point computations fast is present in most Computers by default to optimize (due to the prevalence of floating point ops). In fact, VLSI research has progressed enough to make sure the specialized that floating point hardware is small enough to fit on CPU itself.&lt;/p&gt;
 
-&lt;p&gt;GPUs:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GPUs:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;GP-GPUs ( General Purpose – Graphic Processing Units), commonly known as GPUs are specialized hardware to run a set of mathematical operations very efficiently. When the feature rich GPUs came out in late-2000s, they were like a super computer could be installed right on your laptop. The compute GPUs provide actually enabled two big trends : Blockchain and AI. Most new Supercomputers we have now days are clusters of GPU. This is in stark contrast of just one decade back, when they were all special purpose hardware. GPUs are still quite general purpose, in the sense they cannot run all programs in parallel, but can run many mathematical operations in parallel. Due to this, they are costly. A simple trend can be understood that most bitcoin mining (which was one of the biggest usecases of GPUs earlier), has migrated to other specialized hardware as new hashes are rarer to find and incrementally more compute is needed as the currency is used. The special purpose hardware has less generic but more optimized functionality for bitcoin mining bringing the compute cost down.&lt;/p&gt;
 
 &lt;p&gt;In AI, however, the compute cost is not climbing as much, so well GPUs still continue to be used. Also much more compute is needed at the time of training than deployment. However, there is almost always a debate about deployment as there is significant server costs to be incurred when algorithms are run at scale. While for some applications, the cost might be justified, it might be not for others. So, what do we do to get better bang-for-buck ? Same, less generic and more optimized hardware.&lt;/p&gt;
 
-&lt;p&gt;AI specific hardware:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI specific hardware:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;There are two directions of work for AI specific chips :&lt;/p&gt;
 
@@ -104,7 +104,7 @@
 
 &lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-22-Thoughts-on-AI-specific-Hardware/media/image19.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Short term impact on Machine Learning companies (tech/businesswise) :&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span class=&quot;underline&quot;&gt;Short term impact on Machine Learning companies (tech/businesswise) :&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Cloud infrastructure bill for an AI company is comparatively higher than what it should be for a SaaS company of the same scale and revenue. The reason is that they right now use GPUs a lot. There are two types of GPUs in usage :&lt;/p&gt;
 
@@ -124,10 +124,10 @@
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;Long Term impact of AI hardware – Making AutoML feasible&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;span class=&quot;underline&quot;&gt;Long Term impact of AI hardware – Making AutoML feasible&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 
     &lt;ol&gt;
-      &lt;li&gt;[I was actually answering the question “Is the difference between AI specific hardware vs traditional GPU like manual shift and automatic shift in cars?”]&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;[I was actually answering the question “Is the difference between AI specific hardware vs traditional GPU like manual shift and automatic shift in cars?”]&lt;/strong&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
