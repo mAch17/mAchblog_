@@ -106,7 +106,7 @@ window.onload = wrap_img;
 
 <p>When I removed details specific to my startup (I am one of co-founders of <a href="https://www.paralleldots.com/"><span class="underline">ParallelDots</span></a>) from this answer, I found this had become a long essay! Before you read, please understand that this is an opinion/prediction document. I am not an expert at hardware and electronics by any means and there may be mistakes. I am just trying to make sense out of a related but unknown field to my field of work (My work is mostly in the field of Machine Learning and Software).</p>
 
-<p>Introduction &lt;&lt;here&gt;&gt;</p>
+<h1 id="introduction">Introduction</h1>
 
 <p>One subtrend in the recent AI interest post 2012 is that of AI specific hardware. We all know that it takes lot of (costly) hardware to train Deep Neural Network. Every Nvidia-GPU worth training AI on is a costly machine and the recent mega models trained on large repositories data are trained on an insane amount of compute. An excerpt from the latest BYOL self supervised learning paper by DeepMind:</p>
 
@@ -120,23 +120,23 @@ window.onload = wrap_img;
 
 <p>Let’s talk now about Computer hardware and AI specific hardware in particular:</p>
 
-<p>About Different Hardware Platforms &lt;here&gt;</p>
+<h1 id="about-different-hardware-platforms">About Different Hardware Platforms</h1>
 
-<p>Microprocessors/chips in our computers: &lt;here&gt;</p>
+<h2 id="microprocessorschips-in-our-computers">Microprocessors/chips in our computers:</h2>
 
 <p>To understand these, we will have to understand how does a program written by a person work ? A programming language compiler converts a program written by a human into a machine readable format. What is a machine readable format ? While most people understand that this is zeros and ones (which is true), in reality, the zeros and ones are actually a low level program that can run on hardware directly. Basically low level instructions are fabricated into the hardware directly. These low level instructions are for example, mathematical operations like Sum, Product, And, Or, Not etc. (General term for this set of logic fabricated into hardware is called instruction set). Now when we are building hardware for a general laptop say, we need to keep the instruction set “Turing Complete”. Turing Complete is a set of instructions in which any program can be represented. This enables the laptop’s chips to be generic and run any possible logic. However, a chip having a generic instruction set is not the most efficient chip for any possible problem. The generic instruction set is build in a way it is good enough for most problems, but specialized hardware is often added for tasks which require more computation. For example, Real Number operations (1.0+1.0) are relatively slow on a generic CPU as compared to Whole Number operations (1 + 1) as they require more computation. A hardware which just runs Floating Point computations fast is present in most Computers by default to optimize (due to the prevalence of floating point ops). In fact, VLSI research has progressed enough to make sure the specialized that floating point hardware is small enough to fit on CPU itself.</p>
 
-<p>GPUs:</p>
+<h2 id="gpus">GPUs:</h2>
 
 <p>GP-GPUs ( General Purpose – Graphic Processing Units), commonly known as GPUs are specialized hardware to run a set of mathematical operations very efficiently. When the feature rich GPUs came out in late-2000s, they were like a super computer could be installed right on your laptop. The compute GPUs provide actually enabled two big trends : Blockchain and AI. Most new Supercomputers we have now days are clusters of GPU. This is in stark contrast of just one decade back, when they were all special purpose hardware. GPUs are still quite general purpose, in the sense they cannot run all programs in parallel, but can run many mathematical operations in parallel. Due to this, they are costly. A simple trend can be understood that most bitcoin mining (which was one of the biggest usecases of GPUs earlier), has migrated to other specialized hardware as new hashes are rarer to find and incrementally more compute is needed as the currency is used. The special purpose hardware has less generic but more optimized functionality for bitcoin mining bringing the compute cost down.</p>
 
 <p>In AI, however, the compute cost is not climbing as much, so well GPUs still continue to be used. Also much more compute is needed at the time of training than deployment. However, there is almost always a debate about deployment as there is significant server costs to be incurred when algorithms are run at scale. While for some applications, the cost might be justified, it might be not for others. So, what do we do to get better bang-for-buck ? Same, less generic and more optimized hardware.</p>
 
-<p>AI specific hardware: &lt;here&gt;</p>
+<h2 id="ai-specific-hardware">AI specific hardware:</h2>
 
 <p>There are two directions of work for AI specific chips :</p>
 
-<p>The bitcoin way : &lt;here&gt;</p>
+<h3 id="the-bitcoin-way-">The bitcoin way :</h3>
 
 <p>That is make more specific hardware than only target the GPU instruction set components aiding Neural Network training (GPUs have a broader instruction set that runs Graphics operations along with other compute). This is how most Bitcoin specific hardware was developed and this has been quite successful there(Technique is called ASICS – Application Specific ICs). In AI technology too, many people have tried this model successfully.</p>
 
@@ -157,11 +157,13 @@ window.onload = wrap_img;
 <p><img src="https://muktabh.xyz/assets/img/2020-06-22-Thoughts-on-AI-specific-Hardware/media/image9.png" alt="" /></p>
 
 <ol>
-  <li>
-    <p>The Brain inspired way &lt;this&gt;</p>
+  <li>,.,.,.,.,.,.,.,.,.</li>
+</ol>
 
-    <p>This is a different approach to build AI specific hardware. Also this is more “cool” in the way that it wants to change the hardware implementation quite fundamentally. While Matrix Multiplications and Vector Operations are layer by layer way to abstract a Neural Network operation, One can abstract it out in another way, at neuron level. Infact the Matrix Multiplication and non-linearity combination we use for every layer of Neural Network can be thought of as less efficient way of implementing artificial neurons in one layer of neural network. If we can represent the artificial neuron on the hardware, we don’t need to even do these costly matrix multiplications (and so hardware costs should go down even more). Essentially the instruction set for running neural networks will now change from Matrix multiplications to neurons. The method is more interesting also because one is building hardware that actually tries to emulate brain Neurons (We do it in software for a very long time, it will now be available in hardware directly). The long term aim here is that we should be able to pack much much more optimized compute for AI algorithms on one chip than what we have now, increasing the training and inference accuracy manifold.</p>
-  </li>
+<h3 id="the-brain-inspired-way">The Brain Inspired Way</h3>
+
+<ol>
+  <li>This is a different approach to build AI specific hardware. Also this is more “cool” in the way that it wants to change the hardware implementation quite fundamentally. While Matrix Multiplications and Vector Operations are layer by layer way to abstract a Neural Network operation, One can abstract it out in another way, at neuron level. Infact the Matrix Multiplication and non-linearity combination we use for every layer of Neural Network can be thought of as less efficient way of implementing artificial neurons in one layer of neural network. If we can represent the artificial neuron on the hardware, we don’t need to even do these costly matrix multiplications (and so hardware costs should go down even more). Essentially the instruction set for running neural networks will now change from Matrix multiplications to neurons. The method is more interesting also because one is building hardware that actually tries to emulate brain Neurons (We do it in software for a very long time, it will now be available in hardware directly). The long term aim here is that we should be able to pack much much more optimized compute for AI algorithms on one chip than what we have now, increasing the training and inference accuracy manifold.</li>
 </ol>
 
 <p><strong>So how do these hardware designs work you ask ? Let’s do a mini survey :</strong></p>
@@ -208,9 +210,9 @@ window.onload = wrap_img;
 
 <p><img src="https://muktabh.xyz/assets/img/2020-06-22-Thoughts-on-AI-specific-Hardware/media/image19.png" alt="" /></p>
 
-<p>Short term impact on Machine Learning companies (tech/businesswise) : &lt;here&gt;</p>
+<h1 id="short-term-impact-on-machine-learning-companies-techbusinesswise-">Short term impact on Machine Learning companies (tech/businesswise) :</h1>
 
-<p>Cloud infrastructure bill for an AI company is comparatively higher than what it should be for a SaaS company of the same scale and revenue. The reason is that they right now use GPUs a lot. There are two types of GPUs in usage :</p>
+<p>Short Term changes are not really hard to guess. Cloud infrastructure bill for an AI company is comparatively higher than what it should be for a SaaS company of the same scale and revenue. The reason is that they right now use GPUs a lot. There are two types of GPUs in usage :</p>
 
 <p>A. Cheaper low power GPUs to deploy AI models. On cloud generally Nvidia T4/P4 are used. This is one area where alternative AI hardware has made inroads. TPUs are pretty common alternative on cloud here and devices like Nvidia Jetson nano , Google Coral and Intel Neural Compute Stick in IoT.</p>
 
@@ -226,9 +228,9 @@ window.onload = wrap_img;
 
 <p>“One requirement for all AI specific hardware platforms is to make the cost to switch very low. The more code needs to be rewritten to adapt software to the new platforms, the bigger gains in performance they will have to show to the people to make the investment to switch.”</p>
 
-<p>Long Term Effect of AI specific hardware &lt;This&gt;</p>
+<h1 id="long-term-effect-of-ai-specific-hardware--rise-of-automl">Long Term Effect of AI specific hardware – Rise of AutoML</h1>
 
-<p>[I was actually answering “Is the relationship between AI hardware and GPU like that of manual shift and automatic shift in cars ?”] &lt;This&gt;</p>
+<h2 id="i-was-actually-answering-is-the-relationship-between-ai-hardware-and-gpu-like-that-of-manual-shift-and-automatic-shift-in-cars-">[I was actually answering “Is the relationship between AI hardware and GPU like that of manual shift and automatic shift in cars ?”]</h2>
 
 <p>A good analogy for GPUs and AI specific hardware is IC Engine vs Electric Vehicle hardware. Its a new way of doing the same thing efficiently. For example, no changes in code need to be done to deploy a model trained on Nvidia GPUs and to make it work on Google’s AI specific hardware(TPUs). You won’t even feel the difference while working on an AI problem as an engineer, but the hardware that deploys code is more efficient and costs less. Free lunch in some ways (you do lose some flexibility of writing more generic programs with the general purpose hardware as I said earlier, but it doesn’t matter for most AI algorithms). What is happening with the AI specific hardware is the AI programs we write burn less compute/context in getting translated to hardware code to run (because of some software instructions now directly runnable on hardware without translation) and hence more compute to run the programs themselves.</p>
 
