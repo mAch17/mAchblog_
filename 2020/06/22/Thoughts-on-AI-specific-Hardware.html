@@ -136,7 +136,7 @@ window.onload = wrap_img;
 
 <p>There are two directions of work for AI specific chips :</p>
 
-<p>1. <strong>The bitcoin way :</strong></p>
+<p><strong>The bitcoin way :</strong></p>
 
 <p>That is make more specific hardware than only target the GPU instruction set components aiding Neural Network training (GPUs have a broader instruction set that runs Graphics operations along with other compute). This is how most Bitcoin specific hardware was developed and this has been quite successful there(Technique is called ASICS – Application Specific ICs). In AI technology too, many people have tried this model successfully.</p>
 
@@ -157,7 +157,7 @@ window.onload = wrap_img;
 <p><img src="https://muktabh.xyz/assets/img/2020-06-22-Thoughts-on-AI-specific-Hardware/media/image9.png" alt="" /></p>
 
 <ol>
-  <li>2. <strong>The Brain Inspired Way :</strong></li>
+  <li><strong>The Brain Inspired Way :</strong></li>
 </ol>
 
 <p>This is a different approach to build AI specific hardware. Also this is more “cool” in the way that it wants to change the hardware implementation quite fundamentally. While Matrix Multiplications and Vector Operations are layer by layer way to abstract a Neural Network operation, One can abstract it out in another way, at neuron level. Infact the Matrix Multiplication and non-linearity combination we use for every layer of Neural Network can be thought of as less efficient way of implementing artificial neurons in one layer of neural network. If we can represent the artificial neuron on the hardware, we don’t need to even do these costly matrix multiplications (and so hardware costs should go down even more). Essentially the instruction set for running neural networks will now change from Matrix multiplications to neurons. The method is more interesting also because one is building hardware that actually tries to emulate brain Neurons (We do it in software for a very long time, it will now be available in hardware directly). The long term aim here is that we should be able to pack much much more optimized compute for AI algorithms on one chip than what we have now, increasing the training and inference accuracy manifold.</p>
@@ -222,7 +222,7 @@ window.onload = wrap_img;
 
 <p>2. Larger and more accurate models will be trained. At least for now, it seems “Bigger is Better” is true in Neural Networks.</p>
 
-<p><em>One requirement for all AI specific hardware platforms is to make the cost to switch very low. The more code needs to be rewritten to adapt software to the new platforms, the bigger gains in performance they will have to show to the people to make the investment to switch.</em></p>
+<p>“One requirement for all AI specific hardware platforms is to make the cost to switch very low. The more code needs to be rewritten to adapt software to the new platforms, the bigger gains in performance they will have to show to the people to make the investment to switch.”</p>
 
 <ol>
   <li>

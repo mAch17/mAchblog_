@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-06-22T13:10:34-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Thoughts On Ai Specific Hardware</title><link href="https://muktabh.xyz/2020/06/22/Thoughts-on-AI-specific-Hardware.html" rel="alternate" type="text/html" title="Thoughts On Ai Specific Hardware" /><published>2020-06-22T00:00:00-05:00</published><updated>2020-06-22T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/06/22/Thoughts-on-AI-specific-Hardware</id><content type="html" xml:base="https://muktabh.xyz/2020/06/22/Thoughts-on-AI-specific-Hardware.html">&lt;p&gt;I wrote this as an explanation of how AI specific hardware (in fact also how any hardware) works in combination with the Software and how it might effect AI startups in short term and long term.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-06-22T14:23:52-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Thoughts On Ai Specific Hardware</title><link href="https://muktabh.xyz/2020/06/22/Thoughts-on-AI-specific-Hardware.html" rel="alternate" type="text/html" title="Thoughts On Ai Specific Hardware" /><published>2020-06-22T00:00:00-05:00</published><updated>2020-06-22T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/06/22/Thoughts-on-AI-specific-Hardware</id><content type="html" xml:base="https://muktabh.xyz/2020/06/22/Thoughts-on-AI-specific-Hardware.html">&lt;p&gt;I wrote this as an explanation of how AI specific hardware (in fact also how any hardware) works in combination with the Software and how it might effect AI startups in short term and long term.&lt;/p&gt;
 
 &lt;p&gt;By AI specific hardware, I mean new chips being developed just for running AI algorithms in general. However, in this discussion I will speak about hardware being developed to run Deep Learning algorithms in particular. The reason is : A. Deep Learning algorithms require way more compute than any other AI algorithms and thus AI specific hardware is more desired for them. We already need special Hardware like GPUs to run them for all practical purposes. B. Other Machine Learning algorithms (and even normal data analytics) have started migrating to GPU only recently and not too much work seems to have been done to make specialized hardware for them.&lt;/p&gt;
 
@@ -34,7 +34,7 @@
 
 &lt;p&gt;There are two directions of work for AI specific chips :&lt;/p&gt;
 
-&lt;p&gt;1. &lt;strong&gt;The bitcoin way :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The bitcoin way :&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;That is make more specific hardware than only target the GPU instruction set components aiding Neural Network training (GPUs have a broader instruction set that runs Graphics operations along with other compute). This is how most Bitcoin specific hardware was developed and this has been quite successful there(Technique is called ASICS – Application Specific ICs). In AI technology too, many people have tried this model successfully.&lt;/p&gt;
 
@@ -55,7 +55,7 @@
 &lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-22-Thoughts-on-AI-specific-Hardware/media/image9.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;2. &lt;strong&gt;The Brain Inspired Way :&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The Brain Inspired Way :&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;This is a different approach to build AI specific hardware. Also this is more “cool” in the way that it wants to change the hardware implementation quite fundamentally. While Matrix Multiplications and Vector Operations are layer by layer way to abstract a Neural Network operation, One can abstract it out in another way, at neuron level. Infact the Matrix Multiplication and non-linearity combination we use for every layer of Neural Network can be thought of as less efficient way of implementing artificial neurons in one layer of neural network. If we can represent the artificial neuron on the hardware, we don’t need to even do these costly matrix multiplications (and so hardware costs should go down even more). Essentially the instruction set for running neural networks will now change from Matrix multiplications to neurons. The method is more interesting also because one is building hardware that actually tries to emulate brain Neurons (We do it in software for a very long time, it will now be available in hardware directly). The long term aim here is that we should be able to pack much much more optimized compute for AI algorithms on one chip than what we have now, increasing the training and inference accuracy manifold.&lt;/p&gt;
@@ -120,7 +120,7 @@
 
 &lt;p&gt;2. Larger and more accurate models will be trained. At least for now, it seems “Bigger is Better” is true in Neural Networks.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;One requirement for all AI specific hardware platforms is to make the cost to switch very low. The more code needs to be rewritten to adapt software to the new platforms, the bigger gains in performance they will have to show to the people to make the investment to switch.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“One requirement for all AI specific hardware platforms is to make the cost to switch very low. The more code needs to be rewritten to adapt software to the new platforms, the bigger gains in performance they will have to show to the people to make the investment to switch.”&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
