@@ -101,7 +101,7 @@ window.onload = wrap_img;
 
   <div class="post-content e-content" itemprop="articleBody">
     <ol>
-  <li>Thoughts on the trend around AI (Neural Network) hardware</li>
+  <li><strong>Thoughts on the trend around AI (Neural Network) hardware</strong></li>
 </ol>
 
 <p>I wrote this as an explanation of how AI specific hardware (in fact also how any hardware) works in combination with the Software and how it might effect AI startups in short term and long term.</p>
@@ -110,7 +110,13 @@ window.onload = wrap_img;
 
 <p>When I removed details specific to my startup (I am one of co-founders of <a href="https://www.paralleldots.com/"><span class="underline">ParallelDots</span></a>) from this answer, I found this had become a long essay! Before you read, please understand that this is an opinion/prediction document. I am not an expert at hardware and electronics by any means and there may be mistakes. I am just trying to make sense out of a related but unknown field to my field of work (My work is mostly in the field of Machine Learning and Software).</p>
 
-<h1 id="introduction">Introduction</h1>
+<ol>
+  <li>
+    <p>#</p>
+
+    <h1 id="introduction">Introduction</h1>
+  </li>
+</ol>
 
 <p>One subtrend in the recent AI interest post 2012 is that of AI specific hardware. We all know that it takes lot of (costly) hardware to train Deep Neural Network. Every Nvidia-GPU worth training AI on is a costly machine and the recent mega models trained on large repositories data are trained on an insane amount of compute. An excerpt from the latest BYOL self supervised learning paper by DeepMind:</p>
 
@@ -122,15 +128,17 @@ window.onload = wrap_img;
 
 <p><img src="https://muktabh.xyz/assets/img/2020-06-22-Thoughts-on-AI-specific-Hardware/media/image5.png" alt="" />So, I hope everyone agrees that research on Deep Learning specific hardware is not a bad investment. It can make deploying AI cheaper, reduce CO2 emissions and many do many other good things. More efficient Hardware will give better results. In fact, even the post AlexNet Deep Learning revolution happened because GPUs were made available. Convnets/LSTMs have been around since late 1980s- early 1990s, nothing substancial came out before the hardware was available.</p>
 
-<p>Let’s talk now about Computer hardware and AI specific hardware in particular :</p>
+<p>Let’s talk now about Computer hardware and AI specific hardware in particular:</p>
 
 <ol>
   <li>
+    <p>#</p>
+
     <h1 id="about-different-hardware-platforms">About Different Hardware Platforms</h1>
 
     <ol>
       <li>
-        <h2 id="lets-talk-about-any-microprocessorchip-first">Let’s talk about any microprocessor/chip first.</h2>
+        <h2 id="microprocessorschips-in-our-computers">Microprocessors/chips in our computers</h2>
       </li>
     </ol>
   </li>
@@ -140,15 +148,21 @@ window.onload = wrap_img;
 
 <h2 id="gpus">GPUs:</h2>
 
-<p>GP-GPUs ( General Purpose – Graphic Processing Units), commonly known as GPUs are specialized hardware to run some mathematical operations very efficiently. When the feature rich ones came out in late-2000s, they were like a super computer could be installed right on your laptop. The compute GPUs provide actually enabled two big trends : Blockchain and AI. Most new Supercomputers we have now days are clusters of GPU. This is in stark contrast of just one decade back, when they were all special purpose hardware. GPUs are still quite general purpose, in the sense they cannot run all programs in parallel, but can run many mathematical operations in parallel. Due to this, they are costly. A simple trend can be understood that most bitcoin mining (which was one of the biggest usecases of GPUs earlier), has migrated to other specialized hardware as new hashes are rarer to find and incrementally more compute is needed as the currency is used. The special purpose hardware has less generic but more optimized functionality for bitcoin mining bringing the compute cost down.</p>
+<p>GP-GPUs ( General Purpose – Graphic Processing Units), commonly known as GPUs are specialized hardware to run a set of mathematical operations very efficiently. When the feature rich GPUs came out in late-2000s, they were like a super computer could be installed right on your laptop. The compute GPUs provide actually enabled two big trends : Blockchain and AI. Most new Supercomputers we have now days are clusters of GPU. This is in stark contrast of just one decade back, when they were all special purpose hardware. GPUs are still quite general purpose, in the sense they cannot run all programs in parallel, but can run many mathematical operations in parallel. Due to this, they are costly. A simple trend can be understood that most bitcoin mining (which was one of the biggest usecases of GPUs earlier), has migrated to other specialized hardware as new hashes are rarer to find and incrementally more compute is needed as the currency is used. The special purpose hardware has less generic but more optimized functionality for bitcoin mining bringing the compute cost down.</p>
 
 <p>In AI, however, the compute cost is not climbing as much, so well GPUs still continue to be used. Also much more compute is needed at the time of training than deployment. However, there is almost always a debate about deployment as there is significant server costs to be incurred when algorithms are run at scale. While for some applications, the cost might be justified, it might be not for others. So, what do we do to get better bang-for-buck ? Same, less generic and more optimized hardware.</p>
 
 <h2 id="ai-specific-hardware">AI specific hardware:</h2>
 
-<p>There are two directions for AI specific chips around:</p>
+<p>There are two directions of work for AI specific chips :</p>
 
-<h3 id="1-the-bitcoin-way-">1. <strong>The bitcoin way :</strong></h3>
+<ol>
+  <li>
+    <p>###</p>
+
+    <h3 id="1-the-bitcoin-way-">1. <strong>The bitcoin way :</strong></h3>
+  </li>
+</ol>
 
 <p>That is make more specific hardware than only target the GPU instruction set components aiding Neural Network training (GPUs have a broader instruction set that runs Graphics operations along with other compute). This is how most Bitcoin specific hardware was developed and this has been quite successful there(Technique is called ASICS – Application Specific ICs). In AI technology too, many people have tried this model successfully.</p>
 
@@ -216,7 +230,13 @@ window.onload = wrap_img;
 
 <p><img src="https://muktabh.xyz/assets/img/2020-06-22-Thoughts-on-AI-specific-Hardware/media/image19.png" alt="" /></p>
 
-<h1 id="short-term-impact-on-machine-learning-companies-techbusinesswise-">Short term impact on Machine Learning companies (tech/businesswise) :</h1>
+<ol>
+  <li>
+    <p>#</p>
+
+    <h1 id="short-term-impact-on-machine-learning-companies-techbusinesswise-">Short term impact on Machine Learning companies (tech/businesswise) :</h1>
+  </li>
+</ol>
 
 <p>Cloud infrastructure bill for an AI company is comparatively higher than what it should be for a SaaS company of the same scale and revenue. The reason is that they right now use GPUs a lot. There are two types of GPUs in usage :</p>
 
