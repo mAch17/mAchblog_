@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-06-22T15:50:24-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Thoughts On Ai Specific Hardware</title><link href="https://muktabh.xyz/2020/06/22/Thoughts-on-AI-specific-Hardware.html" rel="alternate" type="text/html" title="Thoughts On Ai Specific Hardware" /><published>2020-06-22T00:00:00-05:00</published><updated>2020-06-22T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/06/22/Thoughts-on-AI-specific-Hardware</id><content type="html" xml:base="https://muktabh.xyz/2020/06/22/Thoughts-on-AI-specific-Hardware.html">&lt;p&gt;I wrote this as an explanation of how AI specific hardware (in fact also how any hardware) works in combination with the Software and how it might effect AI startups in short term and long term.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-06-27T05:37:18-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Thoughts On Ai Specific Hardware</title><link href="https://muktabh.xyz/2020/06/22/Thoughts-on-AI-specific-Hardware.html" rel="alternate" type="text/html" title="Thoughts On Ai Specific Hardware" /><published>2020-06-22T00:00:00-05:00</published><updated>2020-06-22T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/06/22/Thoughts-on-AI-specific-Hardware</id><content type="html" xml:base="https://muktabh.xyz/2020/06/22/Thoughts-on-AI-specific-Hardware.html">&lt;p&gt;I wrote this as an explanation of how AI specific hardware (in fact also how any hardware) works in combination with the Software and how it might effect AI startups in short term and long term.&lt;/p&gt;
 
 &lt;p&gt;By AI specific hardware, I mean new chips being developed just for running AI algorithms in general. However, in this discussion I will speak about hardware being developed to run Deep Learning algorithms in particular. The reason is : A. Deep Learning algorithms require way more compute than any other AI algorithms and thus AI specific hardware is more desired for them. We already need special Hardware like GPUs to run them for all practical purposes. B. Other Machine Learning algorithms (and even normal data analytics) have started migrating to GPU only recently and not too much work seems to have been done to make specialized hardware for them.&lt;/p&gt;
 
@@ -861,7 +861,80 @@ The day to day tasks of actual Data Scientists, say working at Facebook AI resea
       &lt;p&gt;With more uncertainty in jobs, millenials probably will want to be a less “spend-y” and more frugal. You can see things happening already &lt;a href=&quot;https://www.businessinsider.in/6-reasons-why-more-millennials-arent-buying-homes/articleshow/59005530.cms&quot;&gt;&lt;span class=&quot;underline&quot;&gt;6 reasons why more millennials aren’t buying homes&lt;/span&gt;&lt;/a&gt; and will actually increase. AI is just a trend in a longer cycle of Automation and millenials are at a point in history where education+society was according to old norms but automation has reached a point where jobs have become uncertain. Younger people will be smarter.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">Some thoughts around prevalent AI Ludditism [From Quora answers]</summary></entry><entry><title type="html">Views On Indian Startups</title><link href="https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups.html" rel="alternate" type="text/html" title="Views On Indian Startups" /><published>2020-04-14T00:00:00-05:00</published><updated>2020-04-14T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups</id><content type="html" xml:base="https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups.html">&lt;h1 id=&quot;some-thoughts-about-indian-startup-scene-as-various-answers-to-quora-questions&quot;&gt;Some Thoughts about Indian Startup Scene (As various answers to Quora questions)&lt;/h1&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;my-answer-to-should-facial-recognition-technology-be-banned-considering-it-can-do-more-harm-than-good&quot;&gt;My answer to “Should facial recognition technology be banned considering it can do more harm than good?”&lt;/h3&gt;
+
+&lt;p&gt;“It can do more harm than good.” How is this proven ? This is just a subjective opinion. If we were to make regulations on subjective opinions, we would ban many things just because people thought they are bad. Unfortunately, Humans do react to emotionally and based on opinions. we have regulated away (or are trying to regulate away) innovation in fields which can potentially solve the biggest problems the world is facing right now, because we were made to emotionally believe that the fields are bad, just like how the OP thinks about Facial Recognition today.&lt;/p&gt;
+
+&lt;p&gt;Let me give some examples :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Research in Nuclear Engineering and making reactors has been sidelined and demonized so much that very less innovation than expected has happened in these fields. We could have by now potentially removed all polluting coal power if we would have innovated well and global warming would not have been an issue maybe. But no, because people are made to believe that Nuclear power itself is bad, our democratic institutions have neglected this field. There is no doubt about the fact that Nuclear reactors malfunctioned in past and there were nuclear weapons. The correct way should have been to promote Nuclear technology that is less risky and cannot be weaponized. But that would not have struck a chord with the armchair smart people that run the world as its a boring pitch.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;That’s not the only thing. We have to feed everyone in the world and we are willing to promote insects as a potential protein source than promoting work on GMOs. The most sensible solution would have been to estimate what is the total capacity of Earth to sustain human population and check the rise accordingly. Dont push something you don’t know the response of. We don’t do so, because that disregards human freedom and also would lower the return on our financial investments. When we don’t understand how to feed these new people we would either build a class exploitation theory (which is not entirely wrong, but that’s not the only reason) or just ask them to eat insects for protein. A better way to solve this would be by making more resistant crops using GMOs. Genetic Modifications is something humans have been anyway doing by force breeding plants and animals, but in a slow long term way. All technology enables us to do is to make the process faster. Of course, no one is denying potential risks of GMOs and we should regulate GMOs for these, but building a culture and opinion around “organic food” and demonizing them completely is not what would be sustainable.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-05-23-Replies-To-Questions-On-AI-Ludditism/media/image5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Anti-nuclear_movement&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Anti-nuclear movement - Wikipedia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-05-23-Replies-To-Questions-On-AI-Ludditism/media/image6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Genetically_modified_food_controversies#Public_relations_campaigns_and_protests&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Genetically modified food controversies - Wikipedia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;Things still move in background but very slowly for these two and many such fields which common public feel the fields are bad because their security is threatened. There is no doubt that regulation is needed to protect public security, but banning fields of science and demonizing them are modern equivalents to &lt;a href=&quot;https://en.wikipedia.org/wiki/Book_burning&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Book burning - Wikipedia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;. Stupid and Luddite.&lt;/p&gt;
+
+&lt;p&gt;Now, let’s come to the current question. “Should Face Recognition be banned altogether ?” .&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Can you guarantee that banning it would stop government and people in power snooping on innocent people ?&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Can you guarantee that all the lives Face Recognition surveillance saves from terrorists and wrong doers will still be saved ? If no, are the potential lives saved by this technology of lesser importance than your own life ? Why should they go to waste ?&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;All AI phrenology is snake oil. &lt;a href=&quot;https://en.wikipedia.org/wiki/Phrenology&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Phrenology - Wikipedia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- end list --&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;. AI to determine the right candidate for the job, AI to determine gender/sexual orientation, AI to determine criminal action. All these fields are snake oil from what I understand. So if you are making this as a case against Facial Recognition, you are reading one or both out of hyped up media and bad research.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I have no doubt that there are potential wrongdoings that Facial Recognition can be used for. Stopping that by regulations is why we elect people into parliaments and legislatures. I really like how the cigarette companies are required to put photos of the potential bad effects of their products on packets by regulation, fantastic trick of regulation. There is then gatekeeping regulation with thick red tape so that only big firms with lawyers can deal with. That is another way how the negative hype can be used to restrict innovation.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There should be restriction of bad practices. But if people force them to take stupid book burning decisions, we are destined to not cross the great filter. &lt;a href=&quot;https://en.wikipedia.org/wiki/Great_Filter&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Great Filter - Wikipedia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If this answer feels wrong and boring, that is how most real world issues are : &lt;strong&gt;Complex&lt;/strong&gt; and not solvable with one line blanket statements like : “Ban X” and “F**K Y”.&lt;/p&gt;</content><author><name></name></author><summary type="html">Some thoughts around prevalent AI Ludditism [From Quora answers]</summary></entry><entry><title type="html">Views On Indian Startups</title><link href="https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups.html" rel="alternate" type="text/html" title="Views On Indian Startups" /><published>2020-04-14T00:00:00-05:00</published><updated>2020-04-14T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups</id><content type="html" xml:base="https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups.html">&lt;h1 id=&quot;some-thoughts-about-indian-startup-scene-as-various-answers-to-quora-questions&quot;&gt;Some Thoughts about Indian Startup Scene (As various answers to Quora questions)&lt;/h1&gt;
 
 &lt;h3 id=&quot;my-answer-to-how-can-you-define-the-indian-startup-economy&quot;&gt;My answer to “How can you define the Indian startup economy?&lt;/h3&gt;
 
