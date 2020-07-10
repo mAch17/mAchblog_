@@ -26,18 +26,18 @@ I was invited to Forbes India Tweetathon, where I answered questions around Role
 
 ## AnalyticsJobs Magazine
 
-![AnalyticsJobsPic1]({{site.baseurl}}/images/AJ1.jpg =250x)
+![AnalyticsJobsPic1]({{site.baseurl}}/images/AJ1.jpg)
 
 AnalyticsJobs magazine interviewed me about usage of AI at ParallelDots and Data Science/AI jobs oppurtunities.
 
 [Link to the interview]([https://analyticsjobs.in/feature-startup/how-parallel-dots-is-using-ai-to-increase-products-visibility-in-retail-industry/?fbclid=IwAR3LWiMmFQR7bL62Fvrl5a_LC0PF1rnGAZ67Ag8er256DV4ZqrbgfpekDxY](https://analyticsjobs.in/feature-startup/how-parallel-dots-is-using-ai-to-increase-products-visibility-in-retail-industry/?fbclid=IwAR3LWiMmFQR7bL62Fvrl5a_LC0PF1rnGAZ67Ag8er256DV4ZqrbgfpekDxY))
 
-![AnalyticsJobsPic2]({{site.baseurl}}/images/AJ2.jpg =250x)
+![AnalyticsJobsPic2]({{site.baseurl}}/images/AJ2.jpg)
 
 ## BrilliantRead Magazine
 
 BrilliantRead magazine interviewed me about my entrepreneurial journey.
 
-![BrilliantReadImage]({{site.baseurl}}/images/BR.png =250x)
+![BrilliantReadImage]({{site.baseurl}}/images/BR.png)
 
 [Link to the interview]([https://www.brilliantread.com/interview-with-muktabh-mayank-co-founder-at-paralleldots/?fbclid=IwAR2bwomJKQZDU7Tyj61ASFjn0ENPqWRjPWQjurFzCFv82yYl-F9_MriQ7yA](https://www.brilliantread.com/interview-with-muktabh-mayank-co-founder-at-paralleldots/?fbclid=IwAR2bwomJKQZDU7Tyj61ASFjn0ENPqWRjPWQjurFzCFv82yYl-F9_MriQ7yA))
