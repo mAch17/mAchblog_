@@ -16,7 +16,7 @@ My name is Muktabh Mayank Srivastava. I am a Data Scientist and an Entrepreneur.
 
 - Musings on The World, Science, History and India.
 
-![Picture](..\images\me.jpg)
+![Picture]({{site.baseurl}}/images/me.jpg)
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
