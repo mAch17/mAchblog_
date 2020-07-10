@@ -6,7 +6,7 @@ Sharing links to a few interviews I gave to some online magazines :
 
 ![Forbes Poster]({{site.baseurl}}/images/ForbesTweetathon.jpg)
 
-I was invited to Forbes India Tweetathon, where I answered questions around Role of AI in COVID19 recovery. Links to my answers follow:
+I was invited to Forbes India Tweetathon, where I answered questions around Role of AI in COVID19 recovery. Links to my answers follow: (Please double click on the tweet that opens to see the full answer in multiple tweets, sorry, Twitter UX, cant help ! )
 
 * [How has the past few months changed the way organisations think and function, and are decades old management lessons now redundant? ](https://twitter.com/muktabh/status/1277568498680520704)
 
