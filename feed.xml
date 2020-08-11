@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-08-11T01:21:56-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Links To Some Interviews</title><link href="https://muktabh.xyz/2020/07/10/Links-To-Some-Interviews.html" rel="alternate" type="text/html" title="Links To Some Interviews" /><published>2020-07-10T00:00:00-05:00</published><updated>2020-07-10T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/07/10/Links-To-Some-Interviews</id><content type="html" xml:base="https://muktabh.xyz/2020/07/10/Links-To-Some-Interviews.html">&lt;h1 id=&quot;links-to-some-inteviews-of-me&quot;&gt;Links to some inteviews of Me&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-08-11T01:32:53-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Links To Some Interviews</title><link href="https://muktabh.xyz/2020/07/10/Links-To-Some-Interviews.html" rel="alternate" type="text/html" title="Links To Some Interviews" /><published>2020-07-10T00:00:00-05:00</published><updated>2020-07-10T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/07/10/Links-To-Some-Interviews</id><content type="html" xml:base="https://muktabh.xyz/2020/07/10/Links-To-Some-Interviews.html">&lt;h1 id=&quot;links-to-some-inteviews-of-me&quot;&gt;Links to some inteviews of Me&lt;/h1&gt;
 
 &lt;p&gt;Sharing links to a few interviews I gave to some online magazines :&lt;/p&gt;
 
@@ -727,7 +727,50 @@ Run. All I can understand is that the company you work in wants you to be a code
 
 &lt;p&gt;The other way can be , take a novice level job (given you are a novice and not a beginner) in a large company where you are getting the profile you want and get some experience by their training. You can join a startup later if you don’t find their culture good.&lt;/p&gt;
 
-&lt;p&gt;If you are beginner/advanced beginner who is applying to work in startups for free and not getting calls, improve your medium (switch to Hasgeek/AngelList etc) , because this is not really possible if you are doing it well.&lt;/p&gt;</content><author><name></name></author><summary type="html">Some instances where I advised Software Developers to run away from their employer on Quora!</summary></entry><entry><title type="html">Replies To Questions On Ai Ludditism</title><link href="https://muktabh.xyz/2020/05/23/Replies-To-Questions-On-AI-Ludditism.html" rel="alternate" type="text/html" title="Replies To Questions On Ai Ludditism" /><published>2020-05-23T00:00:00-05:00</published><updated>2020-05-23T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/05/23/Replies-To-Questions-On-AI-Ludditism</id><content type="html" xml:base="https://muktabh.xyz/2020/05/23/Replies-To-Questions-On-AI-Ludditism.html">&lt;h1 id=&quot;some-thoughts-around-prevalent-ai-ludditism-from-quora-answers&quot;&gt;Some thoughts around prevalent AI Ludditism [From Quora answers]&lt;/h1&gt;
+&lt;p&gt;If you are beginner/advanced beginner who is applying to work in startups for free and not getting calls, improve your medium (switch to Hasgeek/AngelList etc) , because this is not really possible if you are doing it well.&lt;/p&gt;
+
+&lt;h3 id=&quot;q-why-do-people-run-towards-latest-technologies-in-the-it-sector-when-people-working-on-c-and-c-are-also-earning-lakhs-per-month&quot;&gt;Q. Why do people run towards latest technologies in the IT sector when people working on C and C++ are also earning lakhs per month?&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here: &lt;a href=&quot;https://qr.ae/pN283O&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/pN283O&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;One or both out of two reasons :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;To look desirable&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;To take advantage of arbitrage a new field creates&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Both these are quite related. Humans find people who take advantage of new techniques desirable probably because they have been more successful along evolution. An ape that used a piece of Iron to kill a larger mammoth would have become leader of its tribe, people who discovered gunpowder built huge empires and amassed riches. Many of us try doing new cool things just to look more desirable (without understanding that we are also trying to play a game of arbitrage beneath the hood as taught by evolution) as just looking desirable feels like a good enough reward to us.&lt;/p&gt;
+
+&lt;p&gt;So what is arbitrage in learning something new ?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Its harder to reach at the top in a competitive field with strong competitors. Lets ask a simple question, “Is it easier to get into football team of your school or into the curling team of your school ? (Example taken understanding most people in India wont even know what curling is)”. If you have a hint that with some probability curling is going to go big in next few years (arbitrage 1), you can try to cash in this knowledge to become leader in curling when no one is interested into it. Then, when later curling rises in probability, you will get asymmetric benefits despite how skilled you are at it. A mediocre early bird player is probably as well known as a excellent curling player who joins later. It is a bet to put ones faith in a new field, that will give better results than pure meritocracy in a new upcoming fields to early adopters if the new field picks up, but might be a waste of time and resources if the field fizzles out. The phenomenon is called &lt;a href=&quot;https://en.wikipedia.org/wiki/Preferential_attachment&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Preferential attachment – Wikipedia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Many people will try to gain fortunes if a new field starts becoming popular. The demand for expertise goes up by a lot. Supply of talent will take a lot of time to catch up as not everyone has time and money to learn new arts, yielding immense financial rewards for early experts (arbitrage 2). If you specialize in such a new field, you can make use of it to earn much more than what you would deserve in a normalized playing field. The phenomenon is called &lt;a href=&quot;https://en.wikipedia.org/wiki/Shortage&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Shortage – Wikipedia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Older fields also make you compete against more senior people. Senior people are more adverse to change and will try not to jump into new fields. If you get into an old field, you have to compete with people who are much more experienced and have cumulative knowledge gathered for really long, so an experienced person of same caliber as you will be quite ahead of you. That is way harder than competing on a level playing field. There is also the phenomenon of gate keeping. &lt;a href=&quot;https://en.wikipedia.org/wiki/Gatekeeping_\(education\)&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Gatekeeping (education) - Wikipedia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;So to summarize you can earn lot of money in both old and new fields, but its easier to get lucky in a new field. So its way harder to reach near top of hierarchy in an older more established field. In a newer field, you can earn more when normalized by your caliber and your experience. HTH.&lt;/p&gt;</content><author><name></name></author><summary type="html">Some instances where I advised Software Developers to run away from their employer on Quora!</summary></entry><entry><title type="html">Replies To Questions On Ai Ludditism</title><link href="https://muktabh.xyz/2020/05/23/Replies-To-Questions-On-AI-Ludditism.html" rel="alternate" type="text/html" title="Replies To Questions On Ai Ludditism" /><published>2020-05-23T00:00:00-05:00</published><updated>2020-05-23T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/05/23/Replies-To-Questions-On-AI-Ludditism</id><content type="html" xml:base="https://muktabh.xyz/2020/05/23/Replies-To-Questions-On-AI-Ludditism.html">&lt;h1 id=&quot;some-thoughts-around-prevalent-ai-ludditism-from-quora-answers&quot;&gt;Some thoughts around prevalent AI Ludditism [From Quora answers]&lt;/h1&gt;
 
 &lt;p&gt;I have tried to clarify some common fears people have around AI eating their jobs in my Quora answers.&lt;/p&gt;
 
@@ -1690,10 +1733,14 @@ Indians pay for Education. The recent wave of eductech startups might also solve
     &lt;blockquote&gt;
       &lt;p&gt;Not focusing on basics numpy and pandas. As I said earlier, you need to iterate over many ideas quickly rather than thinking of “one true idea” that will work. Its grit boring work. To make this quicker, good command on Numpy and Pandas help. Lesser number of Google searhes == more code. Tensorflow/PyTorch have been purposefully written close to Numpy to make sure that Numpy users can iterate quickly.&lt;/p&gt;
     &lt;/blockquote&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;h3 id=&quot;q-what-are-some-signs-to-recognize-inexperienced-machine-learning-engineers-&quot;&gt;Q. What are some signs to recognize inexperienced Machine learning engineers ?&lt;/h3&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;h3 id=&quot;q-what-are-some-signs-to-recognize-inexperienced-machine-learning-engineers-&quot;&gt;Q. What are some signs to recognize inexperienced Machine learning engineers ?&lt;/h3&gt;
 
 &lt;p&gt;Original Answer Here: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNncvm&lt;/span&gt;&lt;/p&gt;
 
@@ -1790,9 +1837,7 @@ Indians pay for Education. The recent wave of eductech startups might also solve
 
 &lt;p&gt;People really good at their job (say in top 10%) are really sought after in any field, not just Machine Learning. They drive the innovation, solve open ended problems and hence they get the rewards.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-03-20-Views-on-Fresher-Data-Science-Jobs/media/image4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;q-how-do-i-become-a-data-scientist-in-2020-in-india-by-self-teaching&quot;&gt;Q. How do I become a data scientist in 2020 in India by self-teaching?&lt;/h3&gt;
+&lt;h3 id=&quot;q-how-do-i-become-a-data-scientist-in-2020-in-india-by-self-teaching&quot;&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-03-20-Views-on-Fresher-Data-Science-Jobs/media/image4.png&quot; alt=&quot;&quot; /&gt;Q. How do I become a data scientist in 2020 in India by self-teaching?&lt;/h3&gt;
 
 &lt;p&gt;I originally answered the question on Quora here: &lt;a href=&quot;https://qr.ae/TmYc20&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/TmYc20&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -1838,6 +1883,39 @@ Indians pay for Education. The recent wave of eductech startups might also solve
 
     &lt;blockquote&gt;
       &lt;p&gt;3. This much will make you employable by many companies. If you still are trying to push to learn more, you will have to start reading research literature. This is not entirely necessary, but if you still want to, you should get yourself associated with some decent university group (or a research startup), where novel problem statements are being solved. This step is really hard without talking to peers, but if you are really self driven, Twitter is a good place to follow people and handles to learn about research while being outside the research world. &lt;a href=&quot;https://medium.com/@andreas_madsen/becoming-an-independent-researcher-and-getting-published-in-iclr-with-spotlight-c93ef0b39b8b&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Becoming an Independent Researcher and getting published in ICLR with spotlight&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;q-what-signs-will-tell-you-that-your-company-is-not-taking-data-science-seriously&quot;&gt;Q. What signs will tell you that your company is not taking data science seriously?&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here: &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/pN28BW&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Note : I am assuming that this question was asked to understand ways to judge a potential employer by an applicant who wants to take a job as Data Scientist. What might be something that is risky. There might be other ways to look at it, but this seems most plausible source of the question to me.&lt;/p&gt;
+
+&lt;p&gt;Well, if your company has hired people as Data Scientists, there is definitely a vision to derive value out of data. Funds were allocated, someone actually made effort to hire Data Scientists and (hopefully) a set of problems were defined to solve. If your company is not doing all these 3 (allocation funds, hiring data science team and defining problems to solve), you can safely assume its not going to implement Data Science in near future.&lt;/p&gt;
+
+&lt;p&gt;However, something being in the vision is different from getting executed successfully. Sometimes, the company might be looking at Data Science, but there might be some antipatterns in execution that make life of Data Scientists hell and probability of failing high (Similar risks as being a Data Scientist in a company which doesn’t take Data Science seriously). Execution has its own challenges. Some other issues I see :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Not hiring Data Scientists at senior positions and allocating Data Scientists to work under senior technology leaders. Although this might work sometimes, a senior traditional technology executive might take decisions that are not really the best to run a Data Science team. So for example a senior backend developer put in charge of Data Science team will often ask Data Scientists working under him to accommodate additional constraints in the data pipelines they implement. For example, they might be (for no reason) asked to work within the box of software architecture which their lead has designed, reducing their efficiency.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Sales team not taking feasibility into account is another huge problem. Basically, the Data Science team need not be involved later just in the development of product/service being sold, but also earlier while the sale is being made to make sure something feasible is being sold. They can also suggest applications of data during sales time to make picth better. It is a very common pattern that Sales people of an AI company sell something that is not even feasible.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;The third is expecting Data Science teams to work while not having/collecting enough data. This often is a result of 1 or 2 where data wasnt collected to optimize some other tech need, or wrong expectations have been set to any client about the performance a low amount of data can deliver. Data Science is not magic, you need enough data to derive insights or train algorithms on it.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;A spineless leader for Data Science team. Well a spineless leader is always bad as they just pass the pressure downwards. People leave bosses not companies. A lot of the work of senior Data Science folks is expectation management and if they cannot do so, 1,2 and 3 mentioned will haunt the team’s work.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
 &lt;/ol&gt;</content><author><name></name></author><summary type="html">Machine Learning Jobs for beginners/freshers : My Perspective from various Quora Answers</summary></entry><entry><title type="html">Some Coronavirus Facts</title><link href="https://muktabh.xyz/2020/02/27/Some-Coronavirus-Facts.html" rel="alternate" type="text/html" title="Some Coronavirus Facts" /><published>2020-02-27T00:00:00-06:00</published><updated>2020-02-27T00:00:00-06:00</updated><id>https://muktabh.xyz/2020/02/27/Some-Coronavirus-Facts</id><content type="html" xml:base="https://muktabh.xyz/2020/02/27/Some-Coronavirus-Facts.html">&lt;h1 id=&quot;what-we-know-about-coronavirus--what-to-do-and-what-not-to-&quot;&gt;What we know about CoronaVirus ? What to do and what not to ?&lt;/h1&gt;
