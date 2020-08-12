@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-08-11T01:32:53-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Links To Some Interviews</title><link href="https://muktabh.xyz/2020/07/10/Links-To-Some-Interviews.html" rel="alternate" type="text/html" title="Links To Some Interviews" /><published>2020-07-10T00:00:00-05:00</published><updated>2020-07-10T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/07/10/Links-To-Some-Interviews</id><content type="html" xml:base="https://muktabh.xyz/2020/07/10/Links-To-Some-Interviews.html">&lt;h1 id=&quot;links-to-some-inteviews-of-me&quot;&gt;Links to some inteviews of Me&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-08-12T10:42:45-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Links To Some Interviews</title><link href="https://muktabh.xyz/2020/07/10/Links-To-Some-Interviews.html" rel="alternate" type="text/html" title="Links To Some Interviews" /><published>2020-07-10T00:00:00-05:00</published><updated>2020-07-10T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/07/10/Links-To-Some-Interviews</id><content type="html" xml:base="https://muktabh.xyz/2020/07/10/Links-To-Some-Interviews.html">&lt;h1 id=&quot;links-to-some-inteviews-of-me&quot;&gt;Links to some inteviews of Me&lt;/h1&gt;
 
 &lt;p&gt;Sharing links to a few interviews I gave to some online magazines :&lt;/p&gt;
 
@@ -1030,9 +1030,17 @@ The day to day tasks of actual Data Scientists, say working at Facebook AI resea
   &lt;p&gt;There should be restriction of bad practices. But if people force them to take stupid book burning decisions, we are destined to not cross the great filter. &lt;a href=&quot;https://en.wikipedia.org/wiki/Great_Filter&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Great Filter - Wikipedia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;If this answer feels wrong and boring, that is how most real world issues are : &lt;strong&gt;Complex&lt;/strong&gt; and not solvable with one line blanket statements like : “Ban X” and “F**K Y”.&lt;/p&gt;</content><author><name></name></author><summary type="html">Some thoughts around prevalent AI Ludditism [From Quora answers]</summary></entry><entry><title type="html">Views On Indian Startups</title><link href="https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups.html" rel="alternate" type="text/html" title="Views On Indian Startups" /><published>2020-04-14T00:00:00-05:00</published><updated>2020-04-14T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups</id><content type="html" xml:base="https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups.html">&lt;h1 id=&quot;some-thoughts-about-indian-startup-scene-as-various-answers-to-quora-questions&quot;&gt;Some Thoughts about Indian Startup Scene (As various answers to Quora questions)&lt;/h1&gt;
+&lt;p&gt;If this answer feels wrong and boring, that is how most real world issues are : &lt;strong&gt;Complex&lt;/strong&gt; and not solvable with one line blanket statements like : “Ban X” and “F**K Y”.&lt;/p&gt;</content><author><name></name></author><summary type="html">Some thoughts around prevalent AI Ludditism [From Quora answers]</summary></entry><entry><title type="html">Views On Indian Startups</title><link href="https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups.html" rel="alternate" type="text/html" title="Views On Indian Startups" /><published>2020-04-14T00:00:00-05:00</published><updated>2020-04-14T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups</id><content type="html" xml:base="https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups.html">&lt;ol&gt;
+  &lt;li&gt;
+    &lt;h1 id=&quot;some-thoughts-about-indian-startup-scene-as-various-answers-to-quora-questions&quot;&gt;Some Thoughts about Indian Startup Scene (As various answers to Quora questions)&lt;/h1&gt;
 
-&lt;h3 id=&quot;my-answer-to-how-can-you-define-the-indian-startup-economy&quot;&gt;My answer to “How can you define the Indian startup economy?&lt;/h3&gt;
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;h3 id=&quot;my-answer-to-how-can-you-define-the-indian-startup-economy&quot;&gt;My answer to “How can you define the Indian startup economy?&lt;/h3&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;Originally Answered Here: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/TDM7li&lt;/span&gt;&lt;/p&gt;
 
@@ -1554,7 +1562,61 @@ Indians pay for Education. The recent wave of eductech startups might also solve
 
 &lt;p&gt;&lt;strong&gt;Quantum Computing&lt;/strong&gt; is still a very early stage technology and frankly I doubt a lot of “real” work is happening outside US, which is the innovation capital of the world.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;5G&lt;/strong&gt; is a lost cause, we have no companies that work in 5G technologies and all our telecom companies will be doing is paying huge sums of money to Chinese companies like Huawei to install these new cellphone networks. The technology will roll out soon in India, but it won’t be Indian technology as such.&lt;/p&gt;</content><author><name></name></author><summary type="html">Some Thoughts about Indian Startup Scene (As various answers to Quora questions)</summary></entry><entry><title type="html">Views On Fresher Data Science Jobs</title><link href="https://muktabh.xyz/2020/03/20/Views-on-Fresher-Data-Science-Jobs.html" rel="alternate" type="text/html" title="Views On Fresher Data Science Jobs" /><published>2020-03-20T00:00:00-05:00</published><updated>2020-03-20T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/03/20/Views-on-Fresher-Data-Science-Jobs</id><content type="html" xml:base="https://muktabh.xyz/2020/03/20/Views-on-Fresher-Data-Science-Jobs.html">&lt;h1 id=&quot;machine-learning-jobs-for-beginnersfreshers--my-perspective-from-various-quora-answers&quot;&gt;Machine Learning Jobs for beginners/freshers : My Perspective from various Quora Answers&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;5G&lt;/strong&gt; is a lost cause, we have no companies that work in 5G technologies and all our telecom companies will be doing is paying huge sums of money to Chinese companies like Huawei to install these new cellphone networks. The technology will roll out soon in India, but it won’t be Indian technology as such.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-answer-to-what-are-your-views-on-chinese-investment-in-indian-unicorn-startups&quot;&gt;My answer to “What are your views on Chinese investment in Indian unicorn startups?”&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here: &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/pN2Ivf&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We need to learn the difference between different ways a foreign country can get involved in our economy:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;strong&gt;Investments without controlling stake (investment) :&lt;/strong&gt; Basically meaning that an external country wants to share the risk for growing our economy by investing in return for future gains if our economy grows. Also they dont have controlling stake in return of this, so no say in management, but share in profits. This is basically the best way to finance the growth of the country, it has nothing that can go wrong, all risk goes to investor, thus you really need to make the country as an attractive investment destination to get such funds. This investment is in the form of shares in startups, companies, businesses, utilities which will profit as economy grows. Most startups fall in this category (or very very rarely in 2 if they screw up badly or exit to a foreign company).&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;strong&gt;Investment with a controlling stake (investment) :&lt;/strong&gt; When your economy doesn’t have as good a reputation or if your economy doesnt grow as planned after getting investments like 1, you still need money, so companies, utilities etc have to dilute more giving controlling stake to foreign investors. The investors still take all the risk, but they also now make management decisions. Big companies like Maruti-Suzuki or Flipkart are examples of this. Also examples of this are subsidiaries of foreign companies like say Samsung India or Ford motors India.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;strong&gt;Buying government bonds (investment) :&lt;/strong&gt; If the economy has no or bad reputation, no one wants to take the risk and hence government has to take money to fund its economy as loan. That is government is taking debt on behalf of its citizens to grow its economy and pay debt using the economic growth. Citizens take all the risk in such a scenario. More often than not government mismanages the money (governments are good at doing so) and things turn out to be worse. Examples are bankrupt Venezuela and Argentina. Only very disciplined countries like post world war Germany and Japan and Singapore have been able to pull this off.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;strong&gt;Launching competitive products (exports) :&lt;/strong&gt; When foreign companies launch products which are competitive to local products, that is similar cost and competition based on utility and quality. This is good for local products, foreign products and customers all three. That is how it is supposed to work in case of a symmetrical trade agreement (Generally such agreements are not what happens with weak governments, places in Africa have to throw away their own vegetable products and buy costly foreign vegetables due to agreements) . India has very good competition in some segment of its economy like automobiles, airlines, software and ecommerce etc.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;strong&gt;Product Dumping (exports) :&lt;/strong&gt; This is when foreign companies can sell cheap products in a country without any competition from local products. This is very very good for consumers as they get the cheapest products in the short term. However, this slowly erodes out local competition. For example, In India, we have no high-tech defence industry, electronics, cellphones, computers, scientific instruments etc. due to dominance of cheap product dumping of foreign companies. While it is good to have some give and take and have local monopoly in some segments and foreign monopoly in others, that is what “specialization” means, but country becomes totally dependent on others due to Product Dumping. You should remember that British actually colonized us to dump products apart from agriculture, without any competition from others and we were left really poor and bad at the time of independence because we were just consuming and producing nothing. In its retaliation, we just stopped all exports (another extreme like colonization ) for next 50 years creating a bad socialist economy. “All or nothing” makes no sense, we need to be practical.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;strong&gt;Importing Skills which are lacking (immigration) :&lt;/strong&gt; Get high skilled people who complement skill of local populace. We are really bad at this, as lot of smart people emigrate. This is probably because we have developed a culture of staying away from risk. Smart people can do good in our country too, but the path is harder. Other countries easily attract our top talent showing them easy life (which is not as easy in long term in many cases).&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;strong&gt;Replacing local workers with cheaper resources (immigration):&lt;/strong&gt; A country can also supply cheap labour to our economy. Indians emigrate outside for jobs for which Bangladeshis emigrate to India. Its a same of wages.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Which of this is beneficial economically ? Actually all of these are economically beneficial to someone or the other in country. While local companies love 1,4 and 7, consumers love 3,5 and 7. (They love 3 as they get short term cheap money to enjoy which they often repent investing in depreciating interests). Nothing is really good or bad economically as long is peaceful trade goes on, or as Adam Smith says, the invisible hand . However, if disputes and probles arise, a more antifragile country is the one which has more self sufficiency as compared to dependency on export. A more antifragile country will become more powerful postpartum..&lt;/p&gt;
+
+&lt;p&gt;The CoronaVirus pandemic for example will effect Germany and China less than UK or Afghanistan which are more dependent on trade and exports. So, 1,4 and 6 actually make the economy more antifragile according to me. Stopping investments like 1 (that is startups), push us towards 3 or debts, which actually are worse, you cannot grow the economy without money/funding. 1 is the most convex way to fund it&lt;/p&gt;
+
+&lt;p&gt;Most startups, unless have been acquired by a foreign country are totally run by the founders. As long as founders run the companies based in India and from India, they are going to make the nation more powerful at critical switch events of history.&lt;/p&gt;
+
+&lt;p&gt;Stop thinking that you can grow the economy without money, growth needs money. Indians often understate this. The most convex way to fund the growth of economy is 1, that is Investments without controlling stake, which most startups fall into. You give some advantage to China if you allow them to invest, but the alternative is worse (taking debt say or not growing economy is much more antifragile). &lt;em&gt;Basically, the right way is to help more new local companies grow with (maybe more foreign) investments so that we become more and more self dependent.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;TL,DR : When you want to stop foreign firms investing in Indian startups, you are actually wanting to make the country more antifragile, trust me your intention is right but method is wrong. Unless startups are getting acquired by foreign firms and are becoming Indian or India based companies, the best way is to let them grow by foreign investment. What Indians need to do is create a culture of buying local products and creating a culture where people dont do time renting instead of entrepreneurship and people/companies want to stay in India rather than wanting to run abroad. This would be enough.&lt;/p&gt;</content><author><name></name></author><summary type="html">Some Thoughts about Indian Startup Scene (As various answers to Quora questions) My answer to “How can you define the Indian startup economy?</summary></entry><entry><title type="html">Views On Fresher Data Science Jobs</title><link href="https://muktabh.xyz/2020/03/20/Views-on-Fresher-Data-Science-Jobs.html" rel="alternate" type="text/html" title="Views On Fresher Data Science Jobs" /><published>2020-03-20T00:00:00-05:00</published><updated>2020-03-20T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/03/20/Views-on-Fresher-Data-Science-Jobs</id><content type="html" xml:base="https://muktabh.xyz/2020/03/20/Views-on-Fresher-Data-Science-Jobs.html">&lt;h1 id=&quot;machine-learning-jobs-for-beginnersfreshers--my-perspective-from-various-quora-answers&quot;&gt;Machine Learning Jobs for beginners/freshers : My Perspective from various Quora Answers&lt;/h1&gt;
 
 &lt;p&gt;I will collect some of my answers here regarding fresher Machine Learrning jobs in India as I have some experience in this domain and hire in this domain quite often&lt;/p&gt;
 
