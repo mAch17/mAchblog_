@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-08-26T07:42:52-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Links To Some Interviews</title><link href="https://muktabh.xyz/2020/07/10/Links-To-Some-Interviews.html" rel="alternate" type="text/html" title="Links To Some Interviews" /><published>2020-07-10T00:00:00-05:00</published><updated>2020-07-10T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/07/10/Links-To-Some-Interviews</id><content type="html" xml:base="https://muktabh.xyz/2020/07/10/Links-To-Some-Interviews.html">&lt;h1 id=&quot;links-to-some-inteviews-of-me&quot;&gt;Links to some inteviews of Me&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-08-28T07:45:24-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Links To Some Interviews</title><link href="https://muktabh.xyz/2020/07/10/Links-To-Some-Interviews.html" rel="alternate" type="text/html" title="Links To Some Interviews" /><published>2020-07-10T00:00:00-05:00</published><updated>2020-07-10T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/07/10/Links-To-Some-Interviews</id><content type="html" xml:base="https://muktabh.xyz/2020/07/10/Links-To-Some-Interviews.html">&lt;h1 id=&quot;links-to-some-inteviews-of-me&quot;&gt;Links to some inteviews of Me&lt;/h1&gt;
 
 &lt;p&gt;Sharing links to a few interviews I gave to some online magazines :&lt;/p&gt;
 
@@ -1982,12 +1982,16 @@ Indians pay for Education. The recent wave of eductech startups might also solve
     &lt;blockquote&gt;
       &lt;p&gt;3. This much will make you employable by many companies. If you still are trying to push to learn more, you will have to start reading research literature. This is not entirely necessary, but if you still want to, you should get yourself associated with some decent university group (or a research startup), where novel problem statements are being solved. This step is really hard without talking to peers, but if you are really self driven, Twitter is a good place to follow people and handles to learn about research while being outside the research world. &lt;a href=&quot;https://medium.com/@andreas_madsen/becoming-an-independent-researcher-and-getting-published-in-iclr-with-spotlight-c93ef0b39b8b&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Becoming an Independent Researcher and getting published in ICLR with spotlight&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/blockquote&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;h3 id=&quot;q-what-signs-will-tell-you-that-your-company-is-not-taking-data-science-seriously&quot;&gt;Q. What signs will tell you that your company is not taking data science seriously?&lt;/h3&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&quot;q-what-signs-will-tell-you-that-your-company-is-not-taking-data-science-seriously&quot;&gt;Q. What signs will tell you that your company is not taking data science seriously?&lt;/h3&gt;
-
-&lt;p&gt;Originally answered here: &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/pN28BW&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Originally answered here: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/pN28BW&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;Note : I am assuming that this question was asked to understand ways to judge a potential employer by an applicant who wants to take a job as Data Scientist. What might be something that is risky. There might be other ways to look at it, but this seems most plausible source of the question to me.&lt;/p&gt;
 
@@ -2016,7 +2020,25 @@ Indians pay for Education. The recent wave of eductech startups might also solve
       &lt;p&gt;A spineless leader for Data Science team. Well a spineless leader is always bad as they just pass the pressure downwards. People leave bosses not companies. A lot of the work of senior Data Science folks is expectation management and if they cannot do so, 1,2 and 3 mentioned will haunt the team’s work.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">Machine Learning Jobs for beginners/freshers : My Perspective from various Quora Answers</summary></entry><entry><title type="html">Some Coronavirus Facts</title><link href="https://muktabh.xyz/2020/02/27/Some-Coronavirus-Facts.html" rel="alternate" type="text/html" title="Some Coronavirus Facts" /><published>2020-02-27T00:00:00-06:00</published><updated>2020-02-27T00:00:00-06:00</updated><id>https://muktabh.xyz/2020/02/27/Some-Coronavirus-Facts</id><content type="html" xml:base="https://muktabh.xyz/2020/02/27/Some-Coronavirus-Facts.html">&lt;h1 id=&quot;what-we-know-about-coronavirus--what-to-do-and-what-not-to-&quot;&gt;What we know about CoronaVirus ? What to do and what not to ?&lt;/h1&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;q-my-brother-is-confused-which-branch-he-should-opt-for-between-ai-and-computer-science-as-in-upcoming-times-ai-has-a-very-large-scope-can-anybody-suggest-me&quot;&gt;Q. My brother is confused which branch he should opt for between AI and computer science. As in upcoming times AI has a very large scope. Can anybody suggest me?&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here: &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/pN2Q5y&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There is a branch called Artificial Intelligence already in some Indian college ? That is a bit too early. Some opinions from me :&lt;/p&gt;
+
+&lt;p&gt;Opinion 1 : As of 2020, I personally feel that AI is not a field broad enough for a 4 year graduate course in Indian context, a BTech in Data Science in India is still conceivable. A Computer Science degree with Machine Learning, Deep Learning and good calculus and statistics courses should be enough to enter into the field of AI and I am almost sure this will not change in 4 years. Unless you are looking at an undergraduate research degree, I dont think a bachelor’s degree in AI will be worth it. In fact, a lot of the field of AI is just actually traditional Computer Science, Statistics and Optimization (All 3 fields were covered in my undergrad degree at BITS Pilani). The only new things are Deep/Machine Learning algorithms which can be taught in 2–3 electives.&lt;/p&gt;
+
+&lt;p&gt;Opinion 2 : Even if some university comes up with a clever course structure around BTech in AI say (I think there is a possible course structure choosing subjects from Computer Science and Maths and Machine Learning specific courses), I dont think any university in India has enough faculty talent pool to teach modern AI well apart from a few top ones. Its hard for large companies and top universities to find top AI talent, how would a general university afford it. Heck, most universities dont teach even Computer Science well. So many CS grads in India and many job vacancies never get filled.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Opinion 3: If you are really interested in AI, according to me a good path will be to pursue Computer Science from a college with good A. Coding campus culture and B. CS faculty in AI. Some good ones in India are : IIT(M/Kgp/B), IIITH, other good IITs, BITS and a few NITs. If you are not able to secure entry into these colleges try completing &lt;a href=&quot;http://deeplearning.ai/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;http://deeplearning.ai&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;courses or do an online minor like &lt;a href=&quot;https://onlinedegree.iitm.ac.in/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;IIT Madras Online Degree Program&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Just getting a degree in AI from a random institute where practical knowledge is rare will be of no use.&lt;/p&gt;</content><author><name></name></author><summary type="html">Machine Learning Jobs for beginners/freshers : My Perspective from various Quora Answers</summary></entry><entry><title type="html">Some Coronavirus Facts</title><link href="https://muktabh.xyz/2020/02/27/Some-Coronavirus-Facts.html" rel="alternate" type="text/html" title="Some Coronavirus Facts" /><published>2020-02-27T00:00:00-06:00</published><updated>2020-02-27T00:00:00-06:00</updated><id>https://muktabh.xyz/2020/02/27/Some-Coronavirus-Facts</id><content type="html" xml:base="https://muktabh.xyz/2020/02/27/Some-Coronavirus-Facts.html">&lt;h1 id=&quot;what-we-know-about-coronavirus--what-to-do-and-what-not-to-&quot;&gt;What we know about CoronaVirus ? What to do and what not to ?&lt;/h1&gt;
 
 &lt;p&gt;I decided to write this as new cases of CoronaVirus have come up in India in early March 2020. I thus want to make as much information publicly (and easily) available.&lt;/p&gt;
 
