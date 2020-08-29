@@ -91,7 +91,7 @@ window.onload = wrap_img;
        • <span class="read-time" title="Estimated read time">
     
     
-      89 min read
+      88 min read
     
 </span></p>
 
@@ -290,37 +290,7 @@ window.onload = wrap_img;
 
 <p>So lets say your initial clients are a large mining firm, your local city council and a law firm that uses your product to enhance its services. All potential USD 50k/year deals. However, the following is what they want as their threshold utility to use your product :</p>
 
-<table>
-  <thead>
-    <tr>
-      <th> </th>
-      <th> </th>
-      <th> </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Client</td>
-      <td>AI features Threshold Utility</td>
-      <td>Integration features Utility</td>
-    </tr>
-    <tr>
-      <td>City council</td>
-      <td>Auto verify if vendor is listed in directory or the internet, Check for unreasonably high line item bids, Purchase on unnecessary items, Check for unreasonable prequalification and Check for ambiguous language in specifications.</td>
-      <td>An interface to upload MS Word document, an email to be sent to concerned officials in case an issue is seen. Dashboard for the people of the city to visualize and look at possible problems.</td>
-    </tr>
-    <tr>
-      <td>Mining Firm</td>
-      <td>Purchase on unnecessary items, Check for unreasonable prequalification and Check for ambiguous language in specifications</td>
-      <td>MS Word documents as input, an output Excel with rows as MS Word document name, line number and possible gotcha/errors.</td>
-    </tr>
-    <tr>
-      <td>Law Firm</td>
-      <td>Auto verify if vendor is listed in directory or the internet, Check for unreasonably high line item bids, multiple contracts to the same company, Changes in minimum procurement thresholds, Missing Documents mentioned within contracts.</td>
-      <td>Image, PDF and MS Word archieve to be automatically scanned and PDFs flagging lines along with links to original documents to be provided</td>
-    </tr>
-  </tbody>
-</table>
+<p><img src="https://muktabh.xyz/assets/img/2020-08-30-Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One/media/image5.jpeg" alt="" /></p>
 
 <p>Nice, so first of all let me define what I call as product and what I mean by custom modules . Product is the set of things you develop which are generic enough to cater to different clients. So if you want to run a new client’s data through your AI product without functionality of the product changing, you will have to do minimal to no development. The components of products are regularly tested and developed to scale as the clientele and usage grows. So suppose you have these 3 early clients, one way to solve things would be to just add every required feature into the product. That won’t be possible however (2 reasons) given A. You will not be lucky enough to start product development after fully understanding the specs for all your early clients, while deployment will be going on for one another one might be in PoC stage and another one in initial talks phase. B. Developing things which can generalize across any number of clients takes time, esp the integration part. Think of creating a dashboard for everyone who wants to use your product : generic, can be utilized across all possible clients, all the stakeholders in each client firm ; this will require a lot of time and iters to build. The more components you build to be used across clients (that is as a part of core product), the more maintenance they want and they reduce the product’s adaptability. So if you include all early client specs into the product, you will end up either wasting all the time budget you have allotted for one iteration of Pivot Cycle into balancing between requirements or end up making one mini product for each client if you want to achieve time bound sales goal. Both are bad scenarios and slow, the latter still probably allowing you to make a sale in the time budget. The best solution I can think of is diving the specs into core product and custom modules.</p>
 
@@ -346,71 +316,45 @@ window.onload = wrap_img;
 
 <p>Second point is that you need to avoid falling into the trap most Product people want to fall into. Over optimizing product or running behind perfection. Trying to make product scalable/efficient/generic/pretty/easy to use (.. and 100 other adjectives which PMs would like to list on their CVs..) are useful efforts only after you are sure that you are going to stick to and sell a product. You are probably building something which 0 or 1 or &lt;5 companies have built in the world, or it might not be even feasible to build. Rather than building the best possible early product, the best use of efforts is to just figure out an ugly, inefficient but feasible and fast path from just an idea to early $s in MRR. Once you achieve that, you can work on all the other optimizations. If you waste precious time from your idea time budget optimizing for any of the adjectives and in fear of lower margins for first few clients, you might never be able to get early clientele you want for the product to actually stick around and run. If you believe that perfect products can be designed in first iteration, you need to think about the early beta releases of software products you use now. Were they as good as they are in thir recent versions ? Mostly No. Let me introduce you to Mr. Gall ( <a href="https://en.wikipedia.org/wiki/John_Gall_\(author)"><span class="underline">https://en.wikipedia.org/wiki/John_Gall_(author</span></a> ), who says that most successful/awesome complex systems are design improvements of other less sophisticated systems. Very few awesome things were developed in the first epoch. So dont optimize prematurely, focus on your aim during pivot cycle, validate the idea ASAP.</p>
 
-<p>The next point is dont wait for the AI to become perfect before you first approach customers. In a limited time/money budget, its hard for you to 1. Collect enough Data, 2. Annotate data and 3. Do R\&amp;D to invent the state of the art algorithms to get the perfect AI algorithm. If you are waiting for AI to evolve to the level when your product will be in production, before your first sale, I think you are just trying to be in your comfort zone. Customers are buying the AI you will deliver in the long run and not what you have when you speak to them for the first time. All you need to start working on making the first sale is some AI magic that you can show the customer (that might be AI working on couple of simple images or documents for our hypothetical Procuredocs AI), however you quantify ‘some’ and ‘AI magic’. These early AI magic results or Prototype as I call them in the Prototype → Demo → Annotate → Build → Feedback process is what you need to demo the AI to client first. Once you demo your product, you setup Annotate → Build → Feedback for the remaining round of rollouts and deployments, where you “annotate” more client data, “Build” that is train deep learning model and deploy and then taker errors made by the Deep Learning models as “Feedback” to create more training data and make the underlying models better. Remember, for now we know that no amount of clever training tricks and hacks can beat a Deep Learning model trained on large volumes of data. The more data you get feedback on and feed to the AI model, the more unbeatable your deployment for the client becomes. However, this is a journey you will have to take by setting expectations of the client and working towards increasing accuracy of AI models, you cannot have the full-blown AI ready on day 1.</p>
+<p>The next point is dont wait for the AI to become perfect before you first approach customers. In a limited time/money budget, its hard for you to 1. Collect enough Data, 2. Annotate data and 3. Do R\&amp;D to invent the state of the art algorithms to get the perfect AI algorithm. If you are waiting for AI to evolve to the level when your product will be in production, before your first sale, I think you are just trying to be in your comfort zone. Customers are buying the AI you will deliver in the long run and not what you have when you speak to them for the first time. All you need to start working on making the first sale is some AI magic that you can show the customer (that might be AI working on couple of simple images or documents for our hypothetical Procuredocs AI), however you quantify ‘some’ and ‘AI magic’. These early AI magic results or Prototype as I call them in the Prototype → Demo → Annotate → Build → Feedback process is what you need to demo the AI to client first. Once you demo your product, you setup Annotate → Build → Feedback for the remaining round of rollouts and deployments, where you “annotate” more client data, “Build” that is train deep learning model and deploy and then taker errors made by the Deep Learning models as “Feedback” to create more training data and make the underlying models better. Remember, for now we know that no amount of clever training tricks and hacks can beat a Deep Learning model trained on large volumes of data. The more data you get feedback on and feed to the AI model, the more unbeatable your deployment for the client becomes. However, this is a journey you will have to take by setting expectations of the client and working towards increasing accuracy of AI models, you cannot have the full-blown AI ready on day one.</p>
 
-<ol>
-  <li>
-    <h3><img src="https://muktabh.xyz/assets/img/2020-08-30-Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One/media/image5.png" alt="" /></h3>
-  </li>
-  <li>
-    <p>###</p>
-  </li>
-  <li>
-    <p>###</p>
-  </li>
-  <li>
-    <p>###</p>
-  </li>
-  <li>
-    <p>###</p>
-  </li>
-  <li>
-    <p>###</p>
-  </li>
-  <li>
-    <p>###</p>
-  </li>
-  <li>
-    <p>###</p>
-  </li>
-  <li>
-    <p>###</p>
-  </li>
-  <li>
-    <p>###</p>
-  </li>
-  <li>
-    <p>###</p>
-  </li>
-  <li>
-    <p>###</p>
-  </li>
-  <li>
-    <p>###</p>
-  </li>
-  <li>
-    <p>###</p>
-  </li>
-  <li>
-    <p>###</p>
-  </li>
-  <li>
-    <p>###</p>
-  </li>
-  <li>
-    <p>###</p>
-  </li>
-  <li>
-    <p>###</p>
-  </li>
-  <li>
-    <h3 id="the-startupy-terms--pmfmvp-and-the-product-adaptability---efficiency-tradeoff">The startupy terms : PMF/MVP and the product adaptability - efficiency tradeoff</h3>
-  </li>
-</ol>
+<h3><img src="https://muktabh.xyz/assets/img/2020-08-30-Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One/media/image6.png" alt="" /></h3>
+
+<p>###</p>
+
+<p>###</p>
+
+<p>###</p>
+
+<p>###</p>
+
+<p>###</p>
+
+<p>###</p>
+
+<p>###</p>
+
+<p>###</p>
+
+<p>###</p>
+
+<p>###</p>
+
+<p>###</p>
+
+<p>###</p>
+
+<p>###</p>
+
+<p>###</p>
+
+<p>###</p>
+
+<h3 id="the-startupy-terms--pmfmvp-and-the-product-adaptability---efficiency-tradeoff">The startupy terms : PMF/MVP and the product adaptability - efficiency tradeoff</h3>
 
 <p>You will come across the terms : Product Market Fit and Minimum Viable Product in traditional SaaS. How do these terms measure up in Enterprise AI ? According to me, MVP and PMF are not really points in startup timeline but rather continuums. You start developing a PMF the more of your MVP you develop. Enterprise products are just too complex and the threshold utilities so non-intersecting that thinking of developing a product that satisfies demands of all clients in the beginning before you start selling is [what I feel most people think of as MVP] is just hard to even think of. These continuums start from the Pivot cycle stage and continue to &lt;figuring out repeatability in business&gt; stage of the product. I would rather want to think of the product evolving from an adaptable product (in pivot cycle) which can cater to first customers for getting quick early revenue to an efficient one (if it graduates to the repeatable business stage from pivot cycle) around more common usecases for maximizing margins. You start getting closer to your MVP as the product starts getting more efficient and your Product Market Fit starts somewhere when you have achieved a certain level of efficiency and MVP. To be specific, PMF starts when you know that there are clients who will buy but you have to make product more efficient.</p>
 
-<p><img src="https://muktabh.xyz/assets/img/2020-08-30-Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One/media/image6.png" alt="" /></p>
+<p><img src="https://muktabh.xyz/assets/img/2020-08-30-Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One/media/image7.png" alt="" /></p>
 
 <h2 id="selling-the-product-for-the-first-few-times">Selling the Product for the first few times</h2>
 
@@ -468,7 +412,7 @@ window.onload = wrap_img;
 
 <p>That said, I am not profiling people into baskets. I just am saying most (I think all) people have a preference towards adventure type jobs over responsibility jobs or vice versa, but not saying people liking adventurous tasks dont have diligence or people preferring responsibility tasks cannot take risks. One example I can immediately recollect is Indian cricket captain Virat Kohli ( <a href="https://en.wikipedia.org/wiki/Virat_Kohli"><span class="underline">https://en.wikipedia.org/wiki/Virat_Kohli</span></a> ) who was an explosive batsman taking lot of risks and scoring really fast in early phases of his career. However, now that he is captain of Indian team and looking from more of an organizational perspective, he has changed his game to focus on consistency. He doesnt get the super high scores of earlier, but now ensures he scores decent runs in most innings he plays. One is not better than the other, see ! One thing most employees and founders need to understand is which of these types of roles they are good at (and not which of them they like as most would like adventurous tasks due to human bias) and recognize/develop their circle of competence well rather than doing something sub-optimal. If you feel frustrated in uncomfortable situations, try using your love of order to develop your skills in responsibility tasks (No one likes a person whose comfort zone is doing nothing), if you feel trapped in day-to-day tasks, try combining your love of freedom with ability to achieve (No one likes an adventurer who gets nothing done). Also learn to recognize this diversity and appreciate people for their skills than dislike them for their differences from you. As a manager (you are a manager for free when you are a founder), you need to recognize the strength of people and use their help in tasks accordingly where they can contribute better.</p>
 
-<p><img src="https://muktabh.xyz/assets/img/2020-08-30-Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One/media/image7.png" alt="" /></p>
+<p><img src="https://muktabh.xyz/assets/img/2020-08-30-Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One/media/image8.png" alt="" /></p>
 
 <h3 id="distribute-complexity-dont-delegate-it-or-fall-for-illusion-of-control">Distribute Complexity, Dont delegate it or fall for illusion of control</h3>
 
@@ -488,7 +432,7 @@ window.onload = wrap_img;
 
 <p>Everyone solves one or the other problem in a startup. However, one needs to recognize that they have 24 hours in their day and can only work as much per day on an average. Basically, what I am describing here is the intra-team component of my thought about “Distributing Complexity”. Just like within teams you see these two extreme attitudes of delegating everything and containing everything, similar dynamics plays out within teams as well. There are some teams where the leader delegates a bit too much and junior team mates have to look into complexity issues they probably are not as well prepared to solve and then on the other end of spectrum there are leaders who want to solve all complexities themselves and delegate only what they think is “simple” becoming a bottleneck for the team and company. Try not to be these people! Try and understand that you are one person, can do one person’s work and you will need a team to achieve larger goals than what one person can build. So as a founder, you need to do 100% work as an individual contributor plus strategist and manager and also need to make sure the right amount of complexity is assigned to members of your team based on their profile and experience. Thoughts of perfection around “Only me can get all work done with least amount of failure risk” is misplaced as its costs time and makes work slow. Rather recognize teams potential for failure and focus on setting up processes that can detect failures early and before they explode. If you delegate a bit too much, you will see your team not making progress, that is a sign that you need to roll up sleeves and lead the team into accomplishments and then delegate back again.</p>
 
-<p><img src="https://muktabh.xyz/assets/img/2020-08-30-Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One/media/image8.png" alt="" /></p>
+<p><img src="https://muktabh.xyz/assets/img/2020-08-30-Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One/media/image9.png" alt="" /></p>
 
 <h3 id="last-mile-delivery-is-messier-than-you-think--and-its-very-important">Last Mile Delivery is Messier than you think ! And its Very Important.</h3>
 
