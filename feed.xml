@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-08-29T15:31:21-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Patterns I Noticed While Getting An Ai Startup From Zero To One</title><link href="https://muktabh.xyz/2020/08/30/Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One.html" rel="alternate" type="text/html" title="Patterns I Noticed While Getting An Ai Startup From Zero To One" /><published>2020-08-30T00:00:00-05:00</published><updated>2020-08-30T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/08/30/Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One</id><content type="html" xml:base="https://muktabh.xyz/2020/08/30/Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One.html">&lt;p&gt;In this post, I am going to document some trends, tricks and patterns I have derived from the Zero to One phase of my startup. I will try to broadly describe to you lessons I distilled while getting an Enterprise AI startup from nothing to its first revenues. First revenues are not success, they are necessary but not sufficient for success, so don’t confuse this with recipe for a Unicorn say. If and when we make it big, another post on “How to create a successful AI startup” will come up :) .&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-08-29T15:50:57-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Patterns I Noticed While Getting An Ai Startup From Zero To One</title><link href="https://muktabh.xyz/2020/08/30/Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One.html" rel="alternate" type="text/html" title="Patterns I Noticed While Getting An Ai Startup From Zero To One" /><published>2020-08-30T00:00:00-05:00</published><updated>2020-08-30T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/08/30/Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One</id><content type="html" xml:base="https://muktabh.xyz/2020/08/30/Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One.html">&lt;p&gt;In this post, I am going to document some trends, tricks and patterns I have derived from the Zero to One phase of my startup. I will try to broadly describe to you lessons I distilled while getting an Enterprise AI startup from nothing to its first revenues. First revenues are not success, they are necessary but not sufficient for success, so don’t confuse this with recipe for a Unicorn say. If and when we make it big, another post on “How to create a successful AI startup” will come up :) .&lt;/p&gt;
 
 &lt;p&gt;Also, please note that all premise here is quite egocentric, that is, it doesn’t take into account any discussions with other startup founders or many players in startup ecosystem. So, some of them might not apply to others at all. This is just me (not even my cofounders) trying to organize my thoughts around our journey, goes without saying this is my personal perspective and not an official stand of the startup I founded and work at. Also history doesn’t repeat itself, so assumptions which were true for me might not be true for you, so please a feel try to intuit the assumptions when you are reading. Another important point you should remember is that this article contains “one possible set of tricks”, not “THE set of tricks”. Its better to know one set of tricks than knowing none, but please know there can be a very different, even contrary path for a startup to reach from zero to one. All disclaimers done, hope my musings can help you in anyway!&lt;/p&gt;
 
@@ -217,36 +217,6 @@
 &lt;p&gt;The next point is dont wait for the AI to become perfect before you first approach customers. In a limited time/money budget, its hard for you to 1. Collect enough Data, 2. Annotate data and 3. Do R\&amp;amp;D to invent the state of the art algorithms to get the perfect AI algorithm. If you are waiting for AI to evolve to the level when your product will be in production, before your first sale, I think you are just trying to be in your comfort zone. Customers are buying the AI you will deliver in the long run and not what you have when you speak to them for the first time. All you need to start working on making the first sale is some AI magic that you can show the customer (that might be AI working on couple of simple images or documents for our hypothetical Procuredocs AI), however you quantify ‘some’ and ‘AI magic’. These early AI magic results or Prototype as I call them in the Prototype → Demo → Annotate → Build → Feedback process is what you need to demo the AI to client first. Once you demo your product, you setup Annotate → Build → Feedback for the remaining round of rollouts and deployments, where you “annotate” more client data, “Build” that is train deep learning model and deploy and then taker errors made by the Deep Learning models as “Feedback” to create more training data and make the underlying models better. Remember, for now we know that no amount of clever training tricks and hacks can beat a Deep Learning model trained on large volumes of data. The more data you get feedback on and feed to the AI model, the more unbeatable your deployment for the client becomes. However, this is a journey you will have to take by setting expectations of the client and working towards increasing accuracy of AI models, you cannot have the full-blown AI ready on day one.&lt;/p&gt;
 
 &lt;h3&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-08-30-Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One/media/image6.png&quot; alt=&quot;&quot; /&gt;&lt;/h3&gt;
-
-&lt;p&gt;###&lt;/p&gt;
-
-&lt;p&gt;###&lt;/p&gt;
-
-&lt;p&gt;###&lt;/p&gt;
-
-&lt;p&gt;###&lt;/p&gt;
-
-&lt;p&gt;###&lt;/p&gt;
-
-&lt;p&gt;###&lt;/p&gt;
-
-&lt;p&gt;###&lt;/p&gt;
-
-&lt;p&gt;###&lt;/p&gt;
-
-&lt;p&gt;###&lt;/p&gt;
-
-&lt;p&gt;###&lt;/p&gt;
-
-&lt;p&gt;###&lt;/p&gt;
-
-&lt;p&gt;###&lt;/p&gt;
-
-&lt;p&gt;###&lt;/p&gt;
-
-&lt;p&gt;###&lt;/p&gt;
-
-&lt;p&gt;###&lt;/p&gt;
 
 &lt;h3 id=&quot;the-startupy-terms--pmfmvp-and-the-product-adaptability---efficiency-tradeoff&quot;&gt;The startupy terms : PMF/MVP and the product adaptability - efficiency tradeoff&lt;/h3&gt;
 
