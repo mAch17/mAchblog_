@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-08-29T15:50:57-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Patterns I Noticed While Getting An Ai Startup From Zero To One</title><link href="https://muktabh.xyz/2020/08/30/Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One.html" rel="alternate" type="text/html" title="Patterns I Noticed While Getting An Ai Startup From Zero To One" /><published>2020-08-30T00:00:00-05:00</published><updated>2020-08-30T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/08/30/Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One</id><content type="html" xml:base="https://muktabh.xyz/2020/08/30/Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One.html">&lt;p&gt;In this post, I am going to document some trends, tricks and patterns I have derived from the Zero to One phase of my startup. I will try to broadly describe to you lessons I distilled while getting an Enterprise AI startup from nothing to its first revenues. First revenues are not success, they are necessary but not sufficient for success, so don’t confuse this with recipe for a Unicorn say. If and when we make it big, another post on “How to create a successful AI startup” will come up :) .&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-09-08T09:23:19-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Patterns I Noticed While Getting An Ai Startup From Zero To One</title><link href="https://muktabh.xyz/2020/08/30/Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One.html" rel="alternate" type="text/html" title="Patterns I Noticed While Getting An Ai Startup From Zero To One" /><published>2020-08-30T00:00:00-05:00</published><updated>2020-08-30T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/08/30/Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One</id><content type="html" xml:base="https://muktabh.xyz/2020/08/30/Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One.html">&lt;p&gt;In this post, I am going to document some trends, tricks and patterns I have derived from the Zero to One phase of my startup. I will try to broadly describe to you lessons I distilled while getting an Enterprise AI startup from nothing to its first revenues. First revenues are not success, they are necessary but not sufficient for success, so don’t confuse this with recipe for a Unicorn say. If and when we make it big, another post on “How to create a successful AI startup” will come up :) .&lt;/p&gt;
 
 &lt;p&gt;Also, please note that all premise here is quite egocentric, that is, it doesn’t take into account any discussions with other startup founders or many players in startup ecosystem. So, some of them might not apply to others at all. This is just me (not even my cofounders) trying to organize my thoughts around our journey, goes without saying this is my personal perspective and not an official stand of the startup I founded and work at. Also history doesn’t repeat itself, so assumptions which were true for me might not be true for you, so please a feel try to intuit the assumptions when you are reading. Another important point you should remember is that this article contains “one possible set of tricks”, not “THE set of tricks”. Its better to know one set of tricks than knowing none, but please know there can be a very different, even contrary path for a startup to reach from zero to one. All disclaimers done, hope my musings can help you in anyway!&lt;/p&gt;
 
@@ -602,12 +602,16 @@
     &lt;blockquote&gt;
       &lt;p&gt;Lockdowns have been very effective. Except for some idiots and a few religious zealots, the country has taken social distancing carefully. Poor people have displayed real fortitude.&lt;/p&gt;
     &lt;/blockquote&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;h3 id=&quot;my-answer-to-how-can-machine-learning-aid-in-corona-virus-detection-and-prevention&quot;&gt;My answer to “How can machine learning aid in corona virus detection and prevention?”&lt;/h3&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&quot;my-answer-to-how-can-machine-learning-aid-in-corona-virus-detection-and-prevention&quot;&gt;My answer to “How can machine learning aid in corona virus detection and prevention?”&lt;/h3&gt;
-
-&lt;p&gt;Originally answered here: &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNKNRS&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Originally answered here: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNKNRS&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;I have written an extensive answer here : &lt;a href=&quot;https://www.quora.com/How-can-machine-learning-help-against-COVID-19/answer/Muktabh-Mayank&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Muktabh Mayank’s answer to How can machine learning help against COVID-19?&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -769,7 +773,7 @@
 
 &lt;h3 id=&quot;my-answer-to-is-hydroxychloroquine-hype-or-hope&quot;&gt;My answer to “Is hydroxychloroquine hype or hope?”&lt;/h3&gt;
 
-&lt;p&gt;Originally answered here: &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNKNRd&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Originally answered here: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNKNRd&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;From what we know right now, HydroxyChloroquine (HCQ) is one of the most practical methods we have to prevent COVID19 in frontline workers and serious patients.&lt;/p&gt;
 
@@ -950,7 +954,7 @@
 
 &lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image21.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://youtu.be/fXUVFqKKcBM&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;underline&quot;&gt;https://youtu.be/fXUVFqKKcBM&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;While for countries with smaller population, 1 is easy to achieve, that is the infections can be brought down to zero just using lockdowns. it turns out for countries with large populations (We don’t know much about China, but everyone below China in population like India, Indonesia, US, Brazil, Russia…) the amount of lockdowns required is longer (just due to large numbers) to crush the curve altogether. So for example, a country with small population like New Zealand needs to wait lesser to crush the curve than say Indonesia. The patience of people will die after sometime and they stop supporting the lockdowns. India started seeing on-foot movement of people despite all transport disabled and UBI announcements. Public servants and representatives were afraid of lighter government coffers , businessmen became restless and people were slowly more afraid of economy tanking than the virus itself. One cannot thus continue the the lockdowns and travel restrictions. &lt;em&gt;So we are trying to have a midway approach : Reopen and try to restrict infections despite of that.&lt;/em&gt;&lt;/p&gt;
 
@@ -974,7 +978,51 @@
 
 &lt;p&gt;However, it seems that community spread has started in Delhi and Mumbai while we have reopened these cities. Both of these cities have very high population density.&lt;/p&gt;
 
-&lt;p&gt;We might have lockdowns in Delhi/Mumbai again while rest of the country reopens.&lt;/p&gt;</content><author><name></name></author><summary type="html">This is a combination of many recent Quora answers of mine related to ongoing COVID19 pandemic.</summary></entry><entry><title type="html">When To Run Away And Not Look Back At Your Current Software Developer Job</title><link href="https://muktabh.xyz/2020/05/28/When-to-run-away-and-not-look-back-at-your-current-software-developer-job.html" rel="alternate" type="text/html" title="When To Run Away And Not Look Back At Your Current Software Developer Job" /><published>2020-05-28T00:00:00-05:00</published><updated>2020-05-28T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/05/28/When-to-run-away-and-not-look-back-at-your-current-software-developer-job</id><content type="html" xml:base="https://muktabh.xyz/2020/05/28/When-to-run-away-and-not-look-back-at-your-current-software-developer-job.html">&lt;p&gt;Some instances where I advised Software Developers to run away from their employer on Quora!&lt;/p&gt;
+&lt;p&gt;We might have lockdowns in Delhi/Mumbai again while rest of the country reopens.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-answer-to--is-india-successfully-flattening-the-curve-&quot;&gt;My answer to “ Is India successfully ‘flattening the curve’? ”&lt;/h3&gt;
+
+&lt;p&gt;Original answer here: &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNCrKI&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Based on what “experts” predicted at the start of the pandemic, given India’s infrastructure and capabilities, I guess Yes !&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/themojostory/videos/529703107943201/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;“300-500 million Corona cases in India”&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image24.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We have lost many people, around 75,000 people by early September, but I guess we have controlled the spread as compared to what this expert believed. More about the expert here: &lt;a href=&quot;https://en.wikipedia.org/wiki/Ramanan_Laxminarayan&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Ramanan Laxminarayan - Wikipedia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Here is Imperial College predicting that 3% of people between 20–30 years would be hospitalized by May 2020 in India : &lt;a href=&quot;https://www.imperial.ac.uk/business-school/ib-knowledge/health/coronavirus-vs-poverty-india-doing-enough-incentivise-isolation&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Coronavirus vs. poverty: Is India doing enough to incentivise isolation?&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image25.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So yes, we had not had the worst possible outbreak. Italy for example had a spike that its health services could not manage despite having the best healthcare system as the curve was steep.&lt;/p&gt;
+
+&lt;p&gt;We first need to understand what “Flattening the Curve” is. (And why its one of the strategies to overcome a pandemic, but not the best). Flattening the Curve basically means to not allow disease to grow faster than how fast a country can expand its health infrastructure. India’s health infrastructure was not really capable to handle the pandemic, so we had to screw up our economics for almost a full quarter and wait for health infrastructure to grow enough to reopen and not starve people to death. Delaying the onset also means we would use clinical care practices other outbreaks would help humanity come up with. So using this definition, for sometime, India has been trying to flatten the curve only. Regular local lockdowns have been imposed if cases grew at a fast velocity in a locality and we have been trying to keep the number of cases in step with the available healthcare. The problem with flattening the curve is that you will see spike in numbers whenever you reopen and it will be an ongoing battle for a long time till a vaccine comes in or we reach herd immunity. I am writing this answer from a remote corner of Uttar Pradesh (a state not really known for its public services’ diligence) and there are free testing booths on every few blocks for free testing and isolation, could not have thought of it say even 3 months back. Herd Immunity is very long drawn stupid battle &lt;a href=&quot;https://www.quora.com/What-is-herd-immunity-and-how-can-it-be-effective-for-countries-like-India/answer/Muktabh-Mayank&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Muktabh Mayank’s answer to What is herd immunity, and how can it be effective for countries like India?&lt;/span&gt;&lt;/a&gt; and thus India is actually batting for a vaccine. To answer your question, yes, we are trying to flatten the curve itself. Just that in most flatten the curve graphs you see, there is an assumption of health services being static and hence you see the required infected persons curve to be FLAT. This assumption was for maybe for 2–3 months for a country with a small population, not a Billion people and 3 quarters and hence you dont see “flatness of curve” in India.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As of 8th September 2020, here is the curve we see: ( taken from &lt;a href=&quot;http://covid19india.org/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Coronavirus in India: Latest Map and Case Count&lt;/span&gt;&lt;/a&gt; )&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image26.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;Ok. now what is the best way to get over the pandemic ? it is “Smash the curve”. The austere strict sister of curve flattening. Basically lot of testing, compulsory masks and regional lockdowns before you freely reopen the economy on reaching Zero Cases. Countries with small populations and relatively richer populations have been able to pull it off like NewZealand, but its just hard to stop economic activity in a large country like US, Brazil, India etc without starving the poor and middle class. We would have liked the cases to reach Zero during lockdowns, but some orthodox religious people and other careless covidiots made us elongate the lockdowns and thus later India’s poor and businesses couldn’t bear with the lockdown reducing the efficiency. Net net, you can lockdown only for so long, because it slowly kills your economy, and India was forced to reopen without smashing the curve. The only option we have at this level of pandemic is to flatten the curve. People expecting to see zero cases probably are not understanding how the economy functions maybe.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;More about smash the curve strategy :&lt;/p&gt;
+
+&lt;p&gt;COVID-19: Crush the curve video &lt;a href=&quot;https://t.co/G6KqIsHyJ2&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://t.co/G6KqIsHyJ2&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;— Yaneer Bar-Yam (@yaneerbaryam) &lt;a href=&quot;https://twitter.com/yaneerbaryam/status/1247195448902930437?ref_src=twsrc^tfw&quot;&gt;&lt;span class=&quot;underline&quot;&gt;April 6, 2020&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5ec2c0a70a471b4ca7e82122/1589821608242/9+Essential+Actions+to+#CrushtheCurve+(Short).pdf&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">This is a combination of many recent Quora answers of mine related to ongoing COVID19 pandemic.</summary></entry><entry><title type="html">When To Run Away And Not Look Back At Your Current Software Developer Job</title><link href="https://muktabh.xyz/2020/05/28/When-to-run-away-and-not-look-back-at-your-current-software-developer-job.html" rel="alternate" type="text/html" title="When To Run Away And Not Look Back At Your Current Software Developer Job" /><published>2020-05-28T00:00:00-05:00</published><updated>2020-05-28T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/05/28/When-to-run-away-and-not-look-back-at-your-current-software-developer-job</id><content type="html" xml:base="https://muktabh.xyz/2020/05/28/When-to-run-away-and-not-look-back-at-your-current-software-developer-job.html">&lt;p&gt;Some instances where I advised Software Developers to run away from their employer on Quora!&lt;/p&gt;
 
 &lt;h3 id=&quot;q-i-work-for-a-startup-our-cto-is-a-big-fan-of-golang-he-insists-to-use-golang-for-every-projects-including-machine-learning-projects-where-python-is-the-de-facto-standard-what-should-i-do&quot;&gt;Q. I work for a startup, our CTO is a big fan of Golang, he insists to use Golang for every projects, including machine learning projects where Python is the de facto standard, what should I do?&lt;/h3&gt;
 
@@ -1960,7 +2008,7 @@ Indians pay for Education. The recent wave of eductech startups might also solve
 
 &lt;h3 id=&quot;my-answer-to-what-are-your-views-on-chinese-investment-in-indian-unicorn-startups&quot;&gt;My answer to “What are your views on Chinese investment in Indian unicorn startups?”&lt;/h3&gt;
 
-&lt;p&gt;Originally answered here: &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/pN2Ivf&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Originally answered here: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/pN2Ivf&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;We need to learn the difference between different ways a foreign country can get involved in our economy:&lt;/p&gt;
 
@@ -2010,7 +2058,21 @@ Indians pay for Education. The recent wave of eductech startups might also solve
 
 &lt;p&gt;Stop thinking that you can grow the economy without money, growth needs money. Indians often understate this. The most convex way to fund the growth of economy is 1, that is Investments without controlling stake, which most startups fall into. You give some advantage to China if you allow them to invest, but the alternative is worse (taking debt say or not growing economy is much more antifragile). &lt;em&gt;Basically, the right way is to help more new local companies grow with (maybe more foreign) investments so that we become more and more self dependent.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;TL,DR : When you want to stop foreign firms investing in Indian startups, you are actually wanting to make the country more antifragile, trust me your intention is right but method is wrong. Unless startups are getting acquired by foreign firms and are becoming Indian or India based companies, the best way is to let them grow by foreign investment. What Indians need to do is create a culture of buying local products and creating a culture where people dont do time renting instead of entrepreneurship and people/companies want to stay in India rather than wanting to run abroad. This would be enough.&lt;/p&gt;</content><author><name></name></author><summary type="html">Some Thoughts about Indian Startup Scene (As various answers to Quora questions) My answer to “How can you define the Indian startup economy?</summary></entry><entry><title type="html">Views On Fresher Data Science Jobs</title><link href="https://muktabh.xyz/2020/03/20/Views-on-Fresher-Data-Science-Jobs.html" rel="alternate" type="text/html" title="Views On Fresher Data Science Jobs" /><published>2020-03-20T00:00:00-05:00</published><updated>2020-03-20T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/03/20/Views-on-Fresher-Data-Science-Jobs</id><content type="html" xml:base="https://muktabh.xyz/2020/03/20/Views-on-Fresher-Data-Science-Jobs.html">&lt;h1 id=&quot;machine-learning-jobs-for-beginnersfreshers--my-perspective-from-various-quora-answers&quot;&gt;Machine Learning Jobs for beginners/freshers : My Perspective from various Quora Answers&lt;/h1&gt;
+&lt;p&gt;TL,DR : When you want to stop foreign firms investing in Indian startups, you are actually wanting to make the country more antifragile, trust me your intention is right but method is wrong. Unless startups are getting acquired by foreign firms and are becoming Indian or India based companies, the best way is to let them grow by foreign investment. What Indians need to do is create a culture of buying local products and creating a culture where people dont do time renting instead of entrepreneurship and people/companies want to stay in India rather than wanting to run abroad. This would be enough.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-answer-to-can-the-edtech-companies-sustain-their-growth-after-the-schools-are-opened-in-india&quot;&gt;My answer to “Can the EdTech companies sustain their growth after the schools are opened in India?”&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here : &lt;a href=&quot;https://qr.ae/pNCy0V&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNCy0V&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;My guess is Yes.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I think that the reason is that Edtech platforms create a more efficient market overcoming inefficiencies of distance, cost and access to good teachers. In an efficient market, customers get more value for their money, that is paying the same amount of money, they can get better quality of education. For example, a very good teacher in Dehradun might have not been able to teach any students from Lucknow, which is a much more populous city, despite them being excellent at their work. An efficient marketplace of skills basically allows efficient/high-quality vendors to disrupt the market because of ridiculous reduction in cost of expansion. Basically, even if someone was really good at teaching, they would have had to do marketing, advertising and remote teaching investments apart from word of mouth to grow their business beyond a certain level and disrupt business of other not-as-good teachers earlier, which was really rare and hard. Now all they need is a account on one of the edtech platforms and likes and shares of their students. I dont think the market will return to the old normal in EdTech now. This is very similar to TikTok, but in an industry where people are willing to pay themselves rather than watch ads, that is the reason why EdTech is so powerful. Solid example of Creative Destruction : &lt;a href=&quot;https://en.wikipedia.org/wiki/Creative_destruction&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Creative destruction - Wikipedia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;.&lt;/p&gt;
+
+&lt;p&gt;The problem earlier was that status-quo was a bit too strong and people were not adopting EdTech as rapidly due to inertia. There were many phases of EdTech startups founding and funding in India before 2020, but they found it really hard to break the status quo. COVID disruption acted as the singularity which broke the inertia and made people embrace EdTech, I dont think this is a reversible change.&lt;/p&gt;</content><author><name></name></author><summary type="html">Some Thoughts about Indian Startup Scene (As various answers to Quora questions) My answer to “How can you define the Indian startup economy?</summary></entry><entry><title type="html">Views On Fresher Data Science Jobs</title><link href="https://muktabh.xyz/2020/03/20/Views-on-Fresher-Data-Science-Jobs.html" rel="alternate" type="text/html" title="Views On Fresher Data Science Jobs" /><published>2020-03-20T00:00:00-05:00</published><updated>2020-03-20T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/03/20/Views-on-Fresher-Data-Science-Jobs</id><content type="html" xml:base="https://muktabh.xyz/2020/03/20/Views-on-Fresher-Data-Science-Jobs.html">&lt;h1 id=&quot;machine-learning-jobs-for-beginnersfreshers--my-perspective-from-various-quora-answers&quot;&gt;Machine Learning Jobs for beginners/freshers : My Perspective from various Quora Answers&lt;/h1&gt;
 
 &lt;p&gt;I will collect some of my answers here regarding fresher Machine Learrning jobs in India as I have some experience in this domain and hire in this domain quite often&lt;/p&gt;
 
