@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-09-08T09:23:19-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Patterns I Noticed While Getting An Ai Startup From Zero To One</title><link href="https://muktabh.xyz/2020/08/30/Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One.html" rel="alternate" type="text/html" title="Patterns I Noticed While Getting An Ai Startup From Zero To One" /><published>2020-08-30T00:00:00-05:00</published><updated>2020-08-30T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/08/30/Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One</id><content type="html" xml:base="https://muktabh.xyz/2020/08/30/Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One.html">&lt;p&gt;In this post, I am going to document some trends, tricks and patterns I have derived from the Zero to One phase of my startup. I will try to broadly describe to you lessons I distilled while getting an Enterprise AI startup from nothing to its first revenues. First revenues are not success, they are necessary but not sufficient for success, so don’t confuse this with recipe for a Unicorn say. If and when we make it big, another post on “How to create a successful AI startup” will come up :) .&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-09-11T15:58:34-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Startups During Pandemic Disruption</title><link href="https://muktabh.xyz/2020/09/12/Startups-During-Pandemic-Disruption.html" rel="alternate" type="text/html" title="Startups During Pandemic Disruption" /><published>2020-09-12T00:00:00-05:00</published><updated>2020-09-12T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/09/12/Startups-During-Pandemic-Disruption</id><content type="html" xml:base="https://muktabh.xyz/2020/09/12/Startups-During-Pandemic-Disruption.html">&lt;h3 id=&quot;my-answer-to-what-is-the-effect-of-the-covid-19-pandemic-on-ai-based-startups&quot;&gt;My answer to “What is the effect of the covid-19 pandemic on AI-based startups?”&lt;/h3&gt;
+
+&lt;p&gt;Originally Answered here: &lt;a href=&quot;https://qr.ae/pNC3bb&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNC3bb&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There are two types of startups using AI IMO :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;AI first startups : Companies that are selling an AI algorithm or outputs of an AI algorithm as its product. My startup &lt;a href=&quot;http://paralleldots.com/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Image Recognition to Optimize Retail Execution&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- end list --&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;belongs to this category. There can be variety of startups in this category trying to sell chatbots, automated surveillance, voice recognition systems, fancy apps that change face photos into old/young or morph them, heck even startups which provide AI tools to ensure compliance during COVID19-prevention which fall in this category.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;AI augmented companies : Companies that use AI to enhance an already existing products they have or trying to integrate AI into their product. Typical examples would be an email service providing company trying to use AI to assist writing, a manufacturing company trying to deploy smarter robots in their factories, CRM trying to rate prospective leads and an e-commerce company showing recommendations to its customers.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;As you might be easily able to guess, there will many more companies of type 2, as most organizations have some or the other problem statements they would like to address using AI algorithms. Basically every company in the world whose core product is not an AI algorithm falls in 2. These companies account for most AI related jobs as A. They are relatively larger companies than most AI first companies, most AI first companies are smaller startups as of today and 2. There are just too many AI augmented companies as compared to AI first companies.&lt;/p&gt;
+
+&lt;p&gt;This differentiation was necessary as COVID19 disruption needs to thought of in different ways for 1 and 2. You cannot merge them both into a single set of predictions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AI first companies :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When you are looking at AI first companies, their trajectory during COVID19 is dependent upon what customers are they serving and what problems are they solving. Different companies saw different outcomes. The following characteristics provided worst-to-best outcomes for companies :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Companies which were serving industries which depended upon people moving out of their homes will have had very severe outcomes. These are companies which provided AI solutions to travel sector, malls, hotels, airlines, offices etc. Money in such verticals is almost non-existant for time being and will be for sometime.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;There are industries which despite being hit with COVID-19 cannot close down as they are essential industries. These are retail, healthcare, government services, telecom, banking etc. AI startups these industries saw steep revenue declines during lockdown period as everyone was really afraid at that time and was observing how will the future look, however, with markets reopening, the revenues are slowly becoming stabilized and coming back to normal. New pilots have started rolling out too. Such companies are taking precautions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Both of the above points were for B2B AI startups. B2C startups, if they had any chance of becoming successful, would have had a great time during COVID-disruption as people were locked down at homes and had lot of free time to spend on their phones. Many face swap videos and lipsync videos made using AI went viral on the internet during the disruption.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;It has been a really great time for startups that help institutions monitor COVID19-prevention compliance or help companies and organizations maintain social distancing or help them move their operations online during COVID19 as their services became “pain pills”. A few startups with bad outcomes in 1 (or maybe 2), launched new AI products of this category. This involves some kinds of chatbots, face mask monitors and AI+robotics applications reducing/removing human contact. Ecommerce and delivery AI startups should be having a great day as well.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Net-Net, some companies gained, other companies lost.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AI augmented companies :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The story is very different here. Please remember that while for some companies like OTT, e-commerce etc., AI has shown clear cut value; most companies in this category are running AI Proof-of-Concepts and Product Development in hope that one day they should be able to get lead over their competitors using their AI edge. So most AI operations in such companies (startups or even larger) are discretionary/R\&amp;amp;D expenses. Most startups during COVID19 disruption have cut discretionary expenses to prolong their runway. Same would be the case with larger companies too. This have brought expansion in AI activities and hiring in such companies to a standstill. Hence, you would see tweets like this :&lt;/p&gt;
+
+&lt;p&gt;I think it’s clear that for many smaller companies that invested in deep learning, it turned out not to be essential and got cut post-Covid as part of downsizings. There are somewhat fewer people doing deep learning now than half a year ago, for the first time since at least 2010&lt;/p&gt;
+
+&lt;p&gt;— François Chollet (@fchollet) &lt;a href=&quot;https://twitter.com/fchollet/status/1300137812872765440?ref_src=twsrc^tfw&quot;&gt;&lt;span class=&quot;underline&quot;&gt;August 30, 2020&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hope this answers your question.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-answer-to-have-small-tech-companies-such-as-fastly-been-affected-by-the-pandemic-in-the-same-way-as-large-tech-companies-like-microsoft&quot;&gt;My answer to “Have small tech companies such as Fastly been affected by the pandemic in the same way as large tech companies like Microsoft?”&lt;/h3&gt;
+
+&lt;p&gt;Originally Answered Here: &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNCdmF&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Tech companies serve either other companies (B2B) or consumers (B2C). When an uncertain situation comes up, any customer (be it companies or consumers) will tighten the strings of their purse as its hard to predict the future. When less money is in circulation, you see GDP falling and companies, businesses and even government making lesser money. Companies who are already alert will react to sudden revenue decline even more proactively, cutting off discretionary expenses like say R\&amp;amp;D or new projects or HR redundancy. That gets many projects defunded, wages cut and you see even lesser money being spent. Basically a vicious cycle of economic bust. It exactly opposite of what happens in economic growth. Its hard to visualize this, but a lot of economy is just people believing that a company, country or economic system is “worth putting in money”.&lt;/p&gt;
+
+&lt;p&gt;I do not think big company / small company dichotomy can be used to explain which tech company did bad or well during pandemic disruption. A company’s performance during/after pandemic IMO will be dependent upon a combination of :&lt;/p&gt;
+
+&lt;p&gt;A. how hedged company is against risk,&lt;/p&gt;
+
+&lt;p&gt;B. how much does pandemic effect the customer base of the company and&lt;/p&gt;
+
+&lt;p&gt;C. whether the pandemic creates new opportunity for the company.&lt;/p&gt;
+
+&lt;p&gt;I did a very detailed analysis in terms of AI startups here: &lt;a href=&quot;https://qr.ae/pNC3bb&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Muktabh Mayank’s answer to What is the effect of the covid-19 pandemic on AI-based startups?&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The combination of three factors A,B and C above make sure that you have super success stories in startups (new decacorns like Fastly or Zoom were born) where on the other hand many startups shut shop or cut their team massively. Startups whose consumer base did not get effected or ones who were hedged with large runway actually many a times used the pandemic as an opportunity.&lt;/p&gt;
+
+&lt;p&gt;Large companies are generally supposed to be more fragile and strong to take advantage of opportunities that arise due to a disruption like the pandemic, but many of them were busy buying back there shares instead of hedging themselves and they now have to beg for shareholders to bail them out.&lt;/p&gt;</content><author><name></name></author><summary type="html">My answer to “What is the effect of the covid-19 pandemic on AI-based startups?”</summary></entry><entry><title type="html">Patterns I Noticed While Getting An Ai Startup From Zero To One</title><link href="https://muktabh.xyz/2020/08/30/Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One.html" rel="alternate" type="text/html" title="Patterns I Noticed While Getting An Ai Startup From Zero To One" /><published>2020-08-30T00:00:00-05:00</published><updated>2020-08-30T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/08/30/Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One</id><content type="html" xml:base="https://muktabh.xyz/2020/08/30/Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One.html">&lt;p&gt;In this post, I am going to document some trends, tricks and patterns I have derived from the Zero to One phase of my startup. I will try to broadly describe to you lessons I distilled while getting an Enterprise AI startup from nothing to its first revenues. First revenues are not success, they are necessary but not sufficient for success, so don’t confuse this with recipe for a Unicorn say. If and when we make it big, another post on “How to create a successful AI startup” will come up :) .&lt;/p&gt;
 
 &lt;p&gt;Also, please note that all premise here is quite egocentric, that is, it doesn’t take into account any discussions with other startup founders or many players in startup ecosystem. So, some of them might not apply to others at all. This is just me (not even my cofounders) trying to organize my thoughts around our journey, goes without saying this is my personal perspective and not an official stand of the startup I founded and work at. Also history doesn’t repeat itself, so assumptions which were true for me might not be true for you, so please a feel try to intuit the assumptions when you are reading. Another important point you should remember is that this article contains “one possible set of tricks”, not “THE set of tricks”. Its better to know one set of tricks than knowing none, but please know there can be a very different, even contrary path for a startup to reach from zero to one. All disclaimers done, hope my musings can help you in anyway!&lt;/p&gt;
 
@@ -1458,7 +1532,7 @@ The day to day tasks of actual Data Scientists, say working at Facebook AI resea
 
 &lt;h3 id=&quot;my-answer-to-is-it-possible-that-the-level-of-artificial-intelligence-we-have-today-be-capable-to-manipulate-humans-and-their-behaviour&quot;&gt;My answer to “Is it possible that the level of artificial intelligence we have today, be capable to manipulate humans and their behaviour?”&lt;/h3&gt;
 
-&lt;p&gt;Originally answered here : &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/pN2a7U&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Originally answered here : &lt;span class=&quot;underline&quot;&gt;https://qr.ae/pN2a7U&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;AI algorithms (as of today) themselves are not capable enought to manipulate humans. So basically no AI algorithm can really by its own mind creep into social media and try influencing human behaviour. No Skynet yet, maybe for not a very long time in future. &lt;a href=&quot;https://en.wikipedia.org/wiki/Skynet_\(Terminator\)&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Skynet (Terminator) - Wikipedia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -1472,7 +1546,35 @@ The day to day tasks of actual Data Scientists, say working at Facebook AI resea
 
 &lt;p&gt;If you are even 1% tensed or worried about this, you first need to ask yourself : What is society ? Isnt it animals whose behavior is controlled by some narrative ? Its just a debate about who runs the narrative, who sits on top of the pyramid, that is all, no big deal for most of us followers. Chill.&lt;/p&gt;
 
-&lt;p&gt;Note to self : Dont rewatch Black Mirror for the third time :-D .&lt;/p&gt;</content><author><name></name></author><summary type="html">Some thoughts around prevalent AI Ludditism [From Quora answers]</summary></entry><entry><title type="html">Views On Indian Startups</title><link href="https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups.html" rel="alternate" type="text/html" title="Views On Indian Startups" /><published>2020-04-14T00:00:00-05:00</published><updated>2020-04-14T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups</id><content type="html" xml:base="https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups.html">&lt;ol&gt;
+&lt;p&gt;Note to self : Dont rewatch Black Mirror for the third time :-D .&lt;/p&gt;
+
+&lt;h3 id=&quot;my-answer-to-will-the-5g-internet-or-asi-make-this-world-a-chaotic-place&quot;&gt;My answer to “Will the 5G internet (or ASI) make this world a chaotic place?”&lt;/h3&gt;
+
+&lt;p&gt;Originally Answered here: &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNCZvk&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I assume the question is asked on the premise that with such humongous data speed available to each person, will society get out of control as hierarchy/order will be hard to maintain ? I dont foresee any other way 5G can harm, as its not going to be rolled out without tests.&lt;/p&gt;
+
+&lt;p&gt;The correct theoretical answer to this is : We dont know. But probability of chaos prevailing due to 5G is quite very less given that humanity is quite tenacious. Why so ?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You can think of human world as a very large self-organizing system. Any system which is isolated tends to have high entropy over time. I am not talking about the more popular thermodynamic entropy (&lt;a href=&quot;https://en.wikipedia.org/wiki/Entropy_\(classical_thermodynamics\)&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Entropy (classical thermodynamics) - Wikipedia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;) here but the probabilistic concept of entropy &lt;a href=&quot;https://en.wikipedia.org/wiki/Entropy_\(information_theory\)&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Entropy (information theory) - Wikipedia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;which simply means that the more new variables you introduce into the system, the shock or surprise value of the system increases. Just by existing, humanity is creating new issues which can surprise and damage it. We are also adding more variables with the resources of Earth we consume or the human population increase. Also with every new technology we add into the system (AI / blockchain / 5G / Genetic Engineering), while you add a few ways for the system to grow, you add many more possible ways for the system to fail. A self-organizing system will either adapt or evolve around a new surprise to incorporate it. However, if the change is something that overwhelms its capacity to adapt or evolve, it will get destroyed. Such irreversible changes are called systemic risks.&lt;/p&gt;
+
+&lt;p&gt;However, a technology like 5G (or ASI) is not a systemic risk, that is 5G can be rolled out gradually and problems it causes can be addressed along the way. Humanity is a self-organizing system, so it will roll out a new technology incrementally and use active stability (tactical measures) to avoid pitfalls and not crash and burn when the technology is being introduced. In simpler terms, humans are adaptable and will slowly adapt to incremental technologies and circumstances. You can say the same for new technologies like genetics or AI. The only problems are systemic risks (like pandemics, say COVID19, or say asteroid hitting the Earth), which cannot be paused and will overwhelm the speed at which humans adapt. These can damage or destabilize system as a whole.&lt;/p&gt;
+
+&lt;p&gt;Another path technology luddites suggest is to not take any risks at all, that is make surprise factor as zero from technology, invent no technology. That would essentially make the system implode as you are adding new issues and people all the time and society (and nature) can only bear as many people in its natural state. You need technology to adapt the society for good.&lt;/p&gt;
+
+&lt;p&gt;Other people who propose restrictions on new technology actually believe in passive stability (plan everything beforehand and create regulations/controls to avoid failures). They are mostly wrong as they cannot imagine all possible scenarios and end up creating regulatory capture.&lt;/p&gt;
+
+&lt;p&gt;Paraphrasing Jordan B Peterson from his book, “the path to progress lies in between stability and chaos”. Too much stability (not inventing new technology, too much restriction on thoughts and movements) will create chaos as system crashes under its own weight. 5G is a risk, but not a systemic risk.&lt;/p&gt;
+
+&lt;p&gt;5G internet is an incremental change. There is no doubt about the fact it will introduce changes into the system, but you will always have the option to turn it off. With new information available, humans will realign and the humanity as a system can adapt or evolve, but its rare that humans will not be able to take it.&lt;/p&gt;
+
+&lt;p&gt;More practically, what changes did the transition from 3G to 4G bring ? You can kind of extend the arrow and predict what changes will 5G technology bring. More apps and more centralized data over the internet. A lot many things we cannot even imagine right now. That said, I personally find it hard to believe that faster internet can damage humanity. In many places, the data speed change between 3G and 4G is not even that high to notice and maybe even after 5G is rolled out, many people will get data speed of 4G levels only for a long time. So it might actually even turn out to be marketing gimmick in some circumstances.&lt;/p&gt;</content><author><name></name></author><summary type="html">Some thoughts around prevalent AI Ludditism [From Quora answers]</summary></entry><entry><title type="html">Views On Indian Startups</title><link href="https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups.html" rel="alternate" type="text/html" title="Views On Indian Startups" /><published>2020-04-14T00:00:00-05:00</published><updated>2020-04-14T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups</id><content type="html" xml:base="https://muktabh.xyz/2020/04/14/Views-on-Indian-Startups.html">&lt;ol&gt;
   &lt;li&gt;
     &lt;h1 id=&quot;some-thoughts-about-indian-startup-scene-as-various-answers-to-quora-questions&quot;&gt;Some Thoughts about Indian Startup Scene (As various answers to Quora questions)&lt;/h1&gt;
 
