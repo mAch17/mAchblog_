@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-10-11T16:36:37-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Advice To Youngsters Who Are Starting Engineering Now And Aspire For A Career In Data Science Ai Or Entrepreneurship</title><link href="https://muktabh.xyz/2020/09/30/Advice-to-youngsters-who-are-starting-engineering-now-and-Aspire-for-a-career-in-Data-Science-AI-or-Entrepreneurship.html" rel="alternate" type="text/html" title="Advice To Youngsters Who Are Starting Engineering Now And Aspire For A Career In Data Science Ai Or Entrepreneurship" /><published>2020-09-30T00:00:00-05:00</published><updated>2020-09-30T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/09/30/Advice-to-youngsters-who-are-starting-engineering-now-and-Aspire-for-a-career-in-Data-Science-AI-or-Entrepreneurship</id><content type="html" xml:base="https://muktabh.xyz/2020/09/30/Advice-to-youngsters-who-are-starting-engineering-now-and-Aspire-for-a-career-in-Data-Science-AI-or-Entrepreneurship.html">&lt;p&gt;Collecting my answers from Quora, where I advice young students getting into engineering now and aspiring to build a career in Data Science, AI or Programming.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-10-11T16:44:28-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Advice To Youngsters Who Are Starting Engineering Now And Aspire For A Career In Data Science Ai Or Entrepreneurship</title><link href="https://muktabh.xyz/2020/09/30/Advice-to-youngsters-who-are-starting-engineering-now-and-Aspire-for-a-career-in-Data-Science-AI-or-Entrepreneurship.html" rel="alternate" type="text/html" title="Advice To Youngsters Who Are Starting Engineering Now And Aspire For A Career In Data Science Ai Or Entrepreneurship" /><published>2020-09-30T00:00:00-05:00</published><updated>2020-09-30T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/09/30/Advice-to-youngsters-who-are-starting-engineering-now-and-Aspire-for-a-career-in-Data-Science-AI-or-Entrepreneurship</id><content type="html" xml:base="https://muktabh.xyz/2020/09/30/Advice-to-youngsters-who-are-starting-engineering-now-and-Aspire-for-a-career-in-Data-Science-AI-or-Entrepreneurship.html">&lt;p&gt;Collecting my answers from Quora, where I advice young students getting into engineering now and aspiring to build a career in Data Science, AI or Programming.&lt;/p&gt;
 
 &lt;h3 id=&quot;q-my-brother-is-confused-which-branch-he-should-opt-for-between-ai-and-computer-science-as-in-upcoming-times-ai-has-a-very-large-scope-can-anybody-suggest-me&quot;&gt;Q. My brother is confused which branch he should opt for between AI and computer science. As in upcoming times AI has a very large scope. Can anybody suggest me?&lt;/h3&gt;
 
@@ -49,14 +49,7 @@
     &lt;p&gt;Learn Python very well (and R too). They are easy and can be learnt online for free at many places. You need to be fluid in Python just like you are in one of the languages you speak. Programming is taught in most CSE curriculum but the aim is often to ensure a minimum standard than making you fluent at it. You need to take charge and make sure you are fluent.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;Keep a track of 3 courses being taught to you very well : Statistics, Linear Algebra and Optimization. As a Data Scientist, these are the three courses you use the most at job after programming. Many tutorials/courses available for free. Here is a list of 50+ free books which might be useful for self-learning these topics: [50 Must-Read Free Books For Every Data Scientist in 2020&lt;/td&gt;
-          &lt;td&gt;ParallelDots](https://blog.paralleldots.com/data-science/50-must-read-free-books-for-every-data-science-enthusiast/)&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
+    &lt;p&gt;Keep a track of 3 courses being taught to you very well. These courses are Statistics, Linear Algebra and Optimization. As a Data Scientist, these are the three courses you use the most at job after programming. Many tutorials/courses available for free. Here is a list of 50+ free books which might be useful for self-learning these topics: &lt;a href=&quot;https://blog.paralleldots.com/data-science/50-must-read-free-books-for-every-data-science-enthusiast/&quot;&gt;https://blog.paralleldots.com/data-science/50-must-read-free-books-for-every-data-science-enthusiast/&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
@@ -69,13 +62,7 @@
 &lt;!-- end list --&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;When you now about the basic somewhat, try doing courses like the ones listed on &lt;a href=&quot;https://www.fast.ai/&quot;&gt;fast.ai · Making neural nets uncool again&lt;/a&gt; , &lt;a href=&quot;http://deeplearning.ai/&quot;&gt;http://Deeplearning.ai&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!-- end list --&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;and Data Analysis specializations on various platforms like Coursera/Edx. Please remember, doing the courses is more important, buying certificate is optional. Do assignments, not just theory.&lt;/li&gt;
+  &lt;li&gt;When you now about the basic somewhat, try doing courses like the ones listed on &lt;a href=&quot;https://www.fast.ai/&quot;&gt;fast.ai · Making neural nets uncool again&lt;/a&gt; , &lt;a href=&quot;http://Deeplearning.ai/&quot;&gt;http://Deeplearning.ai&lt;/a&gt; and Data Analysis specializations on various platforms like Coursera/Edx. Please remember, doing the courses is more important, buying certificate is optional. Do assignments, not just theory.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;!-- end list --&gt;
@@ -153,7 +140,7 @@
 
 &lt;p&gt;Q. My relatives are pressuring me to do graduation and I want to learn coding because I think the value of graduation is now gone after the new education system policy. What should I do?&lt;/p&gt;
 
-&lt;p&gt;Originally Answered Here: &lt;a href=&quot;&quot;&gt;https://www.quora.com/My-relatives-are-pressuring-me-to-do-graduation-and-I-want-to-learn-coding-because-I-think-the-value-of-graduation-is-now-gone-after-the-new-education-system-policy-What-should-I-do/answer/Muktabh-Mayank&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Originally Answered Here: https://www.quora.com/My-relatives-are-pressuring-me-to-do-graduation-and-I-want-to-learn-coding-because-I-think-the-value-of-graduation-is-now-gone-after-the-new-education-system-policy-What-should-I-do/answer/Muktabh-Mayank&lt;/p&gt;
 
 &lt;p&gt;Relatives are pushing you to get a degree than do self study due to three things :&lt;/p&gt;
 
