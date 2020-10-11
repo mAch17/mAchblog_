@@ -1,4 +1,200 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-09-11T16:05:58-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Startups During Pandemic Disruption</title><link href="https://muktabh.xyz/2020/09/12/Startups-During-Pandemic-Disruption.html" rel="alternate" type="text/html" title="Startups During Pandemic Disruption" /><published>2020-09-12T00:00:00-05:00</published><updated>2020-09-12T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/09/12/Startups-During-Pandemic-Disruption</id><content type="html" xml:base="https://muktabh.xyz/2020/09/12/Startups-During-Pandemic-Disruption.html">&lt;h3 id=&quot;my-answer-to-what-is-the-effect-of-the-covid-19-pandemic-on-ai-based-startups&quot;&gt;My answer to “What is the effect of the covid-19 pandemic on AI-based startups?”&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2020-10-11T16:30:57-05:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Advice To Youngsters Who Are Starting Engineering Now And Aspire For A Career In Data Science Ai Or Entrepreneurship</title><link href="https://muktabh.xyz/2020/09/30/Advice-to-youngsters-who-are-starting-engineering-now-and-Aspire-for-a-career-in-Data-Science-AI-or-Entrepreneurship.html" rel="alternate" type="text/html" title="Advice To Youngsters Who Are Starting Engineering Now And Aspire For A Career In Data Science Ai Or Entrepreneurship" /><published>2020-09-30T00:00:00-05:00</published><updated>2020-09-30T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/09/30/Advice-to-youngsters-who-are-starting-engineering-now-and-Aspire-for-a-career-in-Data-Science-AI-or-Entrepreneurship</id><content type="html" xml:base="https://muktabh.xyz/2020/09/30/Advice-to-youngsters-who-are-starting-engineering-now-and-Aspire-for-a-career-in-Data-Science-AI-or-Entrepreneurship.html">&lt;p&gt;Collecting my answers from Quora, where I advice young students getting into engineering now and aspiring to build a career in Data Science, AI or Programming.&lt;/p&gt;
+
+&lt;h3 id=&quot;q-my-brother-is-confused-which-branch-he-should-opt-for-between-ai-and-computer-science-as-in-upcoming-times-ai-has-a-very-large-scope-can-anybody-suggest-me&quot;&gt;Q. My brother is confused which branch he should opt for between AI and computer science. As in upcoming times AI has a very large scope. Can anybody suggest me?&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here: https://qr.ae/pN2Q5y&lt;/p&gt;
+
+&lt;p&gt;There is a branch called Artificial Intelligence already in some Indian college ? That is a bit too early. Some opinions from me :&lt;/p&gt;
+
+&lt;p&gt;Opinion 1 : As of 2020, I personally feel that AI is not a field broad enough for a 4 year graduate course in Indian context, a BTech in Data Science in India is still conceivable. A Computer Science degree with Machine Learning, Deep Learning and good calculus and statistics courses should be enough to enter into the field of AI and I am almost sure this will not change in 4 years. Unless you are looking at an undergraduate research degree, I dont think a bachelor’s degree in AI will be worth it. In fact, a lot of the field of AI is just actually traditional Computer Science, Statistics and Optimization (All 3 fields were covered in my undergrad degree at BITS Pilani). The only new things are Deep/Machine Learning algorithms which can be taught in 2–3 electives.&lt;/p&gt;
+
+&lt;p&gt;Opinion 2 : Even if some university comes up with a clever course structure around BTech in AI say (I think there is a possible course structure choosing subjects from Computer Science and Maths and Machine Learning specific courses), I dont think any university in India has enough faculty talent pool to teach modern AI well apart from a few top ones. Its hard for large companies and top universities to find top AI talent, how would a general university afford it. Heck, most universities dont teach even Computer Science well. So many CS grads in India and many job vacancies never get filled.&lt;/p&gt;
+
+&lt;p&gt;Opinion 3: If you are really interested in AI, according to me a good path will be to pursue Computer Science from a college with good A. Coding campus culture and B. CS faculty in AI. Some good ones in India are : IIT(M/Kgp/B), IIITH, other good IITs, BITS and a few NITs. If you are not able to secure entry into these colleges try completing &lt;a href=&quot;http://deeplearning.ai/&quot;&gt;http://deeplearning.ai&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;courses or do an online minor like &lt;a href=&quot;https://onlinedegree.iitm.ac.in/&quot;&gt;IIT Madras Online Degree Program&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Just getting a degree in AI from a random institute where practical knowledge is rare will be of no use.&lt;/p&gt;
+
+&lt;h3 id=&quot;q-excuse-mei-am-going-to-join-engineering-this-year-what-is-the-basic-i-should-start-with-i-am-going-to-join-computer-science-and-engineering-with-specialization-in-artificial-intelligence-and-machine-learningwhat-should-i-learn-start-my-journey&quot;&gt;Q. 🙏EXCUSE ME.I am Going to Join Engineering This Year What is The Basic I should Start With. I am Going to join Computer science and engineering with specialization in artificial intelligence and Machine Learning.what should I learn start my Journey?&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here: https://www.quora.com/EXCUSE-ME-I-am-Going-to-Join-Engineering-This-Year-What-is-The-Basic-I-should-Start-With-I-am-Going-to-join-Computer-science-and-engineering-with-specialization-in-artificial-intelligence-and-Machine-Learning-what/answer/Muktabh-Mayank&lt;/p&gt;
+
+&lt;p&gt;Recommendations from me here are are subjective, some people might not agree with what I say. Hope other people share their ideas with you as well so that you get a varied perspective.&lt;/p&gt;
+
+&lt;p&gt;Some more general advice before you start your courses (not related to Machine Learning coursework) :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Most people who join CSE willingly do so because they want to build a website, build a game, build a cool AI algorithm or build a software they always wondered about. Some join because they want to earn a lot ! A Computer Science degree teaches you not just how to build these things, but also the principles behind the building process. Remember you are getting in not just to learn what you always wanted to build, but also build it effectively in a technically sound way. Your aim should be to focus on both these goals : Learning to build using computers and learning the right way to build using Computers. They are slightly different skills, like cycling and learning about center of gravity and equilibrium in Physics, but the smartest people I find are those who know both how to write software and write it effectively. I will break it down more in upcoming points.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Studying to learn and studying for marks can be two different things sometimes and the same thing many other times. Learn to recognize this. Dont neglect your marks totally. A few days of studies before the exams manages grades well generally. However, more importantly, dont study just for exams. Remember if you dont come out of your university as a good (or an average) Data Scientist in your own perception, you would have wasted a lot of time and money even if you would have gotten good marks. On the other hand, if you come out as a good Data Scientist in just your perception with poor marks, the world will not be willing to bet on you. Lagom.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Remember most teachers you will find on the way will be average or below average. Your aim should be to become better than most if not all of them. There would be many times when they will not be able to help you intuit about something well. Its your responsibility to use the vast amount of resources available to make yourself good at the courses you take. In computer science, you have this unique advantage of learning from anywhere. Don’t just depend upon your teachers for your understanding.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Do practical things. Push yourself as much as possible to do practical projects with researchers/developers, even for no or little compensation or recognition. There are ways in Indian colleges to avoid practical work in courseware by doing “jugaad”. My biggest regret from my college days was not doing more practice. Again, do as many projects and as much programming as possible. In retrospective, the best way is to do jugaad in exams/labs so that you can score the maximum but do practice in your free time where you focus on quality and learning.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Remember that credentials like marks and university brand value is just a good launchpad, your skills will take you ahead from there. Dont fret too much about marks if you think you are good at practice. Learn to build. Just don’t neglect exams and marks altogether as I said earlier.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Ok. Enough of boring meta lecture. Let me tell more about academics :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Learn Python very well (and R too). They are easy and can be learnt online for free at many places. You need to be fluid in Python just like you are in one of the languages you speak. Programming is taught in most CSE curriculum but the aim is often to ensure a minimum standard than making you fluent at it. You need to take charge and make sure you are fluent.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Keep a track of 3 courses being taught to you very well : Statistics, Linear Algebra and Optimization. As a Data Scientist, these are the three courses you use the most at job after programming. Many tutorials/courses available for free. Here is a list of 50+ free books which might be useful for self-learning these topics: [50 Must-Read Free Books For Every Data Scientist in 2020&lt;/td&gt;
+          &lt;td&gt;ParallelDots](https://blog.paralleldots.com/data-science/50-must-read-free-books-for-every-data-science-enthusiast/)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- end list --&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Remember your differentiator as a Computer Science first Data Scientist is going to be programming. Keep good command on Data Structures and Algorithms courses and Databases/Data Processing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- end list --&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When you now about the basic somewhat, try doing courses like the ones listed on &lt;a href=&quot;https://www.fast.ai/&quot;&gt;fast.ai · Making neural nets uncool again&lt;/a&gt; , &lt;a href=&quot;http://deeplearning.ai/&quot;&gt;http://Deeplearning.ai&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- end list --&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;and Data Analysis specializations on various platforms like Coursera/Edx. Please remember, doing the courses is more important, buying certificate is optional. Do assignments, not just theory.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- end list --&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Subscribe to a few newsletters to make sure what is going on in real world of Data Science when you are in college. State pf the art research and new tools.&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;h3 id=&quot;q-how-important-are-good-colleges-iits--all-in-forming-an-entrepreneur-and-how-does-it-differ-from-a-dropout-in-india&quot;&gt;Q. How important are good colleges (IITs &amp;amp; all) in forming an entrepreneur and how does it differ from a dropout in India?&lt;/h3&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Originally Answered here: &lt;a href=&quot;https://www.quora.com/How-much-importance-do-good-colleges-IITs-all-play-in-forming-an-entrepreneur-and-how-does-it-differ-from-a-dropout-in-India/answer/Muktabh-Mayank&quot;&gt;https://www.quora.com/How-much-importance-do-good-colleges-IITs-all-play-in-forming-an-entrepreneur-and-how-does-it-differ-from-a-dropout-in-India/answer/Muktabh-Mayank&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Good Question.&lt;/p&gt;
+
+&lt;p&gt;There are 3 things I consider very important to be a successful entrepreneur :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Basic Intelligence :&lt;/strong&gt; “All smart people don’t goto IITs/NITs” and “Not every IIT/NIT student is smart”, but you will agree that many of them have above average intelligence. Certain amount of intelligence is needed to be an entrepreneur and many good colleges will have kids like that.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Awareness/Environment/Compounding :&lt;/strong&gt; This is the most important, but really underrated property. Good colleges are a gathering of high percentage smart people who are connected to other smart people and know about what is going on in the world. The environment and conditioning in 4 years can change people’s world views a lot and make them look at world in a way that helps them churn out successful technology businesses. This is not unique to IITs say, Stanford, Cambridge &lt;a href=&quot;https://en.wikipedia.org/wiki/Cambridge,_Massachusetts&quot;&gt;Cambridge, Massachusetts - Wikipedia&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- end list --&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;and OxBridge etc have demonstrated this too. You can also see this in other spheres of life as many successful businessmen come out of successful business families and many brave army officers come out of army families and many civil servants come from civil servant families. Environment and conditioning compound over time and give a distinct advantage. I think this is the major contributions top colleges bring to ones life, awareness and network.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- end list --&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Risk Appetite :&lt;/strong&gt; Any successful entrepreneur is one who takes many risks. Risks which have extremely high payouts (in Billions of dollars) and relatively less loss (say 2 year in career growth). When one takes 10 such risks, they have probability of getting success is OK, when one takes 1 such risk, their probability of success is close to zero. Although it might sound unfair, but it is about trying to get lucky while losing out less for every trial. IITians and people from top college know that the payout on success is huge, while on failing their degree/credential will give them some kind of a social security by getting them a decent job. For someone without a credential, its just way harder making their risk appetite less. Introduce some kind of achievement based social security for entrepreneurs and see the number of startups from non-elite colleges soar.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Cannot say about dropouts, you don’t have too many dropouts in India ! Peter Thiel asks people to dropout and work on their business and when you look at his fellows, that doesn’t look entirely wrong. &lt;a href=&quot;https://en.wikipedia.org/wiki/Thiel_Fellowship&quot;&gt;Thiel Fellowship - Wikipedia&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;That said, society in India recognizes credentials much more (probably because we were rules by British in past) and the factor 2 above will not be fully possible for a dropout. That said, one can build awareness and network without going to a top college too, its not impossible, they just need to know what to do and stay committed.&lt;/p&gt;
+
+&lt;h3 id=&quot;q-is-computer-science-cs-overrated-in-india-every-other-engineering-students-wants-to-take-cs-in-any-college-whether-he-has-interest-in-it-or-not&quot;&gt;Q. Is Computer Science (CS) overrated in India? Every other engineering students wants to take CS in any college whether he has interest in it or not.&lt;/h3&gt;
+
+&lt;p&gt;Originally Answered here: &lt;a href=&quot;https://www.quora.com/Is-Computer-Science-CS-overrated-in-India-Every-other-engineering-students-wants-to-take-CS-in-any-college-whether-he-has-interest-in-it-or-not/answer/Muktabh-Mayank&quot;&gt;https://www.quora.com/Is-Computer-Science-CS-overrated-in-India-Every-other-engineering-students-wants-to-take-CS-in-any-college-whether-he-has-interest-in-it-or-not/answer/Muktabh-Mayank&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As bad it feels while saying this, CSE is actually NOT overrated in India. CS has both a supply side and demand side advantage in India thus creating opportunities that are just not possible for other streams. Let me try to explain my point :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Most (not all) Indian educational institutes were opened after India allowed foreign firms to enter India. These firms were either opening sweatshops in India or opened factories in India so that they could sell to Indian market. As you can imagine, not a lot of innovation is required for both such jobs as all they need is cheap resources and people managers with domain knowledge. This shaped the Indian education system to create Engineering Schools which handed out degrees to average engineers for cheap. Government, Businessmen and People they all wanted cheap accessible degrees, why spend a lot on Engineering education when everyone gets a 2.4–3 Lakh Rupees per year job, wherever they study from. One wont spend 50 Lakhs to get a degree that pays 3 Lakhs/Year. To be clear, I am not complaining, this was a good move given pre-1990 salaries in country. People did not mind doing low quality work if it paid relatively better. Only some T-schools subsidized by government could continued focusing on high quality during this time. Students from these institutes had to run to US or EU for a job as they just couldn’t compete salarywise to others. Most Indian colleges have BAD faculty, not even average. We have better high school teachers in our nation than Engineering lecturers in many cases, because to push cheap degrees, we cannot pay good money to people teaching engineering. When all you need is an Engineering degree to get a low wage job with high certainty, this is what would emerge. Unlike other branches of engineering, where you need great investment to setup labs and research facilities, CSE education can effectively be completed on a single laptop. Most universities and experts around the world are also more open in CSE to share their knowldge through the internet, very less secret and proprietary research. High quality CSE study material is available for free or cheap on internet for minimal investment and someone who doesn’t want to be just an average Engineer and wants to actually know and build in detail has an option to do so. People in colleges with good infrastructure (IITs/BITS) could take advantage of this arbitrage before it was commonplace. Almost everyone in our batch (2008–12) had done Ars Digita University &lt;a href=&quot;https://en.wikipedia.org/wiki/ArsDigita_University&quot;&gt;ArsDigita University - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- end list --&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;courses during our engineering years. So unlike no other branches of Engineering, in CSE, people can spend quite less money to get a degree and still become very good Engineers if they know where to find the right information. You have coursera, edx, udacity, udemy and many free courses on youtube teaching CSE for free/cheap. This is a unique advantage for CSE students. While you still get a degree from a system that is designed to make you average, but still, you can be really good. This creates an arbitrage where your salary requirement would be lesser than the top engineers who invest a lot of money for quality education. Supply of high quality cheap Engineers brought in many many jobs opportunities into India. Unlike the sweatshop work of yonder years, this was well paying work. If there is a reason why CSE is so coveted, it is this set of jobs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This created a cycle, India’s top software talent then went ahead founding more software based companies/startups whose high caliber, high skill work in done in India as well. This created more high paying positions and talented individuals which forced more foreign firms to bring high caliber more jobs into India to stay competitive. A self-enforcing cycle. Basically, Indian software power is like a black hole, keeps sucking in jobs and thus creating better outcomes for students. In last 10–15 years, the entire scenario has changed for the better in a way no one could imagine.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Most other industries in India mostly took safe bets. Put up a car assembly line, Build a road and things like that. Indian Engineering jobs in these sectors have been domain-informed people-management mostly. All innovation was mostly done in US or Germany or (now) China. There was no loop of Skill-Jobs supply-demand set up. Reason being there is no way to get cheap education in say Mechanical Engineering or Electrical Engineering without compromising in quality to self-motivated people. With India now moving towards a self fulfilling manufacturing base, we will probably start moving towards this, but the progress will be slower.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;So to answer your question, CSE is actually a good bet for people who have no idea about what they are interested in. Most kids actually dont know what they will want to do at the age of 17–18 years as our education system before that keeps us away from decision-making and vocation. Maybe that would improve in the future too. For such people, it is actually a good bet to take CSE. If they put in some effort apart from what is taught in the class, their learning has no restrictions and they might make it big.&lt;/p&gt;
+
+&lt;p&gt;However, for someone who understands how they will chart a course as a Mechanical Engineer say, it is stupid to push them into pursuing CSE. One of my first year wingmates took Mechanical Engineering at BITS by choice (ie could have gotten a Information Systems degree like me which had a lower cutoff or even Electronics as he had scored high) knew exactly what he wanted to do in Mechanical Engineering and ended up creating one of the biggest robotics companies India had ever seen. Smart people will almost always find their way !&lt;/p&gt;
+
+&lt;p&gt;Q. My relatives are pressuring me to do graduation and I want to learn coding because I think the value of graduation is now gone after the new education system policy. What should I do?&lt;/p&gt;
+
+&lt;p&gt;Originally Answered Here: &lt;a href=&quot;&quot;&gt;https://www.quora.com/My-relatives-are-pressuring-me-to-do-graduation-and-I-want-to-learn-coding-because-I-think-the-value-of-graduation-is-now-gone-after-the-new-education-system-policy-What-should-I-do/answer/Muktabh-Mayank&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Relatives are pushing you to get a degree than do self study due to three things :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Coming from our British colonial past and then post-independence socialism and then IT services based economy, credentials of a person (like degrees, certificates) have been used as a filter have been used to filter people for jobs (marriages too in some parts of India from what I hear, “cannot marry my kid unless you are an IITian”). So when your relatives were students, a good degree was must to get anywhere. Indians were mostly doing petty stuff for most of this time, aircraft maintenance than aircraft building, updating BI tools rather than creating BI tools and implementing an MNC’s policy in India rather than making policies. The problem with such relatively-lower-skill jobs is you just need “good enough” people for them and thus can use any arbitrary filters to screen them. Degrees, thus were very important to tell how “eligible” one is. When I was writing JEE and BITSAT in 2007–08, not getting into a good college basically meant very very reduced exposure and brownie points, there was no match between the outcomes of an elite degree and non-elite one! Even now, there is still some difference in outcome, if a person has no differentiator other than college degree. This has started changing only very recently as Indians have started building original products and companies, which is harder to achieve and thus they need people who are really good and passionate about their work. Hiring someone from IIT who cannot get my app grow really fast by digital marketing is not going to help me as a founder, I would rather hire someone who is really good at digital marketing from whatever college. Due to the competition, Indian elite colleges are still much more likely to produce many super-intelligent and hardworking people than average colleges, but yeah, IIT/BITSians only type job postings are slowly declining. So by this criterion, I guess there is no disadvantage in not wasting money on a university degree. At least for programming and Computer Science, free and high-quality education is available online which you can get to become a great programmer without any CS degree. If you are going to start a company or going to work for startups for most of your time and are committed to keeping your skills top notch by self learning, graduation degree actually is redundant. But be assured that institutions that run on credentials: Banks, Service companies, formal education, government and others, are almost never going to hire you, unless there is a radical change.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;That said, the field of academia is still very credential based. It is not uncommon to hear someone to get rejected from a MS(Data Science) program because their Bachelors was in Electronics. Think of it, there should be no big deal about an electronics graduate willing to pursue Data Science, but academia as a field runs by credentials and sometimes even this gets stuck. No wonder, academia is the system of credential building and the whole castle will fall if they start making exceptions. So if you are avoiding graduation, you can be assured that you cannot go back to a college or university at skill level you really are at after all the self learning. You will have to start with bachelors whenever you decide to go back to school, even if you might have published a paper in Nature. Chris Olah, who is an AI researcher at OpenAI (and flunked graduation when he heard and read Peter Thiel) writes in detail about it here : &lt;a href=&quot;https://colah.github.io/posts/2020-05-University/&quot;&gt;Do I Need to Go to University?&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- end list --&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;. He used to be active on Quora too !&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- end list --&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;One important thing you need to know about universities, they may be suboptimal institutions at undergraduate level, but they are really good at one thing, ensuring a minimum standard when a student is given a degree. Everyone getting a degree is not really great at their job, but you know that they will have some bare essential qualification if they have taken exams and completed formalities. If you decide to stay outside this framework and take responsibility and are driven to self-educate overcoming procrastination and comfort-zone, it is really good. However, you have no safety net, there is no guarantee that you are not totally wasting your time away. You will have to be very proactive to make sure you are actually making progress and are not getting stuck.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Net net, ditching gradation was unthinkable maybe even 5 years back, but for programmers, it is a feasible decision now. However, it has many implications which one needs to understand before they take the call. Its a “package deal” all the independence and super efficient learning combined with the risk of procrastination, staying no to credential based system. Make your choice well, Hope this helps !&lt;/p&gt;
+
+&lt;h3 id=&quot;q-will-it-be-worth-it-to-invest-25-30-lakhs-for-a-btech-in-bits-pilani-after-covid-19-if-roi-decreases-as-jobs-will-be-affected&quot;&gt;Q. Will it be worth it to invest 25-30 lakhs for a BTech in BITS Pilani after COVID 19 if ROI decreases as jobs will be affected?&lt;/h3&gt;
+
+&lt;p&gt;Originally Answered Here: &lt;a href=&quot;https://www.quora.com/Will-it-be-worth-it-to-invest-25-30-lakhs-for-a-BTech-in-BITS-Pilani-after-COVID-19-if-ROI-decreases-as-jobs-will-be-affected/answer/Muktabh-Mayank&quot;&gt;https://www.quora.com/Will-it-be-worth-it-to-invest-25-30-lakhs-for-a-BTech-in-BITS-Pilani-after-COVID-19-if-ROI-decreases-as-jobs-will-be-affected/answer/Muktabh-Mayank&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We don’t know how the job market will look after 4 years (understanding that you are entering Engineering now). From what we have seen in history, after a economic crisis (like the ongoing year where jobs are extremely hard to come by), there is a economic boom. Unless the policy is really bad (or socialist which doesn’t allow private sector), an economic slump weeds out bad (sometime good) competitors and when the market gets some confidence back, the survivors experience a massive surge. Also people who lose jobs develop new expertise and come back with new innovative ideas in the booming market where the survivors are making money to make more money themselves. During an economic crisis is the best time to get educated and prepare for a future career.&lt;/p&gt;
+
+&lt;p&gt;For example, during my early years at BITS, the 2008–09 crisis had made things really bad. My seniors had to take jobs with companies who were not allowed in campus a few years back because they paid really less or had employment terms not aligned with college’s policy. But that was a bad time to enter workforce. However, by the time I graduated in 2012, the job market was in full swing and people were getting placed in top MNCs with salaries 2008-09 graduates could only dream of. The MNC craze got done around 2015–16 with Indian startups becoming the highest payers until this pandemic disruption. The pandemic disruption will change industry and economy for long term, but unless something goes really wrong, I think 2–3 years down the road, we should experience another economic boom.&lt;/p&gt;
+
+&lt;p&gt;Most people dont think in terms of RoI and treat education as a cost to build long term employment out of it. So take a loan, complete a degree, work your way up the ladder, pay the loan back, do a masters, start a family… you know the general rule. If you are planning this type of a trajectory, I think its a good bet to get into college and start a degree right now and hope economy to bounce back in a few years.&lt;/p&gt;
+
+&lt;p&gt;If you want a quick RoI on the 25 Lakhs, well that is a lot of money to get time bound RoI on. During our batch, you could typically earn back all money you spent on college degree in a year or two. Even lesser if you had an MCN. However, it seems that wont be the case now. In a positive way, that can be a good incentive for people to work really hard and develop as much expertise as possible during their stay in college, because that degree is really you burning a lot of money. People 10 years back had optionality, people now dont have that, great things are achieved when you dont have optionality.&lt;/p&gt;
+
+&lt;p&gt;Also probably incoming college students need to think more about long term perspective before they choose what they study. For example, A lot of my batchmates just took a loan for a US college degree just after they passed out and had to think of the RoI only while planning for their masters degrees, I dont think new people will have that liberty given 25 Lakh already needs borrowing money at graduate level. At least one or two paths to follow after they graduate should be clear to them from start. You can only get a sure-shot high RoI if you plan a way to get RoI, dont just invest and hope the dice turns a SIX.&lt;/p&gt;
+
+&lt;p&gt;This might be expecting a bit too much maturity out of the young people entering colleges and I am sorry about that. We are not expected to make any decisions in our first 12–14 years of education and it will be huge change to take a decision keeping 4 years in perspective. That you are asking a question about RoI at such a young age is already impressive. Hope you have a good BITSAT score :) .&lt;/p&gt;</content><author><name></name></author><summary type="html">Collecting my answers from Quora, where I advice young students getting into engineering now and aspiring to build a career in Data Science, AI or Programming.</summary></entry><entry><title type="html">Startups During Pandemic Disruption</title><link href="https://muktabh.xyz/2020/09/12/Startups-During-Pandemic-Disruption.html" rel="alternate" type="text/html" title="Startups During Pandemic Disruption" /><published>2020-09-12T00:00:00-05:00</published><updated>2020-09-12T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/09/12/Startups-During-Pandemic-Disruption</id><content type="html" xml:base="https://muktabh.xyz/2020/09/12/Startups-During-Pandemic-Disruption.html">&lt;h3 id=&quot;my-answer-to-what-is-the-effect-of-the-covid-19-pandemic-on-ai-based-startups&quot;&gt;My answer to “What is the effect of the covid-19 pandemic on AI-based startups?”&lt;/h3&gt;
 
 &lt;p&gt;Originally Answered here: &lt;a href=&quot;https://qr.ae/pNC3bb&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNC3bb&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -2279,7 +2475,7 @@ Indians pay for Education. The recent wave of eductech startups might also solve
 
 &lt;p&gt;a) Hadoop is for handling very large amount of data (Terabyte+), which most places do not have. Unlike what the internet hype (and plethora of hadoop training institutes in India want you to believe), most companies still have small data which can fit easily on a postgres cluster if not one server. Data Analysis skill is required almost everywhere, Hadoop at best in few 100 offices in India.&lt;/p&gt;
 
-&lt;p&gt;b) Apart from HDFS, most parts of hadoop ecosystem are already being replaced/renovated by the innovation leader companies. Google (the inventor) phased out mapreduce &lt;a href=&quot;http://the-paper-trail.org/blog/the-elephant-was-a-trojan-horse-on-the-death-of-map-reduce-at-google/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;The Elephant was a Trojan Horse: On the Death of Map-Reduce at Google&lt;/span&gt;&lt;/a&gt;, projects like mahout already seem to be moving away from hadoop and a lot of companies seem to be moving towards &lt;a href=&quot;https://spark.apache.org/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Apache Spark™ - Lightning-Fast Cluster Computing&lt;/span&gt;&lt;/a&gt; . Now by the time you become professional, spark might be the talk of the town, in 10 more years even it might be removed.&lt;/p&gt;
+&lt;p&gt;b) Apart from HDFS, most parts of hadoop ecosystem are already being replaced/renovated by the innovation leader companies. Google (the inventor) phased out mapreduce &lt;a href=&quot;http://the-paper-trail.org/blog/the-elephant-was-a-trojan-horse-on-the-death-of-map-reduce-at-google/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;The Elephant was a Trojan Horse: On the Death of Map-Reduce at Google&lt;/span&gt;&lt;/a&gt;, projects like mahout already seem to be moving away from hadoop and a lot of companies seem to be moving towards &lt;a href=&quot;https://spark.apache.org/&quot;&gt;Apache Spark™ - Lightning-Fast Cluster Computing&lt;/a&gt; . Now by the time you become professional, spark might be the talk of the town, in 10 more years even it might be removed.&lt;/p&gt;
 
 &lt;p&gt;I would rather advice you to read books like mmds, foundations of data science, ISLR, Deep Learning etc. All of them are freely available on internet. Save your money and time (reading them now than you would read them after you graduate).&lt;/p&gt;
 
@@ -2291,7 +2487,7 @@ Indians pay for Education. The recent wave of eductech startups might also solve
 
 &lt;p&gt;&lt;a href=&quot;https://blog.paralleldots.com/data-science/deep-learning/free-resources-deep-learning/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Free Deep Learning Resources&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://blog.paralleldots.com/technology/artificial-intelligence/must-read-blogs-ai-deep-learning-enthusiasts/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Must Follow Blogs&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://blog.paralleldots.com/technology/artificial-intelligence/must-read-blogs-ai-deep-learning-enthusiasts/&quot;&gt;Must Follow Blogs&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Answer is Here: https://www.quora.com/What-should-be-the-learning-path-after-going-through-basic-machine-learning-material/answer/Muktabh-Mayank?srid=qie&lt;/p&gt;
 
@@ -2333,7 +2529,7 @@ Indians pay for Education. The recent wave of eductech startups might also solve
 
 &lt;p&gt;The bigger companies working in Data Science, maybe like Fractal and Manthan, might be hiring absolute freshers too, but most companies in this space are small startups who cannot take risk if hiring absolute freshers and training them.&lt;/p&gt;
 
-&lt;p&gt;Original Answer Link: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNnch5&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Original Answer Link: https://qr.ae/pNnch5&lt;/p&gt;
 
 &lt;h3 id=&quot;q-is-it-true-that-maths-or-statistics-isnt-required-at-all-in-data-science-while-programming-skills-are-required-my-friend-told-me-the-same-thing-he-said-thats-why-a-majority-of-data-scientists-are-from-btech-backgrounds-not-from-maths-or-stats&quot;&gt;Q. Is it true that maths or statistics isn’t required at all in data science while programming skills are required? My friend told me the same thing. He said that’s why a majority of data scientists are from BTech backgrounds, not from maths or stats.&lt;/h3&gt;
 
@@ -2347,11 +2543,11 @@ Indians pay for Education. The recent wave of eductech startups might also solve
 
 &lt;p&gt;There are similarly many job descriptions for Data Scientists. Some of them actually don’t require too much Maths and just programming, but most of them do require some basics of the above mentioned mathematical areas.&lt;/p&gt;
 
-&lt;p&gt;Original Answer Here: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNnctE&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Original Answer Here: https://qr.ae/pNnctE&lt;/p&gt;
 
 &lt;h3 id=&quot;q-my-answer-to-what-are-the-mistakes-people-make-when-they-start-machine-learning&quot;&gt;Q. My answer to “What are the mistakes people make when they start Machine Learning?”&lt;/h3&gt;
 
-&lt;p&gt;Originally Answered here: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/TiNJou&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Originally Answered here: https://qr.ae/TiNJou&lt;/p&gt;
 
 &lt;p&gt;Some mistakes according to me:&lt;/p&gt;
 
@@ -2384,7 +2580,7 @@ Indians pay for Education. The recent wave of eductech startups might also solve
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Original Answer Here: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNncvm&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Original Answer Here: https://qr.ae/pNncvm&lt;/p&gt;
 
 &lt;p&gt;In my view most inexperienced Machine Learning people (including me say 6–7 years back) focus more on algorithm than data.&lt;/p&gt;
 
@@ -2396,7 +2592,7 @@ Indians pay for Education. The recent wave of eductech startups might also solve
 
 &lt;h3 id=&quot;q-i-just-hired-an-unqualified-machine-learning-engineer-he-know-only-some-basic-tensorflow-and-have-no-idea-about-the-maths-and-build-more-complex-neural-networks-should-i-fire-him-immediately-or-give-him-2-months-to-improve&quot;&gt;Q. I just hired an unqualified machine learning engineer, he know only some basic Tensorflow and have no idea about the maths and build more complex neural networks, should I fire him immediately or give him 2 months to improve?&lt;/h3&gt;
 
-&lt;p&gt;Originally Answered Here: &lt;a href=&quot;https://qr.ae/pNncrn&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNncrn&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Originally Answered Here: &lt;a href=&quot;https://qr.ae/pNncrn&quot;&gt;https://qr.ae/pNncrn&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Why did you hire an “unqualified” person ? Don’t you have a job description and interview process ? If there is such a huge gap between the hiring and requirement, I think its a problem with the company leadership and process. You should understand who you want to hire for what exact profile before you even put the JD out.&lt;/p&gt;
 
@@ -2410,7 +2606,7 @@ Indians pay for Education. The recent wave of eductech startups might also solve
 
 &lt;h3 id=&quot;q-will-the-talent-shortage-in-ai-end-soon&quot;&gt;Q. Will the talent shortage in AI end soon?&lt;/h3&gt;
 
-&lt;p&gt;Originally Answered Here: &lt;a href=&quot;https://qr.ae/TSkAzo&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/TSkAzo&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Originally Answered Here: &lt;a href=&quot;https://qr.ae/TSkAzo&quot;&gt;https://qr.ae/TSkAzo&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;There is no shortage of AI talent as of 2019 end. Too many people in India know basics about AI and can be trained to work. I am not sure if there is a way to see people applying for AI positions but if there was a way, you could clearly see that way many people apply for all AI/Data Science job (at least here in India). There was a time when just knowing some basics got you a job but no more now.&lt;/p&gt;
 
@@ -2420,13 +2616,20 @@ Indians pay for Education. The recent wave of eductech startups might also solve
 
 &lt;h3 id=&quot;q-will-data-science-and-machine-learning-get-automated-leading-to-lesser-opportunities-for-data-scientists-by-2025-&quot;&gt;Q. Will data science and machine learning get automated leading to lesser opportunities for data scientists by 2025 ?&lt;/h3&gt;
 
-&lt;p&gt;This blog post is also an answer by me on Quora &lt;a href=&quot;https://www.quora.com/Will-data-science-and-machine-learning-get-automated-leading-to-lesser-opportunities-for-data-scientists-as-per-https-www-datasciencecentral-com-profiles-blogs-data-scientists-automated-and-unemployed-by-2025-update/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;here&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This blog post is also an answer by me on Quora &lt;a href=&quot;https://www.quora.com/Will-data-science-and-machine-learning-get-automated-leading-to-lesser-opportunities-for-data-scientists-as-per-https-www-datasciencecentral-com-profiles-blogs-data-scientists-automated-and-unemployed-by-2025-update/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Yes. (2025 is not the date I think its going to happen, but its inevitable and will happen in near future). They will be automated to a good extent. So will be Software Developers, designers, manual workers, teachers, linguists, musicians, game developers etc,etc. There are already rudimentary projects like &lt;a href=&quot;https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Turning Design Mockups Into Code With Deep Learning&lt;/span&gt;&lt;/a&gt; which can turn a design mockup into HTML/CSS code, &lt;a href=&quot;https://github.com/carpedm20/ENAS-pytorch&quot;&gt;&lt;span class=&quot;underline&quot;&gt;carpedm20/ENAS-pytorch&lt;/span&gt;&lt;/a&gt; which can design neural networks without a Data Scientist, &lt;a href=&quot;_blank&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Why AutoML Is Set To Become The Future Of Artificial Intelligence&lt;/span&gt;&lt;/a&gt; , system which can generate new characters for games, &lt;a href=&quot;http://www.business-standard.com/article/international/microsoft-ai-can-translate-chinese-to-english-just-as-accurately-as-humans-118031500414_1.html&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Microsoft AI can translate Chinese to English just as accurately as humans&lt;/span&gt;&lt;/a&gt; , &lt;a href=&quot;https://www.computing.co.uk/ctg/news/3028065/baidus-deep-voice-can-clone-speech-with-less-than-four-seconds-of-training&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Baidu’s Deep Voice can clone speech with less than four seconds of training | Computing&lt;/span&gt;&lt;/a&gt; and multiple such projects.&lt;/p&gt;
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Yes. (2025 is not the date I think its going to happen, but its inevitable and will happen in near future). They will be automated to a good extent. So will be Software Developers, designers, manual workers, teachers, linguists, musicians, game developers etc,etc. There are already rudimentary projects like &lt;a href=&quot;https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/&quot;&gt;Turning Design Mockups Into Code With Deep Learning&lt;/a&gt; which can turn a design mockup into HTML/CSS code, &lt;a href=&quot;https://github.com/carpedm20/ENAS-pytorch&quot;&gt;carpedm20/ENAS-pytorch&lt;/a&gt; which can design neural networks without a Data Scientist, &lt;a href=&quot;_blank&quot;&gt;Why AutoML Is Set To Become The Future Of Artificial Intelligence&lt;/a&gt; , system which can generate new characters for games, &lt;a href=&quot;http://www.business-standard.com/article/international/microsoft-ai-can-translate-chinese-to-english-just-as-accurately-as-humans-118031500414_1.html&quot;&gt;Microsoft AI can translate Chinese to English just as accurately as humans&lt;/a&gt; , [Baidu’s Deep Voice can clone speech with less than four seconds of training&lt;/td&gt;
+      &lt;td&gt;Computing](https://www.computing.co.uk/ctg/news/3028065/baidus-deep-voice-can-clone-speech-with-less-than-four-seconds-of-training) and multiple such projects.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-03-20-Views-on-Fresher-Data-Science-Jobs/media/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Video Link : &lt;span class=&quot;underline&quot;&gt;https://youtu.be/XOxxPcy5Gr4&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Video Link : https://youtu.be/XOxxPcy5Gr4&lt;/p&gt;
 
 &lt;p&gt;AI will impact every job profile which exists as of now, Data Scientists no exception, automating some or a lot of work people spend their time on. For a lot of time these systems will become a &amp;lt;Man + Machine&amp;gt; AI systems rather than just a Human working before stuff is totally automated. So its not like everyone becomes redundant day 1, but they will eventually.&lt;/p&gt;
 
@@ -2436,7 +2639,7 @@ Indians pay for Education. The recent wave of eductech startups might also solve
 
 &lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-03-20-Views-on-Fresher-Data-Science-Jobs/media/image2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Video Link Here: &lt;span class=&quot;underline&quot;&gt;https://youtu.be/EEUkmP2nyxo&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Video Link Here: https://youtu.be/EEUkmP2nyxo&lt;/p&gt;
 
 &lt;p&gt;So much work was once needed to just stop the train. A lot lesser work is needed today to run/stop the train and not just that, slowly trains are moving towards full automation, but right now they are in a &amp;lt;man + machine&amp;gt; stage. A lot of jobs will stay in this phase for sometime before full automation kicks in. But unlike railways, which take generations to move from one stage of automation to another, AI is causing changes at a very high rate.&lt;/p&gt;
 
@@ -2460,7 +2663,7 @@ Indians pay for Education. The recent wave of eductech startups might also solve
   &lt;/li&gt;
   &lt;li&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;With more uncertainty in jobs, millenials probably will want to be a less “spend-y” and more frugal. You can see things happening already &lt;a href=&quot;https://www.businessinsider.in/6-reasons-why-more-millennials-arent-buying-homes/articleshow/59005530.cms&quot;&gt;&lt;span class=&quot;underline&quot;&gt;6 reasons why more millennials aren’t buying homes&lt;/span&gt;&lt;/a&gt; and will actually increase. AI is just a trend in a longer cycle of Automation and millenials are at a point in history where education+society was according to old norms but automation has reached a point where jobs have become uncertain. Younger people will be smarter.&lt;/p&gt;
+      &lt;p&gt;With more uncertainty in jobs, millenials probably will want to be a less “spend-y” and more frugal. You can see things happening already &lt;a href=&quot;https://www.businessinsider.in/6-reasons-why-more-millennials-arent-buying-homes/articleshow/59005530.cms&quot;&gt;6 reasons why more millennials aren’t buying homes&lt;/a&gt; and will actually increase. AI is just a trend in a longer cycle of Automation and millenials are at a point in history where education+society was according to old norms but automation has reached a point where jobs have become uncertain. Younger people will be smarter.&lt;/p&gt;
     &lt;/blockquote&gt;
 
     &lt;ol&gt;
@@ -2473,15 +2676,23 @@ Indians pay for Education. The recent wave of eductech startups might also solve
 
 &lt;p&gt;Because they work really really hard on Applied Machine Learning (that’s what kaggle is) and thus have become really good at their job. If there is a hard Machine Learning problem with Billion dollars behind it, with a high probability, Kaggle grandmasters will be able to solve it better than an average joe.&lt;/p&gt;
 
-&lt;p&gt;Working consistently on something for years makes one a master of the art. &lt;a href=&quot;https://en.wikipedia.org/wiki/Outliers_\(book\)&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Outliers (book) - Wikipedia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Working consistently on something for years makes one a master of the art. &lt;a href=&quot;https://en.wikipedia.org/wiki/Outliers_\(book\)&quot;&gt;Outliers (book) - Wikipedia&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-03-20-Views-on-Fresher-Data-Science-Jobs/media/image3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;People really good at their job (say in top 10%) are really sought after in any field, not just Machine Learning. They drive the innovation, solve open ended problems and hence they get the rewards.&lt;/p&gt;
 
-&lt;h3 id=&quot;q-how-do-i-become-a-data-scientist-in-2020-in-india-by-self-teaching&quot;&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-03-20-Views-on-Fresher-Data-Science-Jobs/media/image4.png&quot; alt=&quot;&quot; /&gt;Q. How do I become a data scientist in 2020 in India by self-teaching?&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;h3&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-03-20-Views-on-Fresher-Data-Science-Jobs/media/image4.png&quot; alt=&quot;&quot; /&gt;&lt;/h3&gt;
 
-&lt;p&gt;I originally answered the question on Quora here: &lt;a href=&quot;https://qr.ae/TmYc20&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/TmYc20&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;###&lt;/p&gt;
+
+    &lt;h3 id=&quot;q-how-do-i-become-a-data-scientist-in-2020-in-india-by-self-teaching&quot;&gt;Q. How do I become a data scientist in 2020 in India by self-teaching?&lt;/h3&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I originally answered the question on Quora here: &lt;a href=&quot;https://qr.ae/TmYc20&quot;&gt;https://qr.ae/TmYc20&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I don’t think the path to being Data Scientist in India is different from being a Data Scientist abroad. It is in fact 99% same if you live in a place with good internet connectivity and understand English.&lt;/p&gt;
 
@@ -2520,11 +2731,19 @@ Indians pay for Education. The recent wave of eductech startups might also solve
     &lt;/blockquote&gt;
 
     &lt;blockquote&gt;
-      &lt;p&gt;2. Make yourself comfortable with Python ecosystem : Numpy, Scikit_learn, Keras, PyTorch, Pandas. There are courses and free books available to do these. Look for their ratings on goodreads (for books) and course stars. Best is to just do the famous courses &lt;a href=&quot;https://www.coursera.org/specializations/data-science-python&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Applied Data Science with Python | Coursera&lt;/span&gt;&lt;/a&gt; , &lt;a href=&quot;http://deeplearning.ai/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;http://deeplearning.ai&lt;/span&gt;&lt;/a&gt; and &lt;a href=&quot;https://www.coursera.org/learn/machine-learning&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Machine Learning | Coursera&lt;/span&gt;&lt;/a&gt; . If you are looking for free books, check out some lists I curated on ParallelDots blog: &lt;a href=&quot;https://blog.paralleldots.com/data-science/50-must-read-free-books-for-every-data-science-enthusiast/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://blog.paralleldots.com/data-science/50-must-read-free-books-for-every-data-science-enthusiast/&lt;/span&gt;&lt;/a&gt; , &lt;a href=&quot;https://blog.paralleldots.com/data-science/24-best-and-free-books-to-understand-machine-learning/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://blog.paralleldots.com/data-science/24-best-and-free-books-to-understand-machine-learning/&lt;/span&gt;&lt;/a&gt; , &lt;a href=&quot;https://blog.paralleldots.com/data-science/deep-learning/free-resources-deep-learning/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://blog.paralleldots.com/data-science/deep-learning/free-resources-deep-learning/&lt;/span&gt;&lt;/a&gt; , &lt;a href=&quot;https://blog.paralleldots.com/data-science/nlp/free-natural-language-processing-resources/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://blog.paralleldots.com/data-science/nlp/free-natural-language-processing-resources/&lt;/span&gt;&lt;/a&gt; . Force yourself to write more and more code. Do problem sets from courses, exercises from books, work for free in a startup, enter analyticsvidhya competitions or whatever suits you. Unless you practice after you learn, its not going to work.&lt;/p&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td&gt;2. Make yourself comfortable with Python ecosystem : Numpy, Scikit_learn, Keras, PyTorch, Pandas. There are courses and free books available to do these. Look for their ratings on goodreads (for books) and course stars. Best is to just do the famous courses [Applied Data Science with Python&lt;/td&gt;
+            &lt;td&gt;Coursera](https://www.coursera.org/specializations/data-science-python) , &lt;a href=&quot;http://deeplearning.ai/&quot;&gt;http://deeplearning.ai&lt;/a&gt; and [Machine Learning&lt;/td&gt;
+            &lt;td&gt;Coursera](https://www.coursera.org/learn/machine-learning) . If you are looking for free books, check out some lists I curated on ParallelDots blog: &lt;a href=&quot;https://blog.paralleldots.com/data-science/50-must-read-free-books-for-every-data-science-enthusiast/&quot;&gt;https://blog.paralleldots.com/data-science/50-must-read-free-books-for-every-data-science-enthusiast/&lt;/a&gt; , &lt;a href=&quot;https://blog.paralleldots.com/data-science/24-best-and-free-books-to-understand-machine-learning/&quot;&gt;https://blog.paralleldots.com/data-science/24-best-and-free-books-to-understand-machine-learning/&lt;/a&gt; , &lt;a href=&quot;https://blog.paralleldots.com/data-science/deep-learning/free-resources-deep-learning/&quot;&gt;https://blog.paralleldots.com/data-science/deep-learning/free-resources-deep-learning/&lt;/a&gt; , &lt;a href=&quot;https://blog.paralleldots.com/data-science/nlp/free-natural-language-processing-resources/&quot;&gt;https://blog.paralleldots.com/data-science/nlp/free-natural-language-processing-resources/&lt;/a&gt; . Force yourself to write more and more code. Do problem sets from courses, exercises from books, work for free in a startup, enter analyticsvidhya competitions or whatever suits you. Unless you practice after you learn, its not going to work.&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
     &lt;/blockquote&gt;
 
     &lt;blockquote&gt;
-      &lt;p&gt;3. This much will make you employable by many companies. If you still are trying to push to learn more, you will have to start reading research literature. This is not entirely necessary, but if you still want to, you should get yourself associated with some decent university group (or a research startup), where novel problem statements are being solved. This step is really hard without talking to peers, but if you are really self driven, Twitter is a good place to follow people and handles to learn about research while being outside the research world. &lt;a href=&quot;https://medium.com/@andreas_madsen/becoming-an-independent-researcher-and-getting-published-in-iclr-with-spotlight-c93ef0b39b8b&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Becoming an Independent Researcher and getting published in ICLR with spotlight&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;3. This much will make you employable by many companies. If you still are trying to push to learn more, you will have to start reading research literature. This is not entirely necessary, but if you still want to, you should get yourself associated with some decent university group (or a research startup), where novel problem statements are being solved. This step is really hard without talking to peers, but if you are really self driven, Twitter is a good place to follow people and handles to learn about research while being outside the research world. &lt;a href=&quot;https://medium.com/@andreas_madsen/becoming-an-independent-researcher-and-getting-published-in-iclr-with-spotlight-c93ef0b39b8b&quot;&gt;Becoming an Independent Researcher and getting published in ICLR with spotlight&lt;/a&gt;&lt;/p&gt;
     &lt;/blockquote&gt;
 
     &lt;ol&gt;
@@ -2535,7 +2754,7 @@ Indians pay for Education. The recent wave of eductech startups might also solve
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Originally answered here: &lt;span class=&quot;underline&quot;&gt;https://qr.ae/pN28BW&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Originally answered here: https://qr.ae/pN28BW&lt;/p&gt;
 
 &lt;p&gt;Note : I am assuming that this question was asked to understand ways to judge a potential employer by an applicant who wants to take a job as Data Scientist. What might be something that is risky. There might be other ways to look at it, but this seems most plausible source of the question to me.&lt;/p&gt;
 
@@ -2563,279 +2782,62 @@ Indians pay for Education. The recent wave of eductech startups might also solve
     &lt;blockquote&gt;
       &lt;p&gt;A spineless leader for Data Science team. Well a spineless leader is always bad as they just pass the pressure downwards. People leave bosses not companies. A lot of the work of senior Data Science folks is expectation management and if they cannot do so, 1,2 and 3 mentioned will haunt the team’s work.&lt;/p&gt;
     &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;q-my-brother-is-confused-which-branch-he-should-opt-for-between-ai-and-computer-science-as-in-upcoming-times-ai-has-a-very-large-scope-can-anybody-suggest-me&quot;&gt;Q. My brother is confused which branch he should opt for between AI and computer science. As in upcoming times AI has a very large scope. Can anybody suggest me?&lt;/h3&gt;
-
-&lt;p&gt;Originally answered here: &lt;a href=&quot;&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/pN2Q5y&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;There is a branch called Artificial Intelligence already in some Indian college ? That is a bit too early. Some opinions from me :&lt;/p&gt;
-
-&lt;p&gt;Opinion 1 : As of 2020, I personally feel that AI is not a field broad enough for a 4 year graduate course in Indian context, a BTech in Data Science in India is still conceivable. A Computer Science degree with Machine Learning, Deep Learning and good calculus and statistics courses should be enough to enter into the field of AI and I am almost sure this will not change in 4 years. Unless you are looking at an undergraduate research degree, I dont think a bachelor’s degree in AI will be worth it. In fact, a lot of the field of AI is just actually traditional Computer Science, Statistics and Optimization (All 3 fields were covered in my undergrad degree at BITS Pilani). The only new things are Deep/Machine Learning algorithms which can be taught in 2–3 electives.&lt;/p&gt;
-
-&lt;p&gt;Opinion 2 : Even if some university comes up with a clever course structure around BTech in AI say (I think there is a possible course structure choosing subjects from Computer Science and Maths and Machine Learning specific courses), I dont think any university in India has enough faculty talent pool to teach modern AI well apart from a few top ones. Its hard for large companies and top universities to find top AI talent, how would a general university afford it. Heck, most universities dont teach even Computer Science well. So many CS grads in India and many job vacancies never get filled.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Opinion 3: If you are really interested in AI, according to me a good path will be to pursue Computer Science from a college with good A. Coding campus culture and B. CS faculty in AI. Some good ones in India are : IIT(M/Kgp/B), IIITH, other good IITs, BITS and a few NITs. If you are not able to secure entry into these colleges try completing &lt;a href=&quot;http://deeplearning.ai/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;http://deeplearning.ai&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-
-  &lt;p&gt;courses or do an online minor like &lt;a href=&quot;https://onlinedegree.iitm.ac.in/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;IIT Madras Online Degree Program&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Just getting a degree in AI from a random institute where practical knowledge is rare will be of no use.&lt;/p&gt;</content><author><name></name></author><summary type="html">Machine Learning Jobs for beginners/freshers : My Perspective from various Quora Answers</summary></entry><entry><title type="html">Some Coronavirus Facts</title><link href="https://muktabh.xyz/2020/02/27/Some-Coronavirus-Facts.html" rel="alternate" type="text/html" title="Some Coronavirus Facts" /><published>2020-02-27T00:00:00-06:00</published><updated>2020-02-27T00:00:00-06:00</updated><id>https://muktabh.xyz/2020/02/27/Some-Coronavirus-Facts</id><content type="html" xml:base="https://muktabh.xyz/2020/02/27/Some-Coronavirus-Facts.html">&lt;h1 id=&quot;what-we-know-about-coronavirus--what-to-do-and-what-not-to-&quot;&gt;What we know about CoronaVirus ? What to do and what not to ?&lt;/h1&gt;
-
-&lt;p&gt;I decided to write this as new cases of CoronaVirus have come up in India in early March 2020. I thus want to make as much information publicly (and easily) available.&lt;/p&gt;
-
-&lt;p&gt;Surprisingly, we don’t know a lot about the virus ! For Science, answers to a lot of questions are “We don’t know”. With the bombardment of facts and opinions coming to you through social media, you should understand what is True and what is a guess.&lt;/p&gt;
-
-&lt;h1 id=&quot;what-is-coronavirus-and-where-does-it-come-from-&quot;&gt;What is CoronaVirus and where does it come from ?&lt;/h1&gt;
-
-&lt;p&gt;Coronavirus is a very common species of virus. It is found in different animals and generally doesn’t effect humans.&lt;/p&gt;
-
-&lt;p&gt;However the nCov (novel Coronavirus) is a particular type of coronavirus which causes COVID19 disease. The disease that is wreaking a havoc in China, South Korea, Italy ands Iran and many people have already died. COVID19 can cause Flu-like symptoms and can grow to severe pneumonia or organ failure causing deaths.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;underline&quot;&gt;https://www.statnews.com/2020/02/14/disease-modelers-see-future-of-covid-19/&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-02-27-Some-Coronavirus-Facts/media/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The trouble with COVID19 is that while it is very contagious like the common flu, it is really deadly. (A preprint from a Chinese study centre says it kills upto 4% of the people it infects). A lot more people will experience severe symptoms when they contract the disease.&lt;/p&gt;
-
-&lt;p&gt;Cite: &lt;span class=&quot;underline&quot;&gt;https://www.medrxiv.org/content/10.1101/2020.02.10.20021675v2&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;There are other studies that show morality rate to be between 1%-2% as well.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-02-27-Some-Coronavirus-Facts/media/image2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The coronavirus which causes COVID19 was not around until a few days back. It is a mixture of two different Coronavirus strains from two different animals. Bats have a unique type of immune system (ie, it is always working at full capacity to defect against viruses), so the virus which have evolved to attack bats are really fast to spread so that they can overwhelm the immune system. When such viruses evolve to attack humans, they become very deadly as unlike bats, human immune system triggers after it is sure of an infection. This viruses thus find it relatively easier to overwhelm human immune system than in bats.&lt;/p&gt;
-
-&lt;p&gt;Bats have been source of many different viruses that have effected humans in recent years. SARS (last decade in China), Ebola (few years back in Liberia and surrounding countries in Africa), Nipah virus (few years back in India) all came from bats. With humans intruding into natural habitats (forests) of bats, the frequency of encounters is bound to go up.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;underline&quot;&gt;https://phys.org/news/2020-02-coronavirus-outbreak-viruses-deadly.html&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-02-27-Some-Coronavirus-Facts/media/image3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;What makes the matter even worst is the consumption of wild animals as meat in some areas of the world. This leads to unregulated sales of wild animal meat in open markets. In Africa’s Ebola outbreak, bushmeat consumption is what causes the Ebola virus to evolve into the deadly thing it became. &lt;a href=&quot;https://www.cdc.gov/importation/bushmeat.html&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Bushmeat Importation Policies | CDC&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-02-27-Some-Coronavirus-Facts/media/image4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In China, wet markets , or markets where exotic animals and seafood are kept together and killed for human consumption are supposed to be the cause of Coronavirus outbreak. The bat coronavirus is not able to infect humans directly. However, there was a transfer of the virus from bats to most probably pangolins when they were kept together or their body fluids got mixed before they became capable enough to attack humans.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;underline&quot;&gt;https://medicalxpress.com/news/2020-02-pangolin-potential-link-coronavirus.html&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;underline&quot;&gt;https://phys.org/news/2020-02-illegally-trafficked-pangolins-link-coronavirus.html&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-02-27-Some-Coronavirus-Facts/media/image5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;However, it seems that the Pangolin discovery was an incorrect one. All we know is Bat Coronavirus merged with another strain and became nCov we know today. So we don’t yet fully know how the virus originated.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;underline&quot;&gt;https://www.nature.com/articles/d41586-020-00548-w&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-02-27-Some-Coronavirus-Facts/media/image6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;SARS, another Coronavirus outbreak in the previous decade was caused due to human consumption of civets.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-02-27-Some-Coronavirus-Facts/media/image7.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Remember while the nCov originated in animals, it has the capability to spread from person to person. So don’t be under the assumption if you avoid animals you are not at risk. nCov somewhat spreads like common cold and flu.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Now, that we know where did the virus come from, we can now understand how it spreads. Coronavirus is slightly heavy as compared to the common cold virus, rhinovirus. So the probability of it being aerosolized as an infected person sneezes or coughs are slightly lower. And even if that happens, the virus will be able to travel less distance in air.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;So, stand away from people showing symptoms like sneezing and coughing.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;However, people can infect doorknobs, mobile screens, washroom faucets when they touch these objects. The virus can then be picked by other people when they use the objects upto a week after an infected person touches them.&lt;/p&gt;
-
-&lt;p&gt;If the virus reaches a new person’s hands, it will not get into by skin, but when they touch eyes, ears, nose or mouth with these hands without washing. If an infected person sneezes or coughs very close to an uninfected person’s face, water droplets can enter their eyes or mouth directly.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;So, wash your hands very very often with a disinfectant like Dettol etc. Also when in a supposedly infected area, cover your nose, mouth and eyes with a mask and glasses. When used, dispose these object cleverly and wash hands afterwards.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-02-27-Some-Coronavirus-Facts/media/image8.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;People have also started inventing clever touch-less buttons etc. to avoid getting in touch of infected surfaces.&lt;/p&gt;
-
-&lt;p&gt;My friend CTT came up with a very interesting design for proximity sensing, no-contact elevator buttons- that still provide the satisfying visual movement of being pressed. &lt;a href=&quot;https://t.co/fpUEs4mLQ8&quot;&gt;&lt;span class=&quot;underline&quot;&gt;pic.twitter.com/fpUEs4mLQ8&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;— Naomi Wu 机械妖姬 (@RealSexyCyborg) &lt;a href=&quot;https://twitter.com/RealSexyCyborg/status/1227454423699509254?ref_src=twsrc^tfw&quot;&gt;&lt;span class=&quot;underline&quot;&gt;February 12, 2020&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;em&gt;The following section about growth was written in early February and in China the growth rate seems to have slowed down since then, however, outside China you can see a similar growth rate in Korea, Iran etc. :&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Remember, prevention is the only thing possible right now. There is no known cure as of 15th Feb. Many medicines are being given a trial and we might have one soon, in a few months, years or maybe never.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;If you look at NN Taleb’s predictions, the virus will spread like wildfire. Surprisingly, the virus has been following an exponential curve for sometime as expected.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-02-27-Some-Coronavirus-Facts/media/image9.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-02-27-Some-Coronavirus-Facts/media/image10.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In general, some tips :&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Avoid crowds and travel unless absolutely necessary. This reduces the probability of you getting in contact with the virus.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Keep some long shelf life products like rice, grams etc ready at home.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Try having a Water purification system that works without electricity too. You dont want to increase risk of other water borne infections.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Stock medicines for other conditions like fever etc and for hypertension, high BP, diabetes if someone has the conditions in your family.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Avoid shaking hands and try staying away from other crowds and unnecessary travelling. Going out in crowds increases your risk factor for contracting coronavirus.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-02-27-Some-Coronavirus-Facts/media/image11.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Remember, this is way more serious than common flu unlike what many MSM outlets are saying.&lt;/p&gt;
-
-&lt;p&gt;If the answer has made you panic, here is some Simpsons (predicts future) humor:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-02-27-Some-Coronavirus-Facts/media/image12.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Also , here is an Indian Newspaper reporting the humor as if it is real news:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://economictimes.indiatimes.com/magazines/panache/the-simpsons-predicts-the-future-again-episode-cited-as-a-prophecy-of-the-coronavirus/articleshow/73949972.cms&quot;&gt;&lt;span class=&quot;underline&quot;&gt;‘The Simpsons’ predicts the future, again: Episode cited as a prophecy of the coronavirus&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Now for people who like reading specific answers, I will write answers for various FAQs:&lt;/p&gt;
-
-&lt;h2 id=&quot;q1-are-vegetarians-immune-to-covid19-&quot;&gt;Q1. Are vegetarians immune to COVID19 ?&lt;/h2&gt;
-
-&lt;p&gt;A1. COVID19 originated in wet markets selling meat, but it now has human to human transfer capacity like Common Cold and Flu. Staying away from animals reduces risk of coronavirus contraction, but there is no guarantee that no animal contact makes you safe. So no, vegetarians are not immune to COVID 19.&lt;/p&gt;
-
-&lt;h2 id=&quot;q2-are-masks-helpful-or-not-&quot;&gt;Q2. Are masks helpful or not ?&lt;/h2&gt;
-
-&lt;p&gt;A2. CoronaVirus is a heavier virus when compared to say common cold. So it cannot stay suspended in air for very long. This means that if you are standing away from an infected person (2 Meters +), there is a very low probability of virus contraction from air. So that means you do not need masks as long as you are in spaces where people aren’t too closeby to you. Only in places where infection is widespread (like hospitals) and in cases where you have to get too close to people infected with CoronaVirus, you should use a mask. Also please note using a mask is almost useless without using protective eye wear. When you use a mask, you should dispose it off well and wash your hands after removing the mask. Please note its better to avoid infected places and mass gatherings than using masks. Not only masks are not 100% effective, you also choke the supply for health workers who require these to take care of the sick. Please read the directions if you choose to wear masks : &lt;a href=&quot;https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks&lt;/span&gt;&lt;/a&gt; . Also remember to not buy and stockpile masks, this creates shortage and health workers need them much more than you do.&lt;/p&gt;
-
-&lt;h2 id=&quot;q3-as-a-normal-person-what-is-the-most-effective-way-to-avoid-infection-&quot;&gt;Q3. As a normal person, what is the most effective way to avoid infection ?&lt;/h2&gt;
-
-&lt;p&gt;A3. Minimize going into public places. That is the most effective method and reduces the probability of you catching the infection by a lot. Keep washing your hands frequently using alcohol sanitizers or soap. It has been scientifically proven that it works quite well. Avoid touching your eyes, mouth or nose unnecessarily. If you feel a strong need to do so, clean your hands before doing so. The disease seems to be spreading through contaminated surfaces like door knobs, lift buttons, phone screens etc. Practice hand hygiene after touching any such possible surface. &lt;span class=&quot;underline&quot;&gt;https://twitter.com/layallivs/status/1234849244709883905?s=08&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-02-27-Some-Coronavirus-Facts/media/image13.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;q4-isnt-the-covid19-just-another-flu-&quot;&gt;Q4. Isn’t the COVID19 just another Flu ?&lt;/h2&gt;
-
-&lt;p&gt;A4. No, its not. COVID19 has a way higher fatality rate (best estimates around 1- 2%) and need for hospitalization rate than normal Flu from what we know. There is no comparison. For elderly people, the mortality rate can be as high as 1 in 3. You should make sure you dont act as a carrier for virus infecting elderly people. Luckily, for people younger than 20 years, COVID mortality rate is really less.&lt;/p&gt;
-
-&lt;h2 id=&quot;q5-it-doesnt-seem-to-be-as-deadly-as-say-ebola-why-so-much-worry-&quot;&gt;Q5. It doesn’t seem to be as deadly as say Ebola. Why so much worry ?&lt;/h2&gt;
-
-&lt;p&gt;A5. Because COVID19 follows textbook definition of Viral. If it starts spreading, it spreads at a rapid rate and 2% of a large number can be a very high number. For example, if allowed to spread unconstrained, it can spread to population as large as 40%-70% of the entire world. That’s over 3 Billion people. 2% of 3 Billion is 60 Million lives! That would be a terrible terrible loss.&lt;/p&gt;
-
-&lt;h2 id=&quot;q6-does-the-virus-die-in-hothumid-temperatures-&quot;&gt;Q6. Does the virus die in hot/humid temperatures ?&lt;/h2&gt;
-
-&lt;p&gt;A6. Maybe. We don’t know for sure. It might be that the virus becomes inactive in hot and humid weather. That conclusion comes from that it has spread less in tropics than temperate/cold climate. But this might just be a co-incidence. As of 4&lt;sup&gt;th&lt;/sup&gt; March 2020, you cannot be sure that the virus will not spread in your vicinity because of it being hot and humid.&lt;/p&gt;
-
-&lt;h2 id=&quot;q7-why-is-india-still-getting-an-increased-number-of-coronavirus-cases-per-day-if-they-are-locked-down-for-a-while&quot;&gt;Q7. Why is India still getting an increased number of coronavirus cases per day if they are locked down for a while?&lt;/h2&gt;
-
-&lt;p&gt;That is quite simple:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Most of the people as of now (24th March) tested positive for CoronaVirus are Indian and Foreign citizens who returned from abroad (the remaining ones are people who came in contact with this). While India stopped visas a long time back, its own citizens from abroad were thronging to our airports (its just two days back all international traffic was stopped). Our citizens continued entering just upto two days back. About 26000 people entered Mumbai from Dubai, we have no way to control infection amongst people who are arriving pre-infected here. &lt;a href=&quot;https://economictimes.indiatimes.com/news/politics-and-nation/coronavirus-worst-hit-maharashtra-set-to-welcome-26000-gulf-returnees/articleshow/74706096.cms&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Coronavirus: Worst-hit Maharashtra set to welcome 26,000 Gulf returnees&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-02-27-Some-Coronavirus-Facts/media/image14.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;The number of Corona cases you see on Television is actually a snapshot of a few days to a few weeks back. Reason its is seen COVID19 doesn’t show symptoms immediately. It takes a few days to 2 weeks for symptoms to emerge and then people visit hospitals at different stages after the symptoms appear. They are spreading the virus all along. The lockdowns were imposed only a few days back.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;The first few days of lockdown were voluntary and while majority of people followed them, there were a few people who did not take it seriously. While the rate would have definitly fallen (we would see good numbers in a few days to weeks), but now that absolute lockdowns are being ensured, it should get even better beyond that.&lt;/p&gt;
-    &lt;/blockquote&gt;
 
     &lt;ol&gt;
       &lt;li&gt;
-        &lt;h2 id=&quot;q8-if-a-person-has-had-the-coronavirus-are-they-more-or-less-likely-to-contract-it-a-second-time&quot;&gt;Q8. If a person has had the coronavirus, are they more or less likely to contract it a second time?&lt;/h2&gt;
+        &lt;h3 id=&quot;q-after-5-years-of-experience-in-an-irrelevant-field-do-i-have-to-start-as-a-fresher-in-the-ai-field&quot;&gt;Q. After 5 years of experience in an irrelevant field, do I have to start as a fresher in the AI field?&lt;/h3&gt;
       &lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Unfortunately, we don’t know that yet. We have opinions but no definite conclusion.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Originally Answered here: &lt;a href=&quot;https://www.quora.com/After-5-years-of-experience-in-an-irrelevant-field-do-I-have-to-start-as-a-fresher-in-the-AI-field/answer/Muktabh-Mayank&quot;&gt;https://www.quora.com/After-5-years-of-experience-in-an-irrelevant-field-do-I-have-to-start-as-a-fresher-in-the-AI-field/answer/Muktabh-Mayank&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;CoronaVirus (not the recent one causing COVID19, but other more common types), along with RhinoVirus cause common cold and it seems the body doesn’t develop an immunity against that disease. You keep getting the cold every year, dont you ?&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.technologynetworks.com/immunology/news/why-dont-we-ever-develop-immunity-against-the-common-cold-294551&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Why Don’t We Ever Develop Immunity Against the Common Cold?&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;On the other hand, there are arguments like a certain portion of human population are innately immune against the COVID19 causing virus. If a few people can be immune, so can be all people with immunization/exposure.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.jpost.com/HEALTH-SCIENCE/Israeli-nobel-laureate-Coronavirus-spread-is-slowing-621145&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Coronavirus spread is slowing - Says Israeli Nobel Laureate&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;q9-as-there-is-no-vaccine-for-coronavirus-how-are-people-being-cured-of-it&quot;&gt;Q9. As there is no vaccine for coronavirus, how are people being cured of it?&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Vaccines don’t cure you from viruses. Your immune system cures you by destroying cells infected by viruses. The aim of a vaccine is to somehow make sure that your immune system is already ready with a response for a virus we know humans aren’t innately immune to. This is done by delivering a harmless entity like weakened virus or a clue to recognize the virus (protein etc) into the body so that immune system learns to recognize and kill beforehand.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In case of a novel virus (something never seen before), the body’s immune system has no clue about the virus and has to come up with a strategy to kill the virus while being infected. Novel-Coronavirus (SARS2 which causes COVID19) is a novel virus. Unlike a vaccine , where a body learns to fight the virus for free, here its a question of whether body can come up with a strategy to kill the virus before the virus does serious damage.&lt;/p&gt;
-
-&lt;p&gt;For a lot of people (over 95%), their bodies are able to come up with methods to beat the Novel-CoronaVirus when they get infected. (It is not known whether the body develops long term immunity post getting better though) . For the others, the results might be really bad :( . Specially people who have weakened immune systems (people take drugs to weaken immune response in various diseases), diabetes, high BP or weak lungs/organs due to smoking.&lt;/p&gt;
-
-&lt;p&gt;So for people whose immunity cannot fight off COVID19 (or even whose immunity can fight it off), another way to stop the virus is antiviral drugs. These drugs (generally) stop production of various viral proteins reducing/stopping the growth of virus, thus reducing the work of immune system to kill the virus. There are a few antiviral treatments that might be working for COVID19. We still have very primary data about it, but people are already using these drugs as last resort:&lt;/p&gt;
+&lt;p&gt;Let’s think of it in two different ways :&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;Hydroxy Choloroquin + Azithromycin seems to work in a trial in France. There have been other studies about Chloroquin derivatives in COVID19 outbreak as well as before it (during SARS outbreak in 2002). &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0924857920300996&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Do you think that someone who has worked for 5 years in AI will be less or more equipped to solve problems using AI algorithms than someone with 5 years experience in a different domain ? What are the odds of a person not experienced at a domain being better than an experienced person ? What are the odds to a an experienced guitar player playing cello better than an experienced cello player ? There is a very small but non-zero probability, but no one will be willing to take a bet on such small chance. Will you be willing ? Mostly no. That is the point, an unexperienced person is quite a less safe bet than an experienced person . People put less money on less safe bets and more money in safe bets. One doesnt need to start as a fresher if one has no experience in a domain, but one will find it hard to find people who will trust them for the job in lieu of an experienced AI engineer. However, a field is almost always open for entry level employees, so anyone can get started in a field anytime they want.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;Meplazumab has been tried in China and seems to work well : &lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2020.03.21.20040691v1&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Meplazumab treats COVID-19 pneumonia: an open-labelled, concurrent controlled add-on clinical trial&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Would you let a person of 5 year experience in AI field and not the field you are working on be willing to hire them as a senior employee in your field ? If you are a backend developer with 5 years experience for example, the AI engineer will almost surely be a worse backend developer than you are. Its only fair that they start working as a junior employee when they join your field despite their experience. I hope you can imagine why the opposite will be true as well.&lt;/p&gt;
     &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Japanese drug Favipiravir has been found to be successful in a trial of 340 patients as claimed by China. &lt;a href=&quot;https://nypost.com/2020/03/18/japanese-flu-drug-clearly-effective-in-treating-coronavirus-officials-say/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Japanese flu drug ‘clearly effective’ in treating coronavirus, officials say&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Remdesivir might be another drug that could be proven in future to cure off the virus: &lt;a href=&quot;https://www.npr.org/sections/health-shots/2020/03/24/821035311/fda-grants-experimental-coronavirus-drug-benefits-for-rare-disease-treatments&quot;&gt;&lt;span class=&quot;underline&quot;&gt;FDA Grants Experimental Coronavirus Drug Benefits For Rare Disease Treatments&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;
-        &lt;p&gt;##&lt;/p&gt;
-
-        &lt;h2 id=&quot;q10-aside-from-a-pune-based-diagnostic-company-mylab-has-developed-the-first-made-in-india-test-kit-for-coronavirus-in-a-record-time-of-6-weeks-how-will-this-help-us-to-control-corona&quot;&gt;Q10. Aside from a Pune-based diagnostic company, myLab has developed the first made in India test kit for coronavirus in a record time of 6 weeks. How will this help us to control corona?&lt;/h2&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
+&lt;h3 id=&quot;q-if-i-have-a-bca-degree-how-can-i-become-a-successful-data-scientist-in-india&quot;&gt;Q. If I have a BCA degree, how can I become a successful data scientist in India?&lt;/h3&gt;
+
+&lt;p&gt;Originally Answered here: &lt;a href=&quot;&quot;&gt;https://www.quora.com/If-I-have-a-BCA-degree-how-can-I-become-a-successful-data-scientist-in-India/answer/Muktabh-Mayank&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This question has hidden context which is not directly visible to someone trying to answer it. I will have to break it down as two possible states you might be in while asking this question, read accordingly:&lt;/p&gt;
+
+&lt;p&gt;A. &lt;strong&gt;Your curriculum hasn’t got enough Data Science/Mathematics/Machine Learning theory and you want to cover these subjects:&lt;/strong&gt;&lt;/p&gt;
+
 &lt;blockquote&gt;
-  &lt;p&gt;The more testing kits we have, more people we can test and isolate. Not just this, myLab kits also provide results fast. This helps stop spread by identifying all infected quickly by testing more suspects.&lt;/p&gt;
+  &lt;table&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;It has now become very easy to access quality Data Science courses and lectures if you are self driven. Join a course specialization on coursera, edx, deeplearning ai or fast ai and push yourself to complete the course well, not just to pass tests. If you have some money, you can buy certifications, else audit these courses for free. Read good Data Science and Machine Learning books (Listed here: [50 Must-Read Free Books For Every Data Scientist in 2020&lt;/td&gt;
+        &lt;td&gt;ParallelDots](https://blog.paralleldots.com/data-science/50-must-read-free-books-for-every-data-science-enthusiast/)&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+
+  &lt;table&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;and [24 Best (and Free) Books To Understand Machine Learning&lt;/td&gt;
+        &lt;td&gt;ParallelDots](https://blog.paralleldots.com/data-science/24-best-and-free-books-to-understand-machine-learning/)&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;In a hypothetical condition, if the entire 1.3 Billion people are tested and people who have the virus are isolated, and everyone entering country is given a coronavirus test, the others can go about doing day-to-day work as if nothing has happened as there will be no danger of infection. Until this is not achieved heavy quarantine will be needed (the more you can test and isolate, the lesser quarantine is needed like South Korea). Importing 1.3 Billion kits will probably cost a huge chunk of India’s GDP ! If we could build it in house cheaply, it would be pretty good, not 1 Billion, then say 100 Million.&lt;/p&gt;
+&lt;p&gt;) and try solving exercises from these courses and books. Make sure you work on practical problems, not plain theory. Data Science is and continues to be very empirical field and practical knowledge is very important. These courses/books give you enough knowledge about any potential entry level Data Science jobs.&lt;/p&gt;
 
-&lt;p&gt;We have to make a model between China’s model and South Korea’s model. (that’s what government is doing)&lt;/p&gt;</content><author><name></name></author><summary type="html">What we know about CoronaVirus ? What to do and what not to ?</summary></entry></feed>
+&lt;p&gt;B. &lt;strong&gt;You think you know Data Science well enough to work in a firm but BCA degree is not providing you enough credential to get a job:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the second possible scenario I can think you have asked the question in. This is actually a hard scenario and can be thought to be like a Chicken Egg problem. “Just BCA doesnt get you a Data Science job” and “A Data Science job experience is required to make your CV credentialed enough to make your degree unimportant”, this is a loop. There is just one way to break out of Chicken Egg loops, put an asymmetric proposition on table. Offer to work for free or for minimal money with Universities/Companies which can get you a good project and a credential on your CV. Look for CS professors working on AI in an IIT/NIT/IIIT near you and ask them if they have any internship projects. Invest 1 or 2 quarters till you have a CV which is not limited by the scope of your degree and you are now good to go for any job applications.&lt;/p&gt;</content><author><name></name></author><summary type="html">Machine Learning Jobs for beginners/freshers : My Perspective from various Quora Answers</summary></entry></feed>
