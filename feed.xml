@@ -1,4 +1,170 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2021-02-03T12:59:55-06:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Thoughts On Indian Perennial Economic Topics</title><link href="https://muktabh.xyz/2020/12/25/Thoughts-on-Indian-Perennial-Economic-Topics.html" rel="alternate" type="text/html" title="Thoughts On Indian Perennial Economic Topics" /><published>2020-12-25T00:00:00-06:00</published><updated>2020-12-25T00:00:00-06:00</updated><id>https://muktabh.xyz/2020/12/25/Thoughts-on-Indian-Perennial-Economic-Topics</id><content type="html" xml:base="https://muktabh.xyz/2020/12/25/Thoughts-on-Indian-Perennial-Economic-Topics.html">&lt;p&gt;My thoughts on some perennial economic topics of India :&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://muktabh.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://muktabh.xyz/" rel="alternate" type="text/html" /><updated>2021-02-03T13:50:10-06:00</updated><id>https://muktabh.xyz/feed.xml</id><title type="html">Muktabh’s Website</title><subtitle>Muktabh's contact and musings</subtitle><entry><title type="html">Talking About Ai Hypotheticals</title><link href="https://muktabh.xyz/2021/01/26/Talking-about-AI-hypotheticals.html" rel="alternate" type="text/html" title="Talking About Ai Hypotheticals" /><published>2021-01-26T00:00:00-06:00</published><updated>2021-01-26T00:00:00-06:00</updated><id>https://muktabh.xyz/2021/01/26/Talking-about-AI-hypotheticals</id><content type="html" xml:base="https://muktabh.xyz/2021/01/26/Talking-about-AI-hypotheticals.html">&lt;p&gt;Some thoughts around Artificial Intelligence hypotheticals. Most answers would be around “we are decades if not centuries away from building Artificial General Intelligence”, but hope you find some interesting points.&lt;/p&gt;
+
+&lt;h3 id=&quot;q-how-would-machine-learning-answer-the-question-would-jack-realistically-have-died-aboard-the-titanic&quot;&gt;Q. How would machine learning answer the question, “Would Jack realistically have died aboard the Titanic”?&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here : &lt;a href=&quot;&quot;&gt;https://qr.ae/pNz7lw&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You cannot really make Machine Learning predictions {or any other model based predictions or human intuition prediction} for events during a black swan event like sinking of the strongest ship (or any ship in fact) by an iceberg.&lt;/p&gt;
+
+&lt;p&gt;You can use some crude approximations around rate of death of people from lower decks in case of ship accidents etc, but that likelihood would be a useless statistic in case of Titanic crash. In case of a shock/rare event/black swan luck [randomness] becomes much more powerful than in regular day to day life. Two Face is a psycho but his philosophy works in extreme circumstances.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2021-01-26-Talking-about-AI-hypotheticals/media/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;q-understanding-that-a-model-is-only-as-good-as-its-assumptions-can-geneticists-knowledge-of-mapping-the-human-genome-and-high-performance-super-computers-be-used-to-quickly-assess-long-term-effects-of-vaccines&quot;&gt;Q. Understanding that a model is only as good as its assumptions, can geneticists knowledge of mapping the human genome and high-performance super computers be used to quickly assess long-term effects of vaccines?&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here : &lt;a href=&quot;&quot;&gt;https://qr.ae/pNzjGg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;They cannot. Human DNA is so complex that it cannot be modeled. Physical universe is large, but relatively less interconnected {thus runs on simple fundamental rules}, so you have equations that govern behavior of it and you can predict what would happen in Universe. What asteroid will be where in 5 years and which stars will go supernovae and when will our Sun die. You cannot still predict some rare black swan events though.&lt;/p&gt;
+
+&lt;p&gt;Human brain and DNA, ecology, economy, society are complex systems, that is they don’t follow fixed rules, very interconnected and interdependent, so you can identify the trends, but hard to predict the trajectory of system.&lt;/p&gt;
+
+&lt;p&gt;So while trajectory of a particle can be written in a equation with 3–4 parameters getting 99%+ accuracy in real world, an equation to guess who will default on their loan will have thousands of parameters and will still be what? 80% accurate say.&lt;/p&gt;
+
+&lt;p&gt;To predict a complex system like DNA, you require humongous data to generalize rules, maybe more than what is available in the Universe. When we have much more data and computation ability than what we have right now, we might be able to do it more accurately than we do it now, never with 100% accuracy though. As of today, we can just guess and hope for the best and make theories (which might sometimes generalize), but no one can predict.&lt;/p&gt;
+
+&lt;h3 id=&quot;q-whats-your-opinion-on-elon-musk-believes-ai-poses-a-threat-to-humanity-and-is-most-worried-by-google-owned-deepmind-project-do-you-agree-with-this&quot;&gt;Q. What’s your opinion on Elon Musk believes AI poses a threat to humanity and is most worried by Google-owned DeepMind project? Do you agree with this?&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here: &lt;a href=&quot;https://qr.ae/pNcniz&quot;&gt;https://qr.ae/pNcniz&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I don’t agree with Elon Musk.&lt;/p&gt;
+
+&lt;p&gt;There is a difference between Artificial General Intelligence ( &lt;a href=&quot;https://en.wikipedia.org/wiki/Artificial_general_intelligence&quot;&gt;Artificial general intelligence - Wikipedia&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;) , that we might possibly fear (and probably what Elon Musk fears) and the current trendy technique of Deep Learning. Deep Learning can at best be called Artificial Special Intelligence and there is no indication that the AI technology we have right now can be built to create sentient AI or AI that can challenge humanity.&lt;/p&gt;
+
+&lt;p&gt;The other possible problem one might see is job loss due to AI. I think its going to look like till 20 November 2020 human was doing a job and 21st November , an AI starts doing the job. The transition will be gradual and slow enough so that human can slowly adapt to a new skill and switch to a new job. It will be like AI starts reducing 10% of the workload , then 30% then 80% and later just needs humans as supervisors according to me.&lt;/p&gt;
+
+&lt;p&gt;Possibly one thing thar Elon Musk and governments might be worrying about is the monopoly Google (and other big tech firms) have over data and AI infrastructure. I think with latest anti trust lawsuits, legislators are addressing such concerns.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.msn.com/en-us/money/companies/google-faces-its-3rd-major-antitrust-lawsuit-as-texas-and-other-states-take-the-company-to-court-over-its-ad-practices/ar-BB1bZiRI&quot;&gt;Google faces its 3rd major antitrust lawsuit as Texas and other states take the company to court over its ad practices&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2021-01-26-Talking-about-AI-hypotheticals/media/image2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;q-would-artificial-intelligence-be-possible-if-computer-programming-was-not-invented&quot;&gt;Q. Would artificial intelligence be possible if computer programming was not invented?&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here: &lt;a href=&quot;&quot;&gt;&lt;strong&gt;https://qr.ae/pNZrHN&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Of course not. Not in a way humanity formalized and invented computers.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The entire premise of AI is Computers being programmed to do tasks that are hard for them. Now that programming can be by humans (traditional AI, intelligent systems) or by Computers themselves (Machine Learning).&lt;/p&gt;
+
+&lt;h3 id=&quot;q-should-doctors-be-replaced-by-artificial-intelligence-and-surgical-robots&quot;&gt;Q. Should doctors be replaced by artificial intelligence and surgical robots?&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here: &lt;a href=&quot;&quot;&gt;https://qr.ae/pND8g7&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I have written about this in many answers previously :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.quora.com/Whats-your-opinion-on-Elon-Musk-believes-AI-poses-a-threat-to-humanity-and-is-most-worried-by-Google-owned-DeepMind-project-Do-you-agree-with-this/answer/Muktabh-Mayank?ch=10&amp;amp;share=2617a7ed&amp;amp;srid=qie&quot;&gt;Muktabh Mayank’s answer to What’s your opinion on Elon Musk believes AI poses a threat to humanity and is most worried by Google-owned DeepMind project? Do you agree with this?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.quora.com/As-a-result-of-the-Fourth-Industrial-Revolution-will-any-job-be-lost/answer/Muktabh-Mayank?ch=10&amp;amp;share=475d3603&amp;amp;srid=qie&quot;&gt;Muktabh Mayank’s answer to As a result of the Fourth Industrial Revolution, will any job be lost?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Transitions are not sudden and there would be no “replacements”. Unlike a hollywood movie, a doctor won’t wake up one day and reach office to find out that an AI will now do what they used to do till one day back as a doctor. Doctors’ jobs will evolve to use AI is what will happen.&lt;/p&gt;
+
+&lt;p&gt;Will doctors be able to take care of more number of patients per doctore using AI ? Yes.&lt;/p&gt;
+
+&lt;p&gt;Will doctors have to use many AI gadgets in their practice in future ? Yes. Many AI tools will be incorporated into their workflow like stethoscope and XRays are today.&lt;/p&gt;
+
+&lt;p&gt;Will salaries change ? Yes. Its hard to predict what exactly happens but I think the effect will be some very rich doctors and others slightly worse off.&lt;/p&gt;
+
+&lt;p&gt;“Should Doctors be replaced ?” That is a question with a false premise that we have AI systems that can replace Doctors. We don’t and won’t have for foreseeable future.&lt;/p&gt;
+
+&lt;h3 id=&quot;q-how-much-would-i-have-to-manage-to-hijack-a-facial-recognition-system&quot;&gt;&lt;a href=&quot;&quot;&gt;Q. How much would I have to manage to hijack a facial recognition system?&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here: &lt;a href=&quot;&quot;&gt;https://qr.ae/pNWORI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The foolproof way of hijaking is an armed invasion of the cloud center where the Face Recognition systems run.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2021-01-26-Talking-about-AI-hypotheticals/media/image3.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Or basically some kind of social engineering based hacking to just delete your records and photos from the system forever.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2021-01-26-Talking-about-AI-hypotheticals/media/image4.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;But I guess, you are more interested that what can one do as a citizen to fool these systems as we cannot really stop these face ID systems by a large scale assault or hack. Following are ways to achieve that :&lt;/p&gt;
+
+&lt;p&gt;The simplest way is for everyone to just wear masks. Masks which hide face of wearer or have someone else’s face printed on them. However, that is a bit odd (outside the pandemic timeline of course!)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2021-01-26-Talking-about-AI-hypotheticals/media/image5.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another (less suspicious) method is use Adversarial attacks or Poisoning images to guard against Facial Recognition.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sandlab.cs.uchicago.edu/fawkes/#code&quot;&gt;Fawkes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;is an open source and free tool you can use to poison your images before uploading to social media so that Facial Recognition systems find it hard to identify them.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2021-01-26-Talking-about-AI-hypotheticals/media/image6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;https://youtu.be/AWrI0EuYW6A&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;However, this is for fooling virtual world face recognition, how to fool the algorithms working in real world on CCTV feeds ?&lt;/p&gt;
+
+&lt;p&gt;There are hardware based adversarial attacks (These are adversarial patches created using other Deep Learning techniques) that can make Deep Learning Face Recognition systems go ineffective.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2021-01-26-Talking-about-AI-hypotheticals/media/image7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/MIbFvK2S9g8&quot;&gt;https://youtu.be/MIbFvK2S9g8&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Paper Here: &lt;a href=&quot;https://arxiv.org/pdf/1904.08653.pdf&quot;&gt;https://arxiv.org/pdf/1904.08653.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;So yeah, maybe invest in buying one of these patches if you don’t want to be seen. This is not foolproof however and can fail many times.&lt;/p&gt;
+
+&lt;h3 id=&quot;q-why-is-artificial-intelligence-so-power-intensive&quot;&gt;Q. Why is artificial intelligence so power intensive?&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here: &lt;a href=&quot;&quot;&gt;https://qr.ae/pNzjGf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Anything ambitious is power hungry ! You want to learn some 100 billion numbers to memorize the whole of human knowledge ontology (GPT3 is a clever way to memorize wikipedia basically), you would need power to crunch it. Similarly looking at many billion images to figure out all possible objects from figuring out what is a cat and what a wing of a bird is to and what the shape of an aircraft is automatically will need number crunching ability (BYOL). I think this should not even be a question. Humanity’s energy budget has not changed by a big margin for sometime and rather grown steadily, but Deep Learning based advances are recent because of lack of hardware until 10 years back that can consume energy vigorously and crunch numbers fast for learning that would have taken years otherwise. (GPGPUs / TPUs / Graphcore etc). These new devices will keep getting more powerful and more efficient per compute cycle with time increasing our capacity to number crunch even more. The energy requirement will only grow up.&lt;/p&gt;
+
+&lt;p&gt;The question should rather be how to make energy cheap and eco-friendly so that we can do ambitious stuf. There is only so much energy one can produce without converting Earth into a gas chamber and burning the limited trees and dinosaur juice in Earth’s core.&lt;/p&gt;
+
+&lt;p&gt;If you want to have cheaper AI algorithms that improve life of humans, a particle accelerator that can solve mysteries of Physics or frequent air travel, we will need to adopt the energy sources which make energy essentially free for all humans. &lt;a href=&quot;https://en.wikipedia.org/wiki/Kardashev_scale&quot;&gt;Kardashev scale - Wikipedia&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;for a stage 1 civilization expects humans to capture most of Solar Energy coming to Earth using microwave emitting Sun satellite, inventing Fusion (not fission) nuclear reactor and antimatter based energy. This would enable humans to become a Level 1 civilization. I guess when so much energy will be available at our (human) discretion.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2021-01-26-Talking-about-AI-hypotheticals/media/image8.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;q-can-artificial-intelligences-become-fully-aware-of-themselves-if-they-cannot-be-sentient-overcome-their-programming&quot;&gt;Q. Can artificial intelligences become fully aware of themselves if they cannot be sentient (overcome their programming)?&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here: &lt;a href=&quot;&quot;&gt;https://qr.ae/pNcn9b&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Unfortunately (actually fortunately), we are so far away from Sentient AI that we have no clue about how would it look like and how would it behave. Anyone who tells you that you can predict anything about sentient AI (or we are anywhere close to sentient AI) is just misinformed.&lt;/p&gt;
+
+&lt;p&gt;For example, one of the answers to this question itself picks up the example of Facebook AI that learned to communicate and needed to be shut down. That is plain fake news, fake news which mainstream media reported and it resulted in creation of all types of conspiracy theories. &lt;a href=&quot;https://www.snopes.com/fact-check/facebook-ai-developed-own-language/&quot;&gt;FACT CHECK: Did Facebook Shut Down an AI Experiment Because Chatbots Developed Their Own Language?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2021-01-26-Talking-about-AI-hypotheticals/media/image9.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Think of it, well known news outlet, some of which you actually swear on and present as proof in your online debates, put out a fake news. This has started a trend where charlatans can shine as “AI leaders” by talking about sentient AI as if they were an expert in the field. The truth is no one knows (specially these charlatans don’t know) how sentient AI will look like in future. Its all woozle effect and fiction.&lt;/p&gt;
+
+&lt;p&gt;The only intelligence we know about (in fact we don’t know about it a lot) is human intelligence and we know that humans were sentient long before they understood their programming. (We have not understood our DNA fully yet). I don’t think this can be extrapolated to machines as humans are the ones building AI and they might want to address the defects they have. But yeah, as I said, we are decades if not a century away from such decisions and thoughts as of now, so its very hard to speculate anything.&lt;/p&gt;
+
+&lt;h3 id=&quot;q-if-a-machine-reaches-hlmi-human-level-machine-intelligence-will-it-already-outperform-humans-since-the-average-speed-of-a-signal-transfer-inside-a-microprocessor-is-about-67-the-speed-of-light-whereas-that-of-out-brain-cells-is-120ms&quot;&gt;Q. If a machine reaches HLMI (Human Level Machine Intelligence) will it already outperform humans since the average speed of a signal transfer inside a microprocessor is about 67% the speed of light. whereas that of out brain cells is 120m/s?&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here : &lt;a href=&quot;https://qr.ae/pNWgkS&quot;&gt;https://qr.ae/pNWgkS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Not necessarily.&lt;/p&gt;
+
+&lt;p&gt;Human Brain actually is much much more efficient than the hardware we have today despite the signal speed being low. You cannot put a jet engine on a 1970s model car and think it can defeat a 2020 Tesla Model S. In an Information Processing system (in fact any system) the system is as fast as the slowest component, the weakest link. Your Computer’s CPU is much faster than its memory and way faster than the harddisk, and for most tasks you do on your computer you are limited by the speed of the hard disk despite having a very fast CPU. Basically as of today, the least optimized component of human brains will be better than the least optimized component of the compute systems.&lt;/p&gt;
+
+&lt;p&gt;Now we don’t know if we will have hardware as efficient as human brain in all aspect to predict whether HLMI will be better than humans already. So as of today, the answer is, “we don’t know”.&lt;/p&gt;
+
+&lt;h3 id=&quot;q-could-we-theoretically-build-an-ai-that-could-build-another-ai-more-intelligent-than-itself-and-thus-continue-the-cycle-are-there-any-limitations-to-this&quot;&gt;Q. Could we theoretically build an AI that could build another AI more intelligent than itself, and thus continue the cycle? Are there any limitations to this?&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here : &lt;a href=&quot;&quot;&gt;https://qr.ae/pNzjtQ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Theoretically Yes. That is the point of “intelligence singularity” : &lt;a href=&quot;https://en.wikipedia.org/wiki/Technological_singularity&quot;&gt;Technological singularity - Wikipedia&lt;/a&gt;. An intelligence which can efficiently make an intelligence better than itself recursively would trigger creation of far superior intelligence than humans in a very short time. We are very very far from having any hardware or software remotely capable of doing so, but I think its going to be somewhat like Ray Kurzweil predicts: &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Singularity_Is_Near#The_Singularity&quot;&gt;The Singularity Is Near - Wikipedia&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;. The most efficient machines of planet (human bodies and brains) will be what possibly achieves this feat by implementing new technologies like ASI to enhance itself, so we will have transhumans, becoming smarter than before. “Running Tensorflow models on Human Brain” is the way to go you know :) .&lt;/p&gt;
+
+&lt;p&gt;Remember, all this is very theoretical and will maybe not even happen in 21st century (or ever) and so its not possible for us to imagine how things would look like then.&lt;/p&gt;
+
+&lt;p&gt;Here is how 19th century patents for what they imagined future to look like : &lt;a href=&quot;https://www.theguardian.com/technology/gallery/2015/may/14/imagining-the-future-turn-of-the-century-us-patents-in-pictures&quot;&gt;Imagining the future: early 20th century US patents - in pictures&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;. A lot of it was never even invented and air travel and submarine is far from what they think :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2021-01-26-Talking-about-AI-hypotheticals/media/image10.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2021-01-26-Talking-about-AI-hypotheticals/media/image11.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can expect the future to have some trends in line with what we think today, but the details might be very different from what we can imagine.&lt;/p&gt;</content><author><name></name></author><summary type="html">Some thoughts around Artificial Intelligence hypotheticals. Most answers would be around “we are decades if not centuries away from building Artificial General Intelligence”, but hope you find some interesting points.</summary></entry><entry><title type="html">Thoughts On Indian Perennial Economic Topics</title><link href="https://muktabh.xyz/2020/12/25/Thoughts-on-Indian-Perennial-Economic-Topics.html" rel="alternate" type="text/html" title="Thoughts On Indian Perennial Economic Topics" /><published>2020-12-25T00:00:00-06:00</published><updated>2020-12-25T00:00:00-06:00</updated><id>https://muktabh.xyz/2020/12/25/Thoughts-on-Indian-Perennial-Economic-Topics</id><content type="html" xml:base="https://muktabh.xyz/2020/12/25/Thoughts-on-Indian-Perennial-Economic-Topics.html">&lt;p&gt;My thoughts on some perennial economic topics of India :&lt;/p&gt;
 
 &lt;h3 id=&quot;q-how-does-the-rise-in-inequality-distort-indian-society&quot;&gt;Q. How does the rise in inequality distort Indian society?&lt;/h3&gt;
 
@@ -2666,7 +2832,7 @@ If one of these two things don’t exist (or sometimes even both together), all 
 
 &lt;p&gt;The trick of running government for an elite in democracy was to use the information disbursal methods available (MSM like TV, radio, newspaper) to manufacture consensus. US and France developed the ways to run democracies and being world powers (France in 1800s and US 1940 onwards) exported the political thought. When you look at it, very rarely are the elected leaders from among common people.&lt;/p&gt;
 
-&lt;p&gt;In UK, you have &lt;a href=&quot;https://en.wikipedia.org/wiki/Oxbridge#Criticism&quot;&gt;Oxbridge - Wikipedia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In UK, you have &lt;a href=&quot;_blank&quot;&gt;Oxbridge - Wikipedia&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;and &lt;a href=&quot;https://www.theguardian.com/education/2017/feb/23/ppe-oxford-university-degree-that-rules-britain&quot;&gt;PPE: the Oxford degree that runs Britain&lt;/a&gt;&lt;/p&gt;
 
@@ -2757,7 +2923,7 @@ Solution is not to stop Facebook, but rather redressing grievances of commoners.
 
 &lt;p&gt;Meritocracy was meant to be a system of government where the meritorious come up due to their innate talent and lead the world. What actually happens is the people who actually come up as leaders are not the ones who are the most talented but the ones who are desperate about becoming a leader. There are many shortcut/hard ways to game the accepted process which makes one the leader.&lt;/p&gt;
 
-&lt;p&gt;So there are “Social Climbers” ( &lt;a href=&quot;https://en.wikipedia.org/wiki/Parvenu#Social_climber&quot;&gt;Parvenu - Wikipedia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;So there are “Social Climbers” ( &lt;a href=&quot;_blank&quot;&gt;Parvenu - Wikipedia&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;), promiscuity : &lt;a href=&quot;https://nypost.com/2018/06/14/shocking-number-of-americans-have-sex-at-work/&quot;&gt;Shocking number of Americans have sex at work&lt;/a&gt;&lt;/p&gt;
 
@@ -2829,7 +2995,7 @@ Solution is not to stop Facebook, but rather redressing grievances of commoners.
 
 &lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-10-30-Reflections-on-Econopolitics-About-isms-and-acys/media/image31.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;&quot;&gt;https://youtu.be/FXTgITg-UAM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;https://youtu.be/FXTgITg-UAM&lt;/p&gt;
 
 &lt;h3 id=&quot;my-answer-to-why-are-imported-goods-sometimes-cheaper-than-local-goods&quot;&gt;My answer to “Why are imported goods sometimes cheaper than local goods?”&lt;/h3&gt;
 
@@ -2849,7 +3015,7 @@ Solution is not to stop Facebook, but rather redressing grievances of commoners.
 
 &lt;h3 id=&quot;my-answer-to-if-communism-makes-people-poor-then-why-is-china-poised-to-become-the-worlds-biggest-economy-in-2028&quot;&gt;My answer to “If communism makes people poor, then why is China poised to become the world’s biggest economy in 2028?”&lt;/h3&gt;
 
-&lt;p&gt;Originally answered here: &lt;a href=&quot;&quot;&gt;https://qr.ae/pNJvgf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Originally answered here: https://qr.ae/pNJvgf&lt;/p&gt;
 
 &lt;p&gt;Because China doesn’t follow “Communism”. China’s political ideology is &lt;a href=&quot;https://en.wikipedia.org/wiki/Socialism_with_Chinese_characteristics&quot;&gt;Socialism with Chinese characteristics - Wikipedia&lt;/a&gt; , which is not what Mao Zedong had in mind when he established the communist state in 1940s-50s. &lt;a href=&quot;https://en.wikipedia.org/wiki/Deng_Xiaoping&quot;&gt;Deng Xiaoping - Wikipedia&lt;/a&gt;&lt;/p&gt;
 
@@ -2935,7 +3101,7 @@ Solution is not to stop Facebook, but rather redressing grievances of commoners.
 
 &lt;h3 id=&quot;my-answer-to-i-have-never-ever-bought-anything-based-on-a-telemarketer-cold-call-or-an-email-or-text-or-an-online-ad-why-are-corporations-unable-to-discover-this-fact-about-me-in-this-age-of-ai-big-data-and-brazen-privacy-invasion&quot;&gt;My answer to “I have never ever bought anything based on a telemarketer cold call or an email or text or an online ad. Why are corporations unable to discover this fact about me in this age of AI, Big Data and brazen privacy invasion?”&lt;/h3&gt;
 
-&lt;p&gt;Originally answered here: &lt;a href=&quot;&quot;&gt;https://qr.ae/pNaHUO&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Originally answered here: https://qr.ae/pNaHUO&lt;/p&gt;
 
 &lt;p&gt;Good question.. web marketers / telemarketers / email marketers know that you are not going to purchase things on seeing ads. They are not mostly trying to sell to you, just trying to occupy some real estate in your mind. If you buy immediately or soon after seeing the ad or receiving the call, its a bonus, not the intention.&lt;/p&gt;
 
@@ -2994,7 +3160,7 @@ Solution is not to stop Facebook, but rather redressing grievances of commoners.
 
 &lt;p&gt;Governments also have printed tonne of dollars - &lt;a href=&quot;https://en.wikipedia.org/wiki/Quantitative_easing&quot;&gt;Quantitative easing - Wikipedia&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;(specially US government) to finance point 2 above and to keep the existing economy in motion (individuals will just hold on to their cash during crisis, so government prints more money and pushes it down the economy to keep people earning, &lt;a href=&quot;https://en.wikipedia.org/wiki/The_General_Theory_of_Employment,_Interest_and_Money#The_Keynesian_economic_system&quot;&gt;The General Theory of Employment, Interest and Money - Wikipedia&lt;/a&gt;) .&lt;/p&gt;
+&lt;p&gt;(specially US government) to finance point 2 above and to keep the existing economy in motion (individuals will just hold on to their cash during crisis, so government prints more money and pushes it down the economy to keep people earning, &lt;a href=&quot;_blank&quot;&gt;The General Theory of Employment, Interest and Money - Wikipedia&lt;/a&gt;) .&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-10-30-Reflections-on-Econopolitics-About-isms-and-acys/media/image49.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -3104,7 +3270,73 @@ Solution is not to stop Facebook, but rather redressing grievances of commoners.
 
 &lt;p&gt;— The Intercept (@theintercept) &lt;a href=&quot;https://twitter.com/theintercept/status/1344658810628149248?ref_src=twsrc^tfw&quot;&gt;December 31, 2020&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Lessons for the future from here : “Being self sufficient is a good thing during bad times for basic things like food, healthcare, finance and education. Don’t kill off your country’s research and essential services thinking that the international free market will take care of everything.”&lt;/p&gt;</content><author><name></name></author><summary type="html">My answer to “Doesn’t the free market provided by capitalism inherently discourage free and unbiased media (because free market supports greed)?”</summary></entry><entry><title type="html">Thoughts On Non Ai Deeptech</title><link href="https://muktabh.xyz/2020/10/10/Thoughts-On-Non-AI-DeepTech.html" rel="alternate" type="text/html" title="Thoughts On Non Ai Deeptech" /><published>2020-10-10T00:00:00-05:00</published><updated>2020-10-10T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/10/10/Thoughts-On-Non-AI-DeepTech</id><content type="html" xml:base="https://muktabh.xyz/2020/10/10/Thoughts-On-Non-AI-DeepTech.html">&lt;ol&gt;
+&lt;p&gt;Lessons for the future from here : “Being self sufficient is a good thing during bad times for basic things like food, healthcare, finance and education. Don’t kill off your country’s research and essential services thinking that the international free market will take care of everything.”&lt;/p&gt;
+
+&lt;h3 id=&quot;my-answer-to-is-it-the-business-of-government-to-run-business&quot;&gt;My answer to “Is it the business of government to run business?”&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here : &lt;a href=&quot;https://qr.ae/pNaHlY&quot;&gt;https://qr.ae/pNaHlY&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s a political question. Different people will have different opinions around it. You can also have a look at it from many different perspectives : long term, short term, historical. So I guess no need saying the answer is based on my observations and biases, &lt;strong&gt;&lt;em&gt;totally subjective&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;My answer is “Government should run the business ecosystem, not businesses themselves”.&lt;/p&gt;
+
+&lt;p&gt;Some fundamental/historical points about state run businesses :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Starting and running businesses involve taking risk. Absolute more or less risks depending upon what business we are speaking of. Just by supply-demand, businesses with less risks have less rewards as compared to more risk. Remember we are speaking about absolute risks here ie $ values (say INR 50 Lakh which can be wasted or yield profits when invested into a business). There is also something called “risk appetite”, that is what amount of loss a system/individual can suffer without too much of despair. For some poor person, the risk appetite is low, they will get destroyed if they lose 5000 INR, for a richer person, a loss of even 50,000 might not be that bad. (Remember, a loss is always a loss, but having more risk appetite means on losing money one would be sad, but its not like they are done for). हाथी मरा भी तो नौ लाख का is a proverb that tells about high risk appetite of rich/influential societies and countries. So Bill Gates has a high risk appetite and will not be too effected if 10 Crore Rupees he invests in a startup are wasted, while a poor farmer might get in despair if he/she loses 5000 rupees because their risk appetite is low. Its not just starting a business, running a business is similar, one needs to take many hard and risky decisions (taking emergency loans, selling off part of business, downsizing during a bad phase, deciding whether to do more socially acceptable/ economically viable thing in legal limits) and risk appetite is important.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Risk appetite of a democratic government is high in absolute terms (say 50 Crore INR for Indian government is nothing much) but low in relative terms (you cannot have even one failed business funded/run by the government, too much social pressure, government run businesses cannot even take a decision which is economically good but has no nonpartisan consensus). That is not a good quality for an entrepreneur, where successes generally come after a few (or many) failures financially/socially. You need to get a few successes to be a good businessman (as you might have heard: failures are just stepping stones to success), but you cannot afford failures in a government because you cannot win elections on failures. So by default, democracies are bad at business. Unless someone has a democratic mandate that, here try out 50 low risk things and show your success at say 10 of them (which will well more than make up for the loss in remaining 40), you are good to go, a democracy cannot be really good at doing business. Unfortunately, politics and media work on highlighting the 40 failures, so avoiding all possible risk is the best way to go, that’s not going to be good in business.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A non-democracy OTOH, like Soviet Union / China or a one-party democracy (like post-independence socialist India or Yugoslavia), can take risks. They can enact 50 different ideas and afford for few of them to fail. TINA (There is no alternative), makes the risk appetite go much much higher for the government. Media is sure to not highlight your failures, electorate cannot really vote you out and all you need to make sure is that some of your experiments succeed. Ideal to start businesses. &lt;a href=&quot;https://en.wikipedia.org/wiki/Branko_Milanović&quot;&gt;Branko Milanović - Wikipedia&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- end list --&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;in his book “Capitalism Alone” highlights how Communism/Socialism many was an effective way to develop indigenous industries for countries that were traditionally poor and agarian.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-10-30-Reflections-on-Econopolitics-About-isms-and-acys/media/image57.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;But here is the question, “Why did both the Soviet Union and Socialist India/Yugoslavia model of economy fail when they rose fast ?”. The reason is IMO looking at history : A. No feedback from market because of monopoly/oligopoly and B. Social/Economic failure of state becomes such a big deal that government would want to control the supply rather than serve the demand to make sure they don’t do a blunder. No one gives a damn about what market wants when you have a monopoly/oligopoly on supply. CEOs (or their counterparts in communist/state run economies) have no incentives on more sales and nothing to lose on poor sales. System prefers law to control supply side rather than using marketing to drive demand (short term solution). Basically, government has too many constraints, businesses already work on uncertainty, adding government constraints to businesses makes them blind to the market. That’s the reason public companies are more often beaten by private enterprises in a free market.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;China navigated the maze cleverly. They had a centralized economy in the start, but as soon as companies started becoming “too big to fail”, they converted them into a unique “Socialism with Chinese Characteristics” model, where the risk is privately owned and companies follow state’s philosophy. Very pragmatic : &lt;a href=&quot;https://en.wikipedia.org/wiki/Socialism_with_Chinese_characteristics&quot;&gt;Socialism with Chinese characteristics - Wikipedia&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- end list --&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;. So when companies fail, only the people invested in them loose (not the entire country) and when they succeed, they follow China government’s philosophy. The only successful communist regime running over 50 years in the world has rejected state running the business, but continued state “influence” on them. I guess this is the best known method to have state run businesses in all history.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;One way I see state running businesses :&lt;/strong&gt;&lt;br /&gt;
+State’s most powerful attribute is that a low risk bet for state is much bigger than maybe very high risk bet for entrepreneurs. So state can actually start multiple enterprises with small investments, close the ones that fail early and then slowly IPO ones which grow large before they become too big to fail. “Too big to fail” state run companies are the enterprises that generally start bending basic economics as they have power to control supply.&lt;/p&gt;
+
+&lt;p&gt;Net positive returns can be used to compensate for losses made in failed enterprises, for welfare state and investing in more businesses. Of course, rules can be made for “critical” companies to make sure a long term harm of country is avoided.&lt;/p&gt;
+
+&lt;p&gt;Most state run companies in current world somewhat run in this way. At least in India, all governments (state/central) are encouraging startups with a similar model. However, I am not sure how will democracies react to some startups working out, others failing. Technically VC business is built around the concept of low success rate, but large individual successes, but governments will need to explain this logic well to people. Our bureaucracy is too risk averse and I doubt any of these government policies will be implemented at large scales because no government officer wants to get fired for funding one wrong startup.&lt;/p&gt;
+
+&lt;p&gt;What states should necessarily avoid is state run monopolies and employees without any incentives/loss in case of success/failure of companies they work for. If these two remain, even if state is ready to take bets, all bets are very likely to fail. This is what most governments forget and fail at. No one really gets fired at post office for speaking rudely to the poor person who still needs to use post office, no one is asked why post office is making a loss. That’s what needs to change. State run companies should not be looked at just a way to provide employment, they should be required to run profitable/no profit no loss and comply with other metrics.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-answer-to-what-should-you-know-about-google-trying-to-track-your-data&quot;&gt;My answer to “What should you know about Google trying to track your data?”&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here : &lt;a href=&quot;https://qr.ae/pNZroc&quot;&gt;https://qr.ae/pNZroc&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You should know while you should be concerned about your data being tracked (and the potential big tech has to exploit your data) and you might want to cut out some of the data Google knows about you, not all of “surveillance capitalism” as they call it is evil. There is definitely a way for big tech to target and harm people who don’t conform to what they think is right (and that is why governments, courts and legislatures exist, to make sure discrimination doesn’t happen, we definitely need regulations around this), but that doesn’t mean the entire industry is rigged against the users and there is some evil mastermind trying to manage our lives as a few recently released documentaries show.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-10-30-Reflections-on-Econopolitics-About-isms-and-acys/media/image58.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You are able to find more relevant search results because of some of this data, better offers from different businesses and so on. Be informed that there are experts, powerful people, who could use all the technical terms and blabber their way into being called “customer whisperers”, who used to profit off all the benefits ads based advertisement redirects directly to internet users and they will come up with strong appealing reasons to distrust the entire online advertising industry so that they can go back to the old ways of making money.&lt;/p&gt;
+
+&lt;p&gt;The best place is somewhere in middle, where customers can get the benefits of sharing their data and there are strong laws to make sure this data is not used negatively against them.&lt;/p&gt;</content><author><name></name></author><summary type="html">My answer to “Doesn’t the free market provided by capitalism inherently discourage free and unbiased media (because free market supports greed)?”</summary></entry><entry><title type="html">Thoughts On Non Ai Deeptech</title><link href="https://muktabh.xyz/2020/10/10/Thoughts-On-Non-AI-DeepTech.html" rel="alternate" type="text/html" title="Thoughts On Non Ai Deeptech" /><published>2020-10-10T00:00:00-05:00</published><updated>2020-10-10T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/10/10/Thoughts-On-Non-AI-DeepTech</id><content type="html" xml:base="https://muktabh.xyz/2020/10/10/Thoughts-On-Non-AI-DeepTech.html">&lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;###&lt;/p&gt;
 
@@ -3551,7 +3783,7 @@ Solution is not to stop Facebook, but rather redressing grievances of commoners.
 
 &lt;h3 id=&quot;q-can-a-non-technical-person-start-an-ai-startup&quot;&gt;Q. Can a non-technical person start an AI startup?&lt;/h3&gt;
 
-&lt;p&gt;Originally answered here: &lt;a href=&quot;&quot;&gt;https://qr.ae/pNVKCz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Originally answered here: https://qr.ae/pNVKCz&lt;/p&gt;
 
 &lt;p&gt;Yes. They can.&lt;/p&gt;
 
@@ -3563,7 +3795,7 @@ Solution is not to stop Facebook, but rather redressing grievances of commoners.
 
 &lt;h3 id=&quot;q-how-hard-is-it-to-find-and-hire-people-with-great-ai-skills-or-expertise-for-a-new-ai-startup&quot;&gt;Q. How hard is it to find and hire people with great AI skills or expertise for a new AI startup?&lt;/h3&gt;
 
-&lt;p&gt;Originally answered here : &lt;a href=&quot;&quot;&gt;https://qr.ae/pNcncP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Originally answered here : https://qr.ae/pNcncP&lt;/p&gt;
 
 &lt;p&gt;Very. At least for now, most people in these fields have expectations to work at a FAANG company with a FAANG salary. That is extremely hard to afford.&lt;/p&gt;
 
@@ -3586,7 +3818,7 @@ Solution is not to stop Facebook, but rather redressing grievances of commoners.
 
 &lt;h3 id=&quot;q-how-can-we-get-data-for-a-machine-learning-startup&quot;&gt;Q. How can we get data for a machine learning startup?&lt;/h3&gt;
 
-&lt;p&gt;Originally answered here: &lt;a href=&quot;&quot;&gt;https://www.quora.com/How-can-we-get-data-for-a-machine-learning-startup?top_ans=254282506&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Originally answered here: https://www.quora.com/How-can-we-get-data-for-a-machine-learning-startup?top_ans=254282506&lt;/p&gt;
 
 &lt;p&gt;Figuring out where to get the initial training data from is one the hard things in a Machine Learning startup. Its as hard as figuring out a product market fit (or maybe somewhat easier but still quite hard).&lt;/p&gt;
 
@@ -3640,12 +3872,16 @@ Solution is not to stop Facebook, but rather redressing grievances of commoners.
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Read about the rest of the ecosystem. Its slightly easier if you are going in flow and in sync with what is trendy these days. EdTech for example will yield more funding than Tourism based ideas in November 2020 : &lt;a href=&quot;https://www.quora.com/Does-Edtech-industry-really-got-a-boom-due-to-Covid-19-since-most-people-started-learning-online/answer/Muktabh-Mayank?ch=10&amp;amp;share=3e8e31eb&amp;amp;srid=qie&quot;&gt;Muktabh Mayank’s answer to Does Edtech industry really got a boom due to Covid 19 since most people started learning online?&lt;/a&gt;&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;h3 id=&quot;q-which-do-you-think-is-better-for-an-entrepreneur-planning-to-create-tech-startups-an-mba-or-a-cs-degree-and-why&quot;&gt;Q. Which do you think is better for an entrepreneur planning to create tech startups; an MBA or a CS degree? And why?&lt;/h3&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&quot;q-which-do-you-think-is-better-for-an-entrepreneur-planning-to-create-tech-startups-an-mba-or-a-cs-degree-and-why&quot;&gt;Q. Which do you think is better for an entrepreneur planning to create tech startups; an MBA or a CS degree? And why?&lt;/h3&gt;
-
-&lt;p&gt;Originally answered here: &lt;a href=&quot;&quot;&gt;https://qr.ae/pNaYyn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Originally answered here: https://qr.ae/pNaYyn&lt;/p&gt;
 
 &lt;p&gt;This is going to be very subjective so take this with a grain of salt. My life experience doesn’t necessarily model the world.&lt;/p&gt;
 
@@ -3694,7 +3930,88 @@ Solution is not to stop Facebook, but rather redressing grievances of commoners.
 
 &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Hasura&quot;&gt;Hasura - Wikipedia&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-09-30-Advice-to-youngsters-who-are-starting-engineering-education-now-and-Aspire-for-a-career-in-Data-Science-AI-or-Entrepreneurship/media/image7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Collecting my answers from Quora, where I advice young students getting into engineering now and aspiring to build a career in Data Science, AI or Programming.</summary></entry><entry><title type="html">Startups During Pandemic Disruption</title><link href="https://muktabh.xyz/2020/09/12/Startups-During-Pandemic-Disruption.html" rel="alternate" type="text/html" title="Startups During Pandemic Disruption" /><published>2020-09-12T00:00:00-05:00</published><updated>2020-09-12T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/09/12/Startups-During-Pandemic-Disruption</id><content type="html" xml:base="https://muktabh.xyz/2020/09/12/Startups-During-Pandemic-Disruption.html">&lt;h3 id=&quot;my-answer-to-what-is-the-effect-of-the-covid-19-pandemic-on-ai-based-startups&quot;&gt;My answer to “What is the effect of the covid-19 pandemic on AI-based startups?”&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-09-30-Advice-to-youngsters-who-are-starting-engineering-education-now-and-Aspire-for-a-career-in-Data-Science-AI-or-Entrepreneurship/media/image7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;q-can-you-get-a-good-programming-job-in-india-within-3-months-if-you-have-never-programmed-before-but-are-a-quick-learner&quot;&gt;Q. Can you get a good programming job in India within 3 months if you have never programmed before but are a quick learner?&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here : &lt;a href=&quot;&quot;&gt;https://qr.ae/pNaNPe&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;“Can you get a good programming job ?” I don’t think so.&lt;/p&gt;
+
+&lt;p&gt;“Can you get an entry level programming job ?” I think this is possible given that you are able to become comfortable with programming.&lt;/p&gt;
+
+&lt;p&gt;Please remember programming is like learning a language (say English). Very few ‘good’ jobs are given on the basis that someone knows a language. You need to understand the domain : hospitality, education, multimedia, journalism etc. along with knowledge of English to get a good job. But that said, you can be an intern at a newspaper or a trainee at a hotel and learn about the domain there.&lt;/p&gt;
+
+&lt;p&gt;Similarly, after learning programming, you can get an entry level job as a web developer, data engineer, data scientist, embedded systems engineer etc. But you will have to gain expertise in the particular field along with programming to get a good job.&lt;/p&gt;
+
+&lt;h3 id=&quot;q-whats-the-difference-between-an-iitian-who-gets-a-yearly-package-in-crores-and-a-first-generation-entrepreneur&quot;&gt;Q. What’s the difference between an IITian who gets a yearly package in crores and a first generation entrepreneur?&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here : &lt;a href=&quot;&quot;&gt;https://qr.ae/pNJvvv&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I graduated from my college with a better than average job offer and then worked for 2 years before I quit to start my own company. So, I can probably answer this question from both sides.&lt;/p&gt;
+
+&lt;p&gt;I am not an IITian, but I am a first generation entrepreneur. Also, I did not get package in crores after my college so I cannot tell how much a crore rupees in your bank account looks like. {Frankly, a package in crores in only for people who are joining companies on the US west coast where cost of living is very very high, so its much less money than probably what you might expect it to be !}. Another person I know very well qualifies exactly for the question [IITian, package in crores, came back to India to become a first time entrepreneur]. So I will try to put my observation of them in this answer too.&lt;/p&gt;
+
+&lt;p&gt;About job and building a company :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Building a company is much harder and requires much more patience than day to day job. So, you will probably never be able to start your own company if you are working on something you are not passionate about. It is just too much of a responsibility, you cannot do it part time or do it without interest. The same amount of passion which you possibly feel about your college crush or cracking JEE is needed, possibly for more time.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Despite a day-to-day job being relatively easier, it is much more frustrating. People feel bad about weekend ending when working in a company, in a startup they can work all weekend and then the next week.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Building a startup requires much more thick skin. If someone says something to you in a day job you might feel bad (and maybe quit in search of better company culture), 10s of people will criticize your product in a startup and you will probably have to convince and sell to these same people.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Building a startup is much more risky. I am not going to sugar coat it for you, but you might seriously be behind your peers in terms of income while possibly being ahead of them in wealth. This is a unique scenario as most Indians [and people from families of first time entrepreneurs] equate social status with income and not wealth. 2–3 years down into a startup and unless you are very lucky you might be living a less “lavish” lifestyle than your peers, for some small probability that you ca become super rich in furture. Also wealth [valuation of your stock] you accumulate in a startup is very high risk, as its all eggs in one basket, your company might close and cash flow of your company is effected due to COVID disruption, and your wealth might become zero.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Also the dedication required in a startup effects your social life. If an introvert in a regular job gets 5/10 in social life, an introvert in a startup would get 2/10 at best. If they are getting more than this, they are not putting enough effort IMO.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Its not just you who is taking risk as a Data Scientist, its your family, your significant other and other near and dear ones. You will need to sell your vision and care about getting outcomes in time to make your way ahead and keep everyone interested.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Startup is what the authors of Freaknomics call “Tournament” lifestyle, you are either on top [in 1% or 0.1% cases] or you are behind average. Day to day job keeps one close to the average. Average [after passing out of IIT] is not bad by the way. Most people are thus like “why take risks ?”&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Understand more about Tournament lifestyle here : &lt;a href=&quot;https://www.quora.com/How-can-I-stand-out-as-a-machine-learning-artificial-intelligence-engineer-in-India-Additional-details-in-comments/answer/Muktabh-Mayank&quot;&gt;Muktabh Mayank’s answer to How can I stand out as a machine learning/artificial intelligence engineer in India? Additional details in comments.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Another essay you might find interesting : &lt;a href=&quot;https://www.quora.com/Everyone-says-India-needs-more-entrepreneur-But-the-same-people-want-their-friend-or-child-to-be-in-a-big-company-or-a-good-government-job-Why/answer/Muktabh-Mayank&quot;&gt;Muktabh Mayank’s answer to Everyone says “India needs more entrepreneur”. But the same people want their friend or child to be in a big company or a good government job. Why?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;q-how-can-i-start-my-own-startup-using-artificial-intelligence&quot;&gt;Q. How can I start my own startup using artificial intelligence?&lt;/h3&gt;
+
+&lt;p&gt;Originally answered here : &lt;a href=&quot;&quot;&gt;https://qr.ae/pNbEW5&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It will take decades/centuries before AI can just let you start a full company. Like “Jarvis, start a company which does X!”. I think that was not being asked in the question in the first place, but just in case.&lt;/p&gt;
+
+&lt;p&gt;Typical method I think you can use while starting a business where you want to use AI as a tool :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Know about what can be done using current advances in AI.&lt;/strong&gt; A typical rule of thumb as of 2020 is anything which humans take a few seconds to take a decision can be done by existing AI techniques too. Don’t read MSM coverage of AI, its often plain wrong, read research or close to research tech articles to understand what is actually possible and what is hype (There is a lot of hype). Stay away from things that follow a &lt;a href=&quot;https://en.wikipedia.org/wiki/Fat-tailed_distribution&quot;&gt;Fat-tailed distribution - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;(like predicting success) and do &lt;a href=&quot;https://en.wikipedia.org/wiki/Phrenology&quot;&gt;Phrenology - Wikipedia&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;(detecting psychology from appearances). Typical usecases of currently existing AI algorithms are recognizing stuff in images, reading / classifying and responding to text, catching out of ordinary patterns in data (customer churn / credit default guesses), understanding and responding to human speech etc.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Make a list of problems:&lt;/strong&gt; Make a list of real world problems where there are inefficiencies or frustration. See how existing AI can solve the problem. If you want to invent something to solve the problem of your choice, get a research grant, not venture capital. Only build what can be solved by existing AI techniques.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Build a prototype quickly :&lt;/strong&gt; Collect some data and quickly build a prototype. Pick off the shelf AI models. This is very important, as it makes sure you are not all gas.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Approach early adopters and start setting up moats:&lt;/strong&gt; Once you have a prototype, its time to reach out to and find early adopters. Also its time to think of what will be your moat and start taking first steps towards it.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A very detailed set of my observations about what needs to be done after you figure out a business idea can be found here: &lt;a href=&quot;https://muktabh.xyz/2020/08/30/Patterns-I-Noticed-While-Getting-An-AI-Startup-From-Zero-To-One.html&quot;&gt;Patterns I Noticed While Getting An Ai Startup From Zero To One&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Collecting my answers from Quora, where I advice young students getting into engineering now and aspiring to build a career in Data Science, AI or Programming.</summary></entry><entry><title type="html">Startups During Pandemic Disruption</title><link href="https://muktabh.xyz/2020/09/12/Startups-During-Pandemic-Disruption.html" rel="alternate" type="text/html" title="Startups During Pandemic Disruption" /><published>2020-09-12T00:00:00-05:00</published><updated>2020-09-12T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/09/12/Startups-During-Pandemic-Disruption</id><content type="html" xml:base="https://muktabh.xyz/2020/09/12/Startups-During-Pandemic-Disruption.html">&lt;h3 id=&quot;my-answer-to-what-is-the-effect-of-the-covid-19-pandemic-on-ai-based-startups&quot;&gt;My answer to “What is the effect of the covid-19 pandemic on AI-based startups?”&lt;/h3&gt;
 
 &lt;p&gt;Originally Answered here: &lt;a href=&quot;https://qr.ae/pNC3bb&quot;&gt;https://qr.ae/pNC3bb&lt;/a&gt;&lt;/p&gt;
 
@@ -4404,546 +4721,4 @@ Solution is not to stop Facebook, but rather redressing grievances of commoners.
 
 &lt;p&gt;However, there are other technologies, which involve “AI making AI” and are apt to the automatic-shift vs Manual Shift analogy in AI. If you want to read more about these technologies, good terms to look for are &lt;em&gt;AutoML&lt;/em&gt;, &lt;em&gt;Automated Machine Learning&lt;/em&gt; (both these terms used in automation of traditional machine learning) and &lt;em&gt;Neural Architecture Search&lt;/em&gt; (specific term for Deep Learning). These techniques are not really making writing AI easier for all engineers, but are making writing all AI easier for just a few smart engineers. So just like we are automating some parts of jobs of Software Developers, BPOs, web designers, cab drivers, we are automating low skill AI tasks too.&lt;/p&gt;
 
-&lt;p&gt;These AutoML techniques are still AI algorithms, which instead of solving a problem directly, learn to develop a problem solver. Just like some humans can better look at an image and describe it as compared to an AI algorithm, there are Machine Learning practitioners who can beat AutoMLtechniques easily as of now (Otherwise, AutoML would win all Machine Learning competitions). There is still art in smart Human Observation and Intuition which these algorithms are far from beating. What AutoML is good at right now is finding out good enough solutions, so you don’t need an engineer for every single Data Learning problem. However, this is where cheap and efficient hardware (specially very efficient ones like Neurons on Chip hardware) can come in handy. One limiting factor of AutoML (even today) is compute. Efficient Hardware can give computers extreme power to do what computers are really good at for cheap money in the field of AutoML, that is, trial-and-error for learning what humans try to solve by wisdom and intuition. Apart from making AI technology cheaper, this is where I see the greatest potential of AI hardware, scaling up AutoML to actually start getting “superb” results from “good” results like right now.&lt;/p&gt;</content><author><name></name></author><summary type="html">I wrote this as an explanation of how AI specific hardware (in fact also how any hardware) works in combination with the Software and how it might effect AI startups in short term and long term.</summary></entry><entry><title type="html">Observations On Ongoing Coronavirus Pandemic</title><link href="https://muktabh.xyz/2020/06/10/Observations-on-ongoing-coronavirus-pandemic.html" rel="alternate" type="text/html" title="Observations On Ongoing Coronavirus Pandemic" /><published>2020-06-10T00:00:00-05:00</published><updated>2020-06-10T00:00:00-05:00</updated><id>https://muktabh.xyz/2020/06/10/Observations-on-ongoing-coronavirus-pandemic</id><content type="html" xml:base="https://muktabh.xyz/2020/06/10/Observations-on-ongoing-coronavirus-pandemic.html">&lt;p&gt;This is a combination of many recent Quora answers of mine related to ongoing COVID19 pandemic.&lt;/p&gt;
-
-&lt;h3 id=&quot;my-answer-to-what-is-herd-immunity-and-how-can-it-be-effective-for-countries-like-india-&quot;&gt;My answer to “What is herd immunity, and how can it be effective for countries like India? ”&lt;/h3&gt;
-
-&lt;p&gt;Originally answered here: &lt;a href=&quot;https://qr.ae/pNywoi&quot;&gt;https://qr.ae/pNywoi&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;“Herd Immunity” is a state of a communicable disease (epidemic/pandemic) where enough people from the susceptible population have become immunity-wise resistant to the disease so as to not to spread it to more venerable people of society who have weak immunity or who cannot develop immunity (Cancer patients, little children, seniors etc.). These venerable people are typically at more risk during the outbreak.&lt;/p&gt;
-
-&lt;p&gt;Once this state is reached, it will end up confining the disease in small pockets of low resistance and pandemic would end as such. Reaching Herd Immunity is thus how any communicable disease will be controlled in the long run. However, how we reach herd immunity is more important than we think. There are people with crazy theories about reaching herd immunity (like injecting young healthy people with virus etc.), however, if there is one thing you should take away from this answer, it is “&lt;em&gt;Herd Immunity without vaccine is a Joke for a contagious disease”.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Let’s say for the most contagious diseases out there like measles, if we don’t have a vaccine, how many people need to get infected before herd immunity is achieved. Answer is around 95% of the population. COVID19 is less contagious than measles (but more so than the flu) and hence around 70% of the people need to get infected for herd immunity to be achieved. Think of 70% of 1.3 Billion getting (around 900 million or 90 Crore people) sick if one wants to achieve herd immunity this way. Think of the number of people losing their lives if this happens (3% of 90 Crore is 3 Crore if you try to estimate by Indian numbers and assume that the curve would stay flattened not making the mortality ratio higher)&lt;/p&gt;
-
-&lt;p&gt;Another big assumption in the 70% population who get sick develop long term immunity. We are not sure of the fact that a person who gets cured of COVID19 is immune to the disease in the long term, heck the pandemic just started spreading few months back. “&lt;em&gt;Absence of Evidence is not Evidence of Absence”&lt;/em&gt;. There were some news (not supported too scientifically) that some cured people in South Korea contracted COVID19 again. Other species of Coronavirus that cause common cold dont seem to make humans develop any long term immunity. Everyone contracts cold once or twice a year, every year. If such is the case, you cannot achieve herd immunity ever despite infecting everyone !&lt;/p&gt;
-
-&lt;p&gt;We also don’t have any records of long term effects the COVID19 infections are causing. &lt;del&gt;It seems there are none as of now, but what if it weakens some bodily function in the long run ? 70% people weak in a country will be very bad.&lt;/del&gt; It seems many people have long term consequences even after they are cured off CoronaVirus. Think of many people in country developing these long term problems : &lt;a href=&quot;https://twitter.com/devisridhar/status/1268240519227981828&quot;&gt;https://twitter.com/devisridhar/status/1268240519227981828&lt;/a&gt; .&lt;/p&gt;
-
-&lt;p&gt;So if we race towards herd immunity blindly, it might turn out to be a disaster. We need to do more scientific research, understand whether immunity is long term / short term and accordingly we need to build onetime/recurrent vaccination regime.&lt;/p&gt;
-
-&lt;p&gt;With the recent success of Moderna in initial vaccine trials and confidence of Indian vaccine makers, I think there is a reason to believe that India will be able to build Herd Immunity around COVID19 in maybe 12–18 months. Till then we have to take precautions and maintain social distancing.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://twitter.com/adarpoonawalla/status/1262646441983401984&quot;&gt;Adar Poonawalla on Twitter&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This would be what helps us to build Herd Immunity.&lt;/p&gt;
-
-&lt;p&gt;Refs :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.sciencealert.com/why-herd-immunity-will-not-save-us-from-the-covid-19-pandemic&quot;&gt;Here’s Why Herd Immunity Won’t Save Us From The COVID-19 Pandemic&lt;/a&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;https://www.modernatx.com/sites/default/files/RNA_Vaccines_White_Paper_Moderna_050317_v8_4.pdf&quot;&gt;https://www.modernatx.com/sites/default/files/RNA_Vaccines_White_Paper_Moderna_050317_v8_4.pdf&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;my-answer-to-why-is-covid-19-spreading-relatively-slowly-in-india&quot;&gt;My answer to “Why is COVID-19 spreading relatively slowly in India?”&lt;/h3&gt;
-
-&lt;p&gt;This was written during the lockdowns, after removal of lockdowns, the rate seems to have fastened a bit. Original answer here: &lt;a href=&quot;https://qr.ae/pNKNR5&quot;&gt;https://qr.ae/pNKNR5&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;As of now (26th April 2020), I would agree that India has been able to somewhat slow the growth of COVID19.&lt;/p&gt;
-
-&lt;p&gt;Some things I think which have contributed to it are:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;(Most if not all) People listen to government. They don’t think that government is sitting and doing nothing and they are cooperating with whatever steps government takes, despite inconveniences. You can see the support for government at very grassroot levels.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Indians deal with more communicable disease outbreaks than western countries due to tropical climate and high population. ( &lt;a href=&quot;https://en.wikipedia.org/wiki/2018_Nipah_virus_outbreak_in_Kerala&quot;&gt;2018 Nipah virus outbreak in Kerala - Wikipedia&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/2019_Bihar_encephalitis_outbreak&quot;&gt;2019 Bihar encephalitis outbreak – Wikipedia&lt;/a&gt; ). They were never thinking of COVID19 as “just another flu”.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Lockdowns have been very effective. Except for some idiots and a few religious zealots, the country has taken social distancing carefully. Poor people have displayed real fortitude.&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;
-        &lt;h3 id=&quot;my-answer-to-how-can-machine-learning-aid-in-corona-virus-detection-and-prevention&quot;&gt;My answer to “How can machine learning aid in corona virus detection and prevention?”&lt;/h3&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Originally answered here: https://qr.ae/pNKNRS&lt;/p&gt;
-
-&lt;p&gt;I have written an extensive answer here : &lt;a href=&quot;https://www.quora.com/How-can-machine-learning-help-against-COVID-19/answer/Muktabh-Mayank&quot;&gt;Muktabh Mayank’s answer to How can machine learning help against COVID-19?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I will just copy it so that you dont have to click the link :&lt;/p&gt;
-
-&lt;p&gt;AI and Machine Learning can help in many ways against COVID 19 :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Diagnostics :&lt;/strong&gt; It can help doctors read slides, XRays , CT Scans faster by making things simpler for them by pre-categorizing scans as +, - , confusing etc. Here is a dataset to create a COVID19 detector in XRays : &lt;a href=&quot;https://github.com/ieee8023/covid-chestxray-dataset&quot;&gt;ieee8023/covid-chestxray-dataset&lt;/a&gt;&lt;/p&gt;
-
-  &lt;p&gt;. Some relevant discussion on Fast AI : &lt;a href=&quot;https://forums.fast.ai/t/notebook-covid-19-x-ray-3-7-error-rate/66557&quot;&gt;Notebook COVID-19 x-ray 3.7% error rate&lt;/a&gt;. Here is an RSNA paper to detect COVID19 from CT Scans: &lt;a href=&quot;https://pubs.rsna.org/doi/10.1148/radiol.2020200905&quot;&gt;https://pubs.rsna.org/doi/10.1148/radiol.2020200905&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Triage:&lt;/strong&gt; As you know that test kits for COVID19 are a important resource. Due to this their usage is rationed and triaged. A classifier can be trained to determine whether a person showing features should be tested or kept in quarentine immediately based on the locality they live in, their day-to-day interaction with people, their closest COVID19 case and other variables. An example project here: &lt;a href=&quot;https://www.interacademies.org/news/machine-learning-rapid-triaging-covid-19-front-door-hospitals-request-data&quot;&gt;Machine learning for rapid triaging of Covid-19 at the front door of hospitals: request for data&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Forecasting:&lt;/strong&gt; Bayesian Modelling (and other Machine Learning models) can be used to forecast various effects of the pandemic. Here is some analysis by Thomas Wiecki analyzing growth. &lt;a href=&quot;https://www.quantopian.com/posts/covid-19-growth-analysis&quot;&gt;COVID-19 Growth Analysis&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;. SIR models used to model epidemics are not exactly Machine Learning, but rather simulations and differential equations, but its quite interesting to see for people interested in Maths and Data.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Discovering Drugs and Proteins:&lt;/strong&gt; AI can help test different drugs proteins against COVID19. You might have heard of the Deepmind AlphaFold algorithm which came out a few days back: &lt;a href=&quot;https://techxplore.com/news/2020-01-alphafold-protein.html&quot;&gt;AlphaFold makes its mark in predicting protein structures&lt;/a&gt;&lt;/p&gt;
-
-  &lt;p&gt;. Its now being used to predict protein structures for COVID 19: &lt;a href=&quot;https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19&quot;&gt;Computational predictions of protein structures associated with COVID-19&lt;/a&gt; . Such a Just in Time discovery. Another way is using Generative AI to create new possible compounds that can fight the disease: &lt;a href=&quot;https://singularityhub.com/2017/11/19/drug-discovery-ai-to-scour-a-universe-of-molecules-for-wonder-drugs/&quot;&gt;Drug Discovery AI to Scour a Universe of Molecules for Wonder Drugs&lt;/a&gt; and &lt;a href=&quot;https://www.expresscomputer.in/news/tcs-partners-with-csir-to-design-ai-based-drug-discovery-process-for-covid-19/51647/&quot;&gt;TCS partners with CSIR to design AI based drug discovery process for COVID-19 - Express Computer&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;are some relevant pieces of news.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Sifting Available Research:&lt;/strong&gt; Many high priority questions whose answers are needed to solve COVID19 could have already been worked on some scientists who probably don’t even know their work can save the world. This is an immense matchmaking problem. Text Mining/ Machine Learning approaches can help sift through huge research literature to find out what’s already known and can be used. There is a huge dataset on Kaggle (curated by some really serious people) where Data Scientists can participate and help discover answers : &lt;a href=&quot;https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge&quot;&gt;COVID-19 Open Research Dataset Challenge (CORD-19)&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Quick Testing:&lt;/strong&gt; A brilliant idea of doing a basic screening by recording sounds of breath may be achieved by Deep Learning. This can screen people on a smartphone, at their homes, for almost zero cost, without spending any money for procuring test kits, at whatever scale is desired. A project by NYU/FAIR to collect data has started here: &lt;a href=&quot;https://www.breatheforscience.com/&quot;&gt;Breathe for science&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;my-answer-to-how-many-countries-are-working-on-the-covid-19-vaccine-has-anyone-succeeded-so-far&quot;&gt;My answer to “How many countries are working on the COVID-19 vaccine? Has anyone succeeded so far?”&lt;/h3&gt;
-
-&lt;p&gt;Originally answered here: &lt;a href=&quot;https://qr.ae/pNKNR3&quot;&gt;https://qr.ae/pNKNR3&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;There are over 120 potential vaccines for CoronaVirus being developed : &lt;a href=&quot;https://www.who.int/who-documents-detail/draft-landscape-of-covid-19-candidate-vaccines&quot;&gt;Draft landscape of COVID-19 candidate vaccines&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;.&lt;/p&gt;
-
-&lt;p&gt;10 of them are in clinical trials now.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;What the person asking the question doesn’t understand is that unlike defense or nuclear engineering, “industrial” research in the world is almost never restricted by country boundaries. In fact, most research in vaccines is driven by financial incentive of making money for investors out of it. A lot of these vaccines are being developed by a collaboration of companies headquarters in different countries (and their research facilities located in sometimes countries where they are not officially from). Unlike say Socialist (Political Capitalist ?) China (whose public companies are sometimes still collaborating with other companies and countries), western Capitalism doesn’t work on National desires or needs or government policies, but, cater to simple supply-demand. Countries are incentivizing companies by making the financial outcome more lucrative at best : &lt;a href=&quot;https://www.cnbc.com/2020/05/21/coronavirus-us-gives-astrazenena-1-billion-for-oxford-vaccine.html&quot;&gt;AstraZeneca receives $1 billion in U.S. funding for Oxford University coronavirus vaccine&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;$1B, AstraZeneca must be US company right ? (Because Oxford sure as hell is not in US). &lt;strong&gt;No.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So no, unlike how probably some countries (or people) might be thinking of making vaccine as a new “Space Race”, its actually just a bid to make a good early bird into market.&lt;/p&gt;
-
-&lt;p&gt;Let’s speak about 3 promising candidate vaccines ::&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Oxford-AstraZeneca vaccine:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The above mentioned &lt;em&gt;Oxford-AstraZeneca vaccine&lt;/em&gt; is one of the promising ones. It is a “Non-Replicating Viral Factor”, that is it doesn’t really introduce any multiplying genetic material of virus into the body but rather will teach the immune system to target other structures of the virus, like the spike protein. That is done by introducing weakened Adenoviruses (which dont cause any disease in humans) with material to produce CoronaVirus like spike proteins.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.livescience.com/coronavirus-spike-protein-structure.html&quot;&gt;Coronavirus ‘spike’ protein just mapped, leading way to vaccine&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It has been proven to be safe for humans in first few trials and larger trials are now starting in Brazil. (The current epicenter of the disease).&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://medicalxpress.com/news/2020-06-brazil-oxford-coronavirus-vaccine.html&quot;&gt;Brazil to help test Oxford coronavirus vaccine&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;However, we still don’t know if medicine works. All we know is that it is safe. It doesn’t work well in monkeys and if it were an ideal world, the vaccine would not have been tested anymore.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.thehindu.com/news/national/potential-oxford-vaccine-fails-to-prevent-virus-spread-in-monkeys/article31617852.ece&quot;&gt;Potential Oxford vaccine fails to prevent coronavirus spread in monkeys, but protects from pneumonia&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;You now understand probably why we need many parallel vaccine candidates. (And also understand that the most promising vaccine we have is ineffective on monkeys with COVID19 infection).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Moderna vaccine:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The other vaccine which is promising is the &lt;em&gt;Moderna mrna&lt;/em&gt; based vaccine.&lt;/p&gt;
-
-&lt;p&gt;Moderna is a US startup (or you can call it a relatively smaller public pharma company, quite tiny as compared to other big Pharma involved).&lt;/p&gt;
-
-&lt;p&gt;The clever thing about Moderna vaccine is the technique it uses. It literally genetically engineers human cells to produce material that would trigger an immune response to COVID19 infection. (Which is done by infecting humans with a genetically engineered bacteria). The genetic material introduced into humans for producing this immune response for CoronaVirus is not actually its DNA/RNA but rather its mRNA (mitochondrial RNA). This makes sure that no replication of CoronaVirus genetic material occurs (mrna doesnt cause replication), while the immune cells learn to recognize the CoronaVirus components and kill the cells containing them. This technique is new and has never been used for any vaccine before COVID19.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;table&gt;
-    &lt;tbody&gt;
-      &lt;tr&gt;
-        &lt;td&gt;The initial results (according to Moderna and Dr. Fauci) seem to be promising. [Moderna Announces Positive Interim Phase 1 Data for its mRNA Vaccine (mRNA-1273) Against Novel Coronavirus&lt;/td&gt;
-        &lt;td&gt;Moderna, Inc.](https://investors.modernatx.com/news-releases/news-release-details/moderna-announces-positive-interim-phase-1-data-its-mrna-vaccine)&lt;/td&gt;
-      &lt;/tr&gt;
-    &lt;/tbody&gt;
-  &lt;/table&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;However, that is just data that company has released. As of now, I don’t know about if they have an official publication for the results of study. That is what a lot of people are complaining about as well.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.statnews.com/2020/05/19/vaccine-experts-say-moderna-didnt-produce-data-critical-to-assessing-covid-19-vaccine/&quot;&gt;Vaccine experts say Moderna’s Covid-19 data leave big questions&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Moderna has started its Phase 2 trials and Phase 3 trials will start in July.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.clinicaltrialsarena.com/news/moderna-phaseii-vaccine-trial/&quot;&gt;Moderna starts dosing in Phase II Covid-19 vaccine trial&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image8.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.firstpost.com/health/moderna-to-begin-phase-3-trials-in-july-oxford-to-test-chadox1-on-children-all-you-need-to-know-about-covid-19-vaccines-in-the-works-8443411.html&quot;&gt;Moderna to begin phase 3 trials in July, Oxford to test Chadox1 on children: All you need to know about COVID-19 vaccines in the works - Firstpost&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image9.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sinovac Vaccine:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Now lets see about the Sinovac vaccine. Sinovac as it sounds from the name, is a Chinese public company. It has more than one candidate vaccine but there is one for which it has made some public data available. &lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2020.04.17.046375v1&quot;&gt;Rapid development of an inactivated vaccine for SARS-CoV-2&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;. The paper claims that SinoVac vaccine cures monkeys from COVID19, something that Oxford vaccine could not.&lt;/p&gt;
-
-&lt;p&gt;The vaccine works by first multiplying and then killing SARS-COV-2 viruses by dipping them into an organic chemical and then injecting the dead virus into humans to make immune system learn to fight COVID19. They have started clinical trials too:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://covid-19.chinadaily.com.cn/a/202004/15/WS5e965bb8a3105d50a3d163de.html&quot;&gt;Three COVID-19 vaccines approved for clinical trials&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image10.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This vaccine is also being tried outside China.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.livemint.com/news/world/coronavirus-china-s-sinovac-biotech-in-talks-to-test-covid-19-vaccine-globally-11588937378011.html&quot;&gt;Coronavirus: China’s Sinovac Biotech in talks to test Covid-19 vaccine globally&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image11.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;If you look at the list of potential vaccines, there are vaccine candidates from Europe, Japan, India etc. apart from famous ones like those from US, UK, China based companies.&lt;/p&gt;
-
-&lt;h3 id=&quot;my-answer-to-is-hydroxychloroquine-hype-or-hope&quot;&gt;My answer to “Is hydroxychloroquine hype or hope?”&lt;/h3&gt;
-
-&lt;p&gt;Originally answered here: https://qr.ae/pNKNRd&lt;/p&gt;
-
-&lt;p&gt;From what we know right now, HydroxyChloroquine (HCQ) is one of the most practical methods we have to prevent COVID19 in frontline workers and serious patients.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;There is some indication that it works : &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102549/&quot;&gt;Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial&lt;/a&gt;. It is actually one of the prescriptions in recommended approach to ICU management in COVID19: &lt;a href=&quot;https://www.thelancet.com/journals/lanres/article/PIIS2213-2600\(20\)30161-2/fulltext&quot;&gt;Intensive care management of coronavirus disease 2019 (COVID-19): challenges and recommendations&lt;/a&gt;&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;!-- end list --&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Its side effects are known. Proper trials have been done. So doctors can calculate how much of a tradeoff it is to prescribe.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;It is cheap and can be produced in large quantities. Thus can be used by poor countries, who really have no other alternatives.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Other Anti-Virals that have been proposed have similar “not sure if it works” results with no clinical trials and studies on side effects.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;If this question was asked in context of latest Lancet study : &lt;a href=&quot;https://medicalxpress.com/news/2020-05-hydroxychloroquine-coronavirus-benefit-death.html&quot;&gt;Hydroxychloroquine shows no virus benefit, raises death risk: study&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image12.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Link to the study observations here: &lt;a href=&quot;https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)31180-6/fulltext&quot;&gt;Hydroxychloroquine or chloroquine with or without a macrolide for treatment of COVID-19: a multinational registry analysis&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The issue gathered steam and WHO paused HCQ trials and France and a few other countries stopped prescribing HCQ. (India/Brazil etc still continued the prescriptions).&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This study seems to have some grave issues : &lt;a href=&quot;https://medicalxpress.com/news/2020-05-scientists-hydroxychloroquine.html&quot;&gt;Scientists raise concern over hydroxychloroquine study&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image13.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The dataset for study was not exactly public and was not from a randomized trial. After may scientists expressed concerns, Lancet actually issued doubts about the published study itself: &lt;a href=&quot;https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)31290-3/fulltext&quot;&gt;Expression of concern: Hydroxychloroquine or chloroquine with or without a macrolide for treatment of COVID-19: a multinational registry analysis&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;As of now, WHO trial for HCQ has been restarted (and its result is what we should believe about efficacy of HCQ) and HCQ continues to be prescribed.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://medicalxpress.com/news/2020-06-hydroxychloroquine-coronavirus-trials-resume.html&quot;&gt;The Lancet doubts over hydroxychloroquine study see WHO restart trials&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image14.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So, for now, we still dont have enough data, but given data right now, it seems HCQ is a good bet. Time will tell.&lt;/p&gt;
-
-&lt;h3 id=&quot;my-answer-to-how-plausible-is-it-to-implement-swedens-model-of-herd-immunity-in-a-country-like-india-to-fight-covid-19&quot;&gt;My answer to “How plausible is it to implement Sweden’s model of herd immunity in a country like India to fight COVID-19?”&lt;/h3&gt;
-
-&lt;p&gt;Originally answered here: &lt;a href=&quot;https://qr.ae/pNKN88&quot;&gt;https://qr.ae/pNKN88&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Sweden’s herd immunity model was a failure :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.ndtv.com/world-news/sweden-coronavrus-could-have-done-better-says-man-behind-swedens-covid-19-plan-2240104&quot;&gt;“Could Have Done Better, Clearly,” Says Man Behind Sweden’s COVID-19 Plan&lt;/a&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/world/2020/jun/03/architect-of-sweden-coronavirus-strategy-admits-too-many-died-anders-tegnell&quot;&gt;We should have done more, admits architect of Sweden’s Covid-19 strategy&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image15.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.dailymail.co.uk/news/article-8401823/Swedens-coronavirus-plan-failed-miserably-opposition-politicians-declare.html&quot;&gt;Sweden’s coronavirus plan is a ‘failure’, opposition politicians say&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image16.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;India’s lockdowns on the other hand were quite successful.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://timesofindia.indiatimes.com/world/europe/lockdowns-may-have-averted-3-million-deaths-in-europe-by-curbing-covid-19-study/articleshow/76269187.cms&quot;&gt;Lockdowns may have averted 3 million deaths in Europe by curbing Covid-19: Study - Times of India&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image17.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.livemint.com/news/india/lockdown-saved-as-many-as-71-000-lives-claims-ministry-11590166354449.html&quot;&gt;Lockdown saved as many as 71,000 lives, claims ministry&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image18.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;You can generally see that India’s Corona curve had a consistently falling doubling rate due to quickly implemented lockdowns.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image19.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Source:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://twitter.com/ShamikaRavi/status/1270229327578308608/photo/1&quot;&gt;Prof Shamika Ravi on Twitter&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Compare it to other countries like US and Italy where an immediate lockdown was not imposed. That saved many many lives, unprepared people are the most vulnerable in a pandemic.&lt;/p&gt;
-
-&lt;p&gt;Although the condition is getting worse in Delhi (where most of the media is an thus reports on television have become gloomy), as of now, India seems to be recovering as a whole :&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image20.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Source:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://twitter.com/ShamikaRavi/status/1270228654732296192/photo/1&quot;&gt;Prof Shamika Ravi on Twitter&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Look at other possible paths the curve could have taken. A strategy like Sweden would have required many-many deaths in the country before the disease could have been contained.&lt;/p&gt;
-
-&lt;p&gt;Herd Immunity without vaccine is a joke.&lt;/p&gt;
-
-&lt;h3 id=&quot;my-answer-to-is-the-indian-government-adopting-a-herd-immunity-strategy-by-easing-up-lockdown-restrictions&quot;&gt;My answer to “Is the Indian government adopting a herd immunity strategy by easing up lockdown restrictions?”&lt;/h3&gt;
-
-&lt;p&gt;Originally answered here: &lt;a href=&quot;https://qr.ae/pNKN8G&quot;&gt;https://qr.ae/pNKN8G&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;No. Herd Immunity is not a practical solution : &lt;a href=&quot;https://www.quora.com/What-is-herd-immunity-and-how-can-it-be-effective-for-countries-like-India/answer/Muktabh-Mayank&quot;&gt;Muktabh Mayank’s answer to What is herd immunity, and how can it be effective for countries like India?&lt;/a&gt;. Herd Immunity means exposing (almost) everyone to the virus and waiting to see who comes out alive, that would be disastrous.&lt;/p&gt;
-
-&lt;p&gt;What Indian government is trying to do is to keep the infected numbers to the minimum possible as long as a vaccine/cure is not found out. We had early lockdowns to try:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;If we could just crush the curve. That is have a flattened curve in areas with virus going up. Stop movement of people and make sure the rest of the country could reopen. Eventually the hotzones would cool off too.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;We could produce enough PPEs, Hand Sanitizers, HCQ etc so that we can look after the sick.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Here’s what Crushing the curve is:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Immediate Action&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Travel Restrictions&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Lockdowns&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Test + Isolate&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Wait for curve to slowly go down.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Prof. Yaneer Bar-Yam explaining it below :&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image21.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;https://youtu.be/fXUVFqKKcBM&lt;/p&gt;
-
-&lt;p&gt;While for countries with smaller population, 1 is easy to achieve, that is the infections can be brought down to zero just using lockdowns. it turns out for countries with large populations (We don’t know much about China, but everyone below China in population like India, Indonesia, US, Brazil, Russia…) the amount of lockdowns required is longer (just due to large numbers) to crush the curve altogether. So for example, a country with small population like New Zealand needs to wait lesser to crush the curve than say Indonesia. The patience of people will die after sometime and they stop supporting the lockdowns. India started seeing on-foot movement of people despite all transport disabled and UBI announcements. Public servants and representatives were afraid of lighter government coffers , businessmen became restless and people were slowly more afraid of economy tanking than the virus itself. One cannot thus continue the the lockdowns and travel restrictions. &lt;em&gt;So we are trying to have a midway approach : Reopen and try to restrict infections despite of that.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;What we have been able to do is achieve 2 well:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;table&gt;
-    &lt;tbody&gt;
-      &lt;tr&gt;
-        &lt;td&gt;We now have capability to test lot of people: [India: COVID-19 tests per day&lt;/td&gt;
-        &lt;td&gt;Statista](https://www.statista.com/statistics/1107370/india-coronavirus-covid-19-tests-per-day/)&lt;/td&gt;
-      &lt;/tr&gt;
-    &lt;/tbody&gt;
-  &lt;/table&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image22.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We now have enough PPE capacity :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.thehindu.com/news/national/india-becomes-worlds-second-largest-manufacturer-of-ppe-body-coveralls-next-to-china-government/article31643400.ece&quot;&gt;India becomes world’s second largest manufacturer of PPE body coveralls, next to China: Government&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image23.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We have enough masks and sanitizers in market (remember 2 months back ?)&lt;/p&gt;
-
-&lt;p&gt;However, it seems that community spread has started in Delhi and Mumbai while we have reopened these cities. Both of these cities have very high population density.&lt;/p&gt;
-
-&lt;p&gt;We might have lockdowns in Delhi/Mumbai again while rest of the country reopens.&lt;/p&gt;
-
-&lt;h3 id=&quot;my-answer-to--is-india-successfully-flattening-the-curve-&quot;&gt;My answer to “ Is India successfully ‘flattening the curve’? ”&lt;/h3&gt;
-
-&lt;p&gt;Original answer here: https://qr.ae/pNCrKI&lt;/p&gt;
-
-&lt;p&gt;Based on what “experts” predicted at the start of the pandemic, given India’s infrastructure and capabilities, I guess Yes !&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/themojostory/videos/529703107943201/&quot;&gt;“300-500 million Corona cases in India”&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image24.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We have lost many people, around 75,000 people by early September, but I guess we have controlled the spread as compared to what this expert believed. More about the expert here: &lt;a href=&quot;https://en.wikipedia.org/wiki/Ramanan_Laxminarayan&quot;&gt;Ramanan Laxminarayan - Wikipedia&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Here is Imperial College predicting that 3% of people between 20–30 years would be hospitalized by May 2020 in India : &lt;a href=&quot;https://www.imperial.ac.uk/business-school/ib-knowledge/health/coronavirus-vs-poverty-india-doing-enough-incentivise-isolation&quot;&gt;Coronavirus vs. poverty: Is India doing enough to incentivise isolation?&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image25.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So yes, we had not had the worst possible outbreak. Italy for example had a spike that its health services could not manage despite having the best healthcare system as the curve was steep.&lt;/p&gt;
-
-&lt;p&gt;We first need to understand what “Flattening the Curve” is. (And why its one of the strategies to overcome a pandemic, but not the best). Flattening the Curve basically means to not allow disease to grow faster than how fast a country can expand its health infrastructure. India’s health infrastructure was not really capable to handle the pandemic, so we had to screw up our economics for almost a full quarter and wait for health infrastructure to grow enough to reopen and not starve people to death. Delaying the onset also means we would use clinical care practices other outbreaks would help humanity come up with. So using this definition, for sometime, India has been trying to flatten the curve only. Regular local lockdowns have been imposed if cases grew at a fast velocity in a locality and we have been trying to keep the number of cases in step with the available healthcare. The problem with flattening the curve is that you will see spike in numbers whenever you reopen and it will be an ongoing battle for a long time till a vaccine comes in or we reach herd immunity. I am writing this answer from a remote corner of Uttar Pradesh (a state not really known for its public services’ diligence) and there are free testing booths on every few blocks for free testing and isolation, could not have thought of it say even 3 months back. Herd Immunity is very long drawn stupid battle &lt;a href=&quot;https://www.quora.com/What-is-herd-immunity-and-how-can-it-be-effective-for-countries-like-India/answer/Muktabh-Mayank&quot;&gt;Muktabh Mayank’s answer to What is herd immunity, and how can it be effective for countries like India?&lt;/a&gt; and thus India is actually batting for a vaccine. To answer your question, yes, we are trying to flatten the curve itself. Just that in most flatten the curve graphs you see, there is an assumption of health services being static and hence you see the required infected persons curve to be FLAT. This assumption was for maybe for 2–3 months for a country with a small population, not a Billion people and 3 quarters and hence you dont see “flatness of curve” in India.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;As of 8th September 2020, here is the curve we see: ( taken from &lt;a href=&quot;http://covid19india.org/&quot;&gt;Coronavirus in India: Latest Map and Case Count&lt;/a&gt; )&lt;/p&gt;
-
-  &lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image26.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-  &lt;p&gt;Ok. now what is the best way to get over the pandemic ? it is “Smash the curve”. The austere strict sister of curve flattening. Basically lot of testing, compulsory masks and regional lockdowns before you freely reopen the economy on reaching Zero Cases. Countries with small populations and relatively richer populations have been able to pull it off like NewZealand, but its just hard to stop economic activity in a large country like US, Brazil, India etc without starving the poor and middle class. We would have liked the cases to reach Zero during lockdowns, but some orthodox religious people and other careless covidiots made us elongate the lockdowns and thus later India’s poor and businesses couldn’t bear with the lockdown reducing the efficiency. Net net, you can lockdown only for so long, because it slowly kills your economy, and India was forced to reopen without smashing the curve. The only option we have at this level of pandemic is to flatten the curve. People expecting to see zero cases probably are not understanding how the economy functions maybe.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;More about smash the curve strategy :&lt;/p&gt;
-
-&lt;p&gt;COVID-19: Crush the curve video &lt;a href=&quot;https://t.co/G6KqIsHyJ2&quot;&gt;https://t.co/G6KqIsHyJ2&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;— Yaneer Bar-Yam (@yaneerbaryam) &lt;a href=&quot;https://twitter.com/yaneerbaryam/status/1247195448902930437?ref_src=twsrc^tfw&quot;&gt;April 6, 2020&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5ec2c0a70a471b4ca7e82122/1589821608242/9+Essential+Actions+to+#CrushtheCurve+(Short).pdf&quot;&gt;https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5ec2c0a70a471b4ca7e82122/1589821608242/9+Essential+Actions+to+#CrushtheCurve+(Short).pdf&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;my-answer-to-amongst-this-exponentially-increasing-covid-19-cases-is-unlock-v-a-good-move-why&quot;&gt;&lt;strong&gt;My answer to&lt;/strong&gt; “Amongst this exponentially increasing COVID-19 cases, is unlock V a good move? Why?”&lt;/h3&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Originally answered here: &lt;a href=&quot;https://qr.ae/pNMilQ&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://qr.ae/pNMilQ&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-
-  &lt;p&gt;As of 12th October number of active cases are &lt;strong&gt;coming down&lt;/strong&gt; in India. This has been a trend for last few days. They are not going up, not at all exponentially right now.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;https://twitter.com/hashtag/DailyUpdate?src=hash&amp;amp;ref_src=twsrc^tfw&quot;&gt;&lt;span class=&quot;underline&quot;&gt;#DailyUpdate&lt;/span&gt;&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/COVID19India?src=hash&amp;amp;ref_src=twsrc^tfw&quot;&gt;&lt;span class=&quot;underline&quot;&gt;#COVID19India&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
-Growth rate of active cases = -1.1% &lt;a href=&quot;https://t.co/A1JgQwSGvh&quot;&gt;&lt;span class=&quot;underline&quot;&gt;pic.twitter.com/A1JgQwSGvh&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-
-  &lt;p&gt;— Prof Shamika Ravi (@ShamikaRavi) &lt;a href=&quot;https://twitter.com/ShamikaRavi/status/1315620727731572736?ref_src=twsrc^tfw&quot;&gt;&lt;span class=&quot;underline&quot;&gt;October 12, 2020&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Basically the first wave of the pandemic in India has past its peak. Also the fatality rate of COVID19 has gone down not just in India but in the world:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Case Fatality Rate - falling sharply over time - globally and in India. &lt;a href=&quot;https://t.co/2wHb9yRDqm&quot;&gt;&lt;span class=&quot;underline&quot;&gt;pic.twitter.com/2wHb9yRDqm&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-
-  &lt;p&gt;— Prof Shamika Ravi (@ShamikaRavi) &lt;a href=&quot;https://twitter.com/ShamikaRavi/status/1287306040619356160?ref_src=twsrc^tfw&quot;&gt;&lt;span class=&quot;underline&quot;&gt;July 26, 2020&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-
-  &lt;p&gt;Of course the best way was to just continue the restrictions for more time and let the active cases fall to Zero. &lt;a href=&quot;_blank&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5ec2c0a70a471b4ca7e82122/1589821608242/9+Essential+Actions+to+%23CrushtheCurve+%28Short%29.pdf&lt;/span&gt;&lt;/a&gt;. Just like how NewZealand/Singapore did. However, that is the good thing with relatively rich countries with small populations (and East Asian countries with high Mask compliance due to 2002 CoronaVirus outbreak: &lt;a href=&quot;https://en.wikipedia.org/wiki/2002–2004_SARS_outbreak&quot;&gt;&lt;span class=&quot;underline&quot;&gt;2002–2004 SARS outbreak – Wikipedia&lt;/span&gt;&lt;/a&gt; ). They can restrict economy for enough time till the disease is eliminated. Most large countries on the other hand are playing the seesaw of letting people collect money by reopening for sometime and then closing back again when COVID cases rise in the process, hoping we will have a vaccine in a couple of iterations. Bill Gates thinks by next year sometime, at least the rich countries will be back to normal (if we are not super unlucky and vaccines don’t fail) :&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;https://7news.com.au/business/finance/bill-gates-says-rich-countries-will-be-back-to-normal-by-late-2021-c-1368831&quot;&gt;&lt;span class=&quot;underline&quot;&gt;Bill Gates predicts when rich countries will be ‘back to normal’&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image27.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;With respect to the rest of the world, India stayed close for a very long time. Europe and other cold countries where businesses need to open during summers for people to survive during summers, reopened earlier as soon as cases were declining so that the economy moves and people just don’t die starving. Economy is slightly ok for them now, but second wave of pandemic set in many parts of the world and hence you see news like this :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;JUST IN: 383,359 new cases of coronavirus worldwide, the biggest daily increase since the pandemic began.&lt;/p&gt;
-
-  &lt;p&gt;— The Spectator Index (@spectatorindex) &lt;a href=&quot;https://twitter.com/spectatorindex/status/1315013401437859840?ref_src=twsrc^tfw&quot;&gt;&lt;span class=&quot;underline&quot;&gt;October 10, 2020&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Now the Indian festival season is starting and India is in a similar situation as cold countries were during the summer months. Most sales in India happen during Spetember-November season of festivals and marriage season thenceforth. If India doesn’t open up, earnings will become lesser and more and more people will be pushed towards bankruptcy. Economy is basically me and you going out and spending, that is what makes others earn and spend again and so on. Economy just vanishes in a string lockdown and many people stop making money, while expenses never stop. So its a delicate balance of 2 processes till we have a vaccine: 1. not letting too many people catch disease and 2. not letting too many people get bankrupt.&lt;/p&gt;
-
-&lt;p&gt;Kerala had to reopen due to high economic activity in Onam and they are shooting up now :&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://muktabh.xyz/assets/img/2020-06-10-Observations-on-ongoing-coronavirus-pandemic/media/image28.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Where are NEW cases coming from? &lt;a href=&quot;https://t.co/nkRYx5qYsG&quot;&gt;&lt;span class=&quot;underline&quot;&gt;pic.twitter.com/nkRYx5qYsG&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-
-  &lt;p&gt;— Prof Shamika Ravi (@ShamikaRavi) &lt;a href=&quot;https://twitter.com/ShamikaRavi/status/1315620754570973185?ref_src=twsrc^tfw&quot;&gt;&lt;span class=&quot;underline&quot;&gt;October 12, 2020&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I have no clue what West Bengal is doing but the rest of the states are past their first peak (Delhi past its second peak) and they will now reopen so that people spend, make money and government fills their coffers and betters the infrastructure .&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Let’s hope that India’s mask compliance is high, social distancing is maintained and we don’t get a second wave in other parts of the country. Worst case, the reopening allows people to save and governments to build infrastructure to fight any second wave.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">This is a combination of many recent Quora answers of mine related to ongoing COVID19 pandemic.</summary></entry></feed>
+&lt;p&gt;These AutoML techniques are still AI algorithms, which instead of solving a problem directly, learn to develop a problem solver. Just like some humans can better look at an image and describe it as compared to an AI algorithm, there are Machine Learning practitioners who can beat AutoMLtechniques easily as of now (Otherwise, AutoML would win all Machine Learning competitions). There is still art in smart Human Observation and Intuition which these algorithms are far from beating. What AutoML is good at right now is finding out good enough solutions, so you don’t need an engineer for every single Data Learning problem. However, this is where cheap and efficient hardware (specially very efficient ones like Neurons on Chip hardware) can come in handy. One limiting factor of AutoML (even today) is compute. Efficient Hardware can give computers extreme power to do what computers are really good at for cheap money in the field of AutoML, that is, trial-and-error for learning what humans try to solve by wisdom and intuition. Apart from making AI technology cheaper, this is where I see the greatest potential of AI hardware, scaling up AutoML to actually start getting “superb” results from “good” results like right now.&lt;/p&gt;</content><author><name></name></author><summary type="html">I wrote this as an explanation of how AI specific hardware (in fact also how any hardware) works in combination with the Software and how it might effect AI startups in short term and long term.</summary></entry></feed>
