@@ -4,7 +4,7 @@ Sharing links to a few interviews I gave to some online magazines :
 
 ## StartupsUnplugged Interview
 
-Fun chit chat with college juniors about ParallelDots journey, B2B experience and [off the record] BITS and BITSians
+Fun chit chat with college juniors about ParallelDots journey, B2B experience and {off the record} BITS and BITSians
 
 ![StartupsUnplugged Blog]({{site.baseurl}}/images/SU_BITS.png)
 [Link to the interview]([https://startupsunplugged.medium.com/retailtech-how-paralleldots-shelfwatch-is-modernizing-retail-execution-370b77b5fd8f](https://startupsunplugged.medium.com/retailtech-how-paralleldots-shelfwatch-is-modernizing-retail-execution-370b77b5fd8f))
